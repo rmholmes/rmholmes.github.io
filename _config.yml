@@ -83,7 +83,7 @@ author:
   avatar           : "profile.png"
   bio              : "Physical oceanographer and Climate Scientist"
   location         : "Sydney, Australia"
-  employer         :
+  employer         : "University of New South Wales"
   googlescholar    : "https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en"
   email            : "ryan.holmes@unsw.edu.au"
   uri              :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "HolmesRyanM"
   vine             :
   weibo            :
   xing             :
@@ -166,20 +166,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:

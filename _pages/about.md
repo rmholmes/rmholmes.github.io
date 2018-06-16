@@ -14,10 +14,8 @@ Research Centre](http://www.ccrc.unsw.edu.au/) and the [School of
 Mathematics and
 Statistics](https://www.maths.unsw.edu.au/about/applied-mathematics)
 at the [University of New South Wales](https://www.unsw.edu.au/). I
-received my PhD in physical oceanography from Stanford University in
-March 2016. I did my undergraduate degree in Physics at the Australian
-National University, with a study abroad year at the University of
-California Santa Barbara.
+study the physics of ocean circulation using a range of idealized and
+realistic ocean models.
 
 ## Research Interests
 
