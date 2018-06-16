@@ -93,8 +93,10 @@ Leif Thomas. [PDF Link](https://purl.stanford.edu/qj214kp4156)
 
 ### Honours Thesis
 Holmes R. M. (2010) The Morphology of Single Chain Asymmetric Block
-Copolymers in Poor Solvents (pdf), *Australian National University*,
-Supervisor: Professor David R. M. Williams
+Copolymers in Poor Solvents, *Australian National University*,
+Supervisor: Professor David R. M. Williams. [PDF Link]({{ site.url
+}}/files/Ryan_Holmes_Honours_Thesis.pdf)
+
 
 # Media Articles
 ___
