@@ -33,7 +33,7 @@ circulation and influence how heat and other tracers are transferred
 through the surface ocean and stored in the deep ocean. Small-scale
 processes in the equatorial oceans also influence phenomena such as
 the propagation of equatorial Kelvin waves and coupled modes of
-variability such as the El Niño - Southern Oscillation (ENSO).
+variability such as the El Nino - Southern Oscillation (ENSO).
 
 * _Ocean Heat Transport in Temperature Space_ Using novel diagnostics
 in the MOM-SIS and ACCESS-OM2 global coean models, I have been
