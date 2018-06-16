@@ -98,24 +98,32 @@ Supervisor: Professor David R. M. Williams
 ___
 
 
-* *Answers to the world's 'oldest water' found in the deep blue north
-Pacific* Sydney Morning Herald, 12th November 2017.
+* [*Answers to the world's 'oldest water' found in the deep blue north
+Pacific*](http://www.smh.com.au/environment/answers-to-the-worlds-oldest-water-found-in-the-deep-blue-north-pacific-20171110-gzj2er.html)
+Sydney Morning Herald, 12th November 2017.
 
-* *How the “shadow zone” traps the world’s oldest ocean water* ARC
-Centre of Excellence for Climate System Science Media Release,
+* [*How the “shadow zone” traps the world’s oldest ocean
+water*](https://www.climatescience.org.au/content/1181-how-%E2%80%9Cshadow-zone%E2%80%9D-traps-world%E2%80%99s-oldest-ocean-water)
+ARC Centre of Excellence for Climate System Science Media Release,
 November 2017
 
-* *Stronger winds heat up West Antarctic Ice Melt* ARC Centre of
-Excellence for Climate System Science Media Release, July 2017.
+* [*Stronger winds heat up West Antarctic Ice
+Melt*](https://www.climatescience.org.au/content/1165-stronger-winds-heat-west-antarctic-ice-melt)
+ARC Centre of Excellence for Climate System Science Media Release,
+July 2017.
 
-* *How Kelvin waves convert East Antarctic winds to West Antarctic ice
-melt* Cosmos, July 2017.
+* [*How Kelvin waves convert East Antarctic winds to West Antarctic
+ice
+melt*](https://cosmosmagazine.com/climate/how-kelvin-waves-convert-east-antarctic-winds-to-west-antarctic-ice-melt)
+Cosmos, July 2017.
 
-* *Intense ocean turbulence discovered near sea floor in equatorial
-Pacific, Stanford scientists say* Stanford University News, February
-2016.
+* [*Intense ocean turbulence discovered near sea floor in equatorial
+Pacific, Stanford scientists
+say*](https://earth.stanford.edu/news/intense-deep-ocean-turbulence-equatorial-pacific-could-help-drive-global-circulation)
+Stanford University News, February 2016.
 
-* *Study Of Deep Turbulence Reveals Ocean Currents Insights*
+* [*Study Of Deep Turbulence Reveals Ocean Currents
+   Insights*](http://www.fondriest.com/news/study-deep-turbulence-reveals-ocean-currents-insights.htm)
    Environmental Monitor, April 2016.
 
 # Data Sets
@@ -124,6 +132,9 @@ ___
 * de Lavergne, C., Madec, G., Roquet, F., Holmes, R. M. and McDougall,
 T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI
 Accession 0166518). Version 1.1. NOAA National Centers for
-Environmental Information. Dataset. doi:10.7289/V5833Q7K [2017-09-13]
+Environmental
+Information. Dataset. <http://dx.doi.org/10.7289/V5833Q7K>
+[2017-09-13]
+
 
 
