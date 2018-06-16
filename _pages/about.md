@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Associate working as a postdoc in the [Centre
-of Excellence for Climate Extremes](http://climateextremes.org.au/),
-the [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/) and
-the [School of Mathematics and
+I am a Senior Research Associate in the [Centre of Excellence for
+Climate Extremes](http://climateextremes.org.au/), the [Climate Change
+Research Centre](http://www.ccrc.unsw.edu.au/) and the [School of
+Mathematics and
 Statistics](https://www.maths.unsw.edu.au/about/applied-mathematics)
 at the [University of New South Wales](https://www.unsw.edu.au/). I
 received my PhD in physical oceanography from Stanford University in
@@ -19,7 +19,7 @@ March 2016. I did my undergraduate degree in Physics at the Australian
 National University, with a study abroad year at the University of
 California Santa Barbara.
 
-# Research Interests
+## Research Interests
 
 * _Equatorial dynamics and tropical instability waves:_ I am interested
 in the physical circulation of the equatorial oceans and how processes
@@ -36,7 +36,7 @@ the propagation of equatorial Kelvin waves and coupled modes of
 variability such as the El Nino - Southern Oscillation (ENSO).
 
 * _Ocean Heat Transport in Temperature Space_ Using novel diagnostics
-in the MOM-SIS and ACCESS-OM2 global coean models, I have been
+in the MOM-SIS and ACCESS-OM2 global ocean models, I have been
 studying how the ocean transports heat vertically, meridionally, and
 across water-mass boundaries, and how this heat transport is
 influenced by diabatic processes in the form of surface forcing and
