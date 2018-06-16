@@ -15,73 +15,73 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 # Journal Articles
 ___
-* [11] **Holmes R. M.**, S. McGregor, A. Santoso and M.H. England (2018)
+* [11] *Holmes R. M.*, S. McGregor, A. Santoso and M.H. England (2018)
  Contribution of Tropical Instability Waves to ENSO Irregularity, in
- press at *Climate
- Dynamics*. [`LINK`](https://doi.org/10.1007/s00382-018-4217-0)
+ press at **Climate
+ Dynamics**. [`LINK`](https://doi.org/10.1007/s00382-018-4217-0)
  
-* [10] **Holmes R. M.**, C. de Lavergne and T. J. McDougall (2018) Ridges,
+* [10] *Holmes R. M.*, C. de Lavergne and T. J. McDougall (2018) Ridges,
  Seamounts, Troughs and Bowls: Topographic Control of the Dianeutral
- Circulation in the Abyssal Ocean, *J. Phys. Oceanogr.*, 48,
+ Circulation in the Abyssal Ocean, **Journal of Physical Oceanography**, 48,
  861–882. [`LINK`](https://doi.org/10.1175/JPO-D-17-0141.1)
  
-* [9] Warner, S. J., **R. M. Holmes**, E. H. McHugh Hawkins,
+* [9] Warner, S. J., *R. M. Holmes*, E. H. McHugh Hawkins,
  M. Hoecker-Martinez, A. C. Savage and J. N. Moum (2018) Buoyant
  gravity currents released from tropical instability waves,
- *J. Phys. Oceanogr.*, 48,
+ **Journal of Physical Oceanography**, 48,
  361–382. [`LINK`](https://doi.org/10.1175/JPO-D-17-0144.1)
  
-* [8] de Lavergne, C., G. Madec, F. Roquet, **R. M. Holmes** and
+* [8] de Lavergne, C., G. Madec, F. Roquet, *R. M. Holmes* and
  T. J. McDougall (2017) Abyssal ocean overturning shaped by seafloor
- distribution, *Nature*,
+ distribution, **Nature**,
  551,181–186. [`LINK`](http://dx.doi.org/10.1038/nature24472)
  (Also see media articles below)
  
-* [7] Spence, P., **R. M. Holmes**, A. McC. Hogg, S. M. Griffies,
+* [7] Spence, P., *R. M. Holmes*, A. McC. Hogg, S. M. Griffies,
  K. D. Stewart, and M. H. England (2017), Localized rapid warming of
- West Antarctic subsurface waters by remote winds, *Nature Climate
- Change*,  7 (8), 595-603. [`LINK`](http://dx.doi.org/10.1038/nclimate3335)
+ West Antarctic subsurface waters by remote winds, **Nature Climate
+ Change**,  7 (8), 595-603. [`LINK`](http://dx.doi.org/10.1038/nclimate3335)
  
-* [6] **Holmes R. M.** and Thomas L. N. (2016), Modulation of Tropical
+* [6] *Holmes R. M.* and Thomas L. N. (2016), Modulation of Tropical
  Instability Wave Intensity by Equatorial Kelvin Waves,
- *J. Phys. Oceanogr.* 46 (9),
+ **Journal of Physical Oceanography** 46 (9),
  2623-2643. [`LINK`](http://dx.doi.org/10.1175/JPO-D-16-0064.1)
  
-* [5] **Holmes R. M.**, Moum J. N. and Thomas L. N. (2016) Evidence for
+* [5] *Holmes R. M.*, Moum J. N. and Thomas L. N. (2016) Evidence for
  Seafloor-Intensified Mixing by Surface-Generated Equatorial Waves ,
- *Geophysical Research Letters* 43 (3), 1202-1210. (Also see media
+ **Geophysical Research Letters** 43 (3), 1202-1210. (Also see media
  articles below) [`LINK`](http://dx.doi.org/10.1002/2015GL066472)
  
-* [4] **Holmes R. M.** and Thomas L. N. (2015) The Modulation of Equatorial
+* [4] *Holmes R. M.* and Thomas L. N. (2015) The Modulation of Equatorial
  Turbulence by Tropical Instability Waves in a Regional Ocean Model,
- *J. Phys. Oceanogr.* 45 (4),
+ **Journal of Physical Oceanography** 45 (4),
  1155–1173. [`LINK`](http://dx.doi.org/10.1175/JPO-D-14-0209.1)
  
-* [3] **Holmes R. M.**, Thomas L. N., Thompson L. and Darr D. (2014):
+* [3] *Holmes R. M.*, Thomas L. N., Thompson L. and Darr D. (2014):
  Potential Vorticity Dynamics of Tropical Instability Vortices,
- *J. Phys. Oceanogr.* 44 (3),
+ **Journal of Physical Oceanography** 44 (3),
  995–1011. [`LINK`](http://dx.doi.org/10.1175/JPO-D-13-0157.1)
  
-* [2] **Holmes R. M.** and Williams D. R. M. (2011): Single chain
+* [2] *Holmes R. M.* and Williams D. R. M. (2011): Single chain
  asymmetric block copolymers in poor solvents. Candidates for patchy
- colloids *Macromolecules* 44,
+ colloids **Macromolecules** 44,
  6172-6181. [`LINK`](http://dx.doi.org/10.1021/ma200085w)
  
-* [1] **Holmes R. M.** and Williams D. R. M. (2011): Popout transitions in
+* [1] *Holmes R. M.* and Williams D. R. M. (2011): Popout transitions in
  weakly stretched single-chain multi-block copolymers in poor solvents
- *Europhysics* 95, 63004. [`LINK`](https://doi.org/10.1209/0295-5075/95/63004)
+ **Europhysics** 95, 63004. [`LINK`](https://doi.org/10.1209/0295-5075/95/63004)
 
 ### Articles submitted for publication
-* **Holmes R. M.**, Zika, J.D. and England, M.H.: Diathermal heat
-transport in a global ocean model. Submitted to *J. Phys. Oceanogr.*
+* *Holmes R. M.*, Zika, J.D. and England, M.H.: Diathermal heat
+transport in a global ocean model. Submitted to **Journal of Physical Oceanography**
 
-* Webb, D., **Holmes R. M.**, Spence, P. and England, M.H.: Barotropic
+* Webb, D., *Holmes R. M.*, Spence, P. and England, M.H.: Barotropic
 Kelvin wave-induced bottom boundary layer warming along the West
-Antarctic Peninsula. Submitted to *J. Geophys. Rsch.*
+Antarctic Peninsula. Submitted to **Journal of Geophysical Research**
 
 * Santoso et al: Dynamics and Predictability of the El Nino Southern
 Oscillation: An Australian perspective on progress and
-challenges. Submitted to *BAMS*
+challenges. Submitted to **BAMS**
 
 # Theses
 ___
