@@ -3,7 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Ph.D. Projects"
+    url: /PhDprojects/
+
+- title: "Talks"
     url: /talks/    
 
   - title: "Students"
