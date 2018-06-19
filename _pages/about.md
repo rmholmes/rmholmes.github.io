@@ -44,15 +44,17 @@ interior mixing.
 interested in the diapycnal overturning of the abyssal oceans and how
 the topography of the seafloor can influence the transformation of
 Antarctic Bottom Water into lighter water masses and their ultimate
-return to the surface.  Coastal-trapped waves around Antarctic and
-Antarctic coastal subsurface warming
+return to the surface.
+
+* _Coastal-trapped waves around Antarctic and Antarctic coastal
+subsurface warming:_
 
 I use a range of idealised and realistic ocean models (including ROMS,
 MOM5, MOM6 and dedalus) combined with analysis of satellite and
 in-situ oceanographic data and theoretical techniques.
 
-This website contains my CV, publication list and a short summary of a
-number of research projects that I am working on or have completed
-(see subpages). If you wish to know more or have any other questions,
-please contact me at ryan.holmes@unsw.edu.au
+This website contains my CV, publications and talks. I am also in the
+process of adding a series of summaries of completed and current
+research projects (TBC...). If you wish to know more or have any other
+questions, please contact me at ryan.holmes@unsw.edu.au
 
