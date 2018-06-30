@@ -44,6 +44,18 @@ ___
  Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of
  Physical Oceanography**, 48, 861–882. (Description coming...)
 
+ de Lavergne, C., G. Madec, F. Roquet, *R. M. Holmes* and
+ T. J. McDougall (2017) [Abyssal ocean overturning shaped by seafloor
+ distribution](http://dx.doi.org/10.1038/nature24472), **Nature**,
+ 551,181–186.
+
+### Coastal Antarctic subsurface warming and ice sheet melt
+
+ Spence, P., *R. M. Holmes*, A. McC. Hogg, S. M. Griffies,
+ K. D. Stewart, and M. H. England (2017), [Localized rapid warming of
+ West Antarctic subsurface waters by remote
+ winds](http://dx.doi.org/10.1038/nclimate3335), **Nature Climate
+ Change**, 7 (8), 595-603.
 
 ## Ph.D. Projects
 

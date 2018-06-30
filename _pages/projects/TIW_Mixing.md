@@ -111,7 +111,8 @@ on the parameterization scheme used for shear driven interior mixing,
 with potential implications for the role of TIWs in the SST budget of
 ocean models using different parametrization schemes.
 
-For more information, see my article in the [Journal of Physical
-Oceanography: The Modulation of Equatorial Turbulence by Tropical
-Instability Waves in a Regional Ocean Model](/publications)
+For more information, see my article in the Journal of Physical
+Oceanography, [The Modulation of Equatorial Turbulence by Tropical
+Instability Waves in a Regional Ocean
+Model](http://dx.doi.org/10.1175/JPO-D-14-0209.1).
 

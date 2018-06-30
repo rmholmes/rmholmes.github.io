@@ -149,4 +149,9 @@ wave passes] that is compensated for by changes in the meridional eddy
 convergence [dotted lines in (a) and (b) after the Kelvin wave passes]</figcaption>
 </p>
 
+For more information, see my article published in the Journal of
+Physical Oceanography: [Modulation of Tropical Instability Wave
+Intensity by Equatorial Kelvin
+Waves](http://dx.doi.org/10.1175/JPO-D-16-0064.1).
+
 
