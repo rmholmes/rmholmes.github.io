@@ -24,15 +24,20 @@ observations showed a modulation in the rate of turbulent kinetic
 energy dissipation with TIW phase, with the strongest turbulence
 occurring during the transition from northward to southward TIW flow,
 or leading into the TIW warm phase. Accompanying the modulation in
-turbulence was a modulation in the reduced shear squared in the upper
-EUC. The reduced shear squared is similar to the Richardson number in
-that it indicates how unstable a flow is to Kelvin-Helmholtz shear
-instability. For negative values of the reduced shear squared the
-stratification is strong enough to suppress instability, while for
-positive values the shear dominants and shear instability can grow.
+turbulence was a modulation in the _reduced shear squared_,
 
-## Are modulations in Zonal Shear, Meridional Shear or Stratification
-   responsible?
+<p align="center"> <img
+src="https://latex.codecogs.com/svg.latex?\Large&space;Sh^2_{red} = \left(\frac{\partial u}{\partial z}\right)^2 + \left(\frac{\partial v}{\partial z}\right)^2 -4 N^2" />
+</p>
+
+in the upper EUC. The reduced shear squared is similar to the
+Richardson number in that it indicates how unstable a flow is to
+Kelvin-Helmholtz shear instability. For negative values of the reduced
+shear squared the stratification is strong enough to suppress
+instability, while for positive values the shear dominants and shear
+instability can grow.
+
+## Are modulations in Zonal Shear, Meridional Shear or Stratification responsible?
 
 Using a regional ocean model of the equatorial Pacific, we examined
 the modulations of the reduced shear squared with TIW phase. Our model
@@ -47,18 +52,27 @@ from our model suggest that modulation of turbulence in the upper EUC
 with TIW phase is associated with variations in the EUC shear.
 
 
+<p align="center">
+  <img src="/files/Fig1.jpg" alt="Eq Longitude-Depth" style="width:60%;
+  text-align:center"/>
+  <figcaption>
 Figure 1: Equatorial Depth-Longitude slice of (a) Temperature, (b)
 Meridional Velocity, (c) Stratification, (d) zonal shear, (e)
 meridional shear, (f) meridional diffluence and (g) reduced shear
 squared from a ROMS model of the equatorial Pacific. The gray solid
 line indicated the EUC core and the green line indicated the KPP mixed
-layer depth.
+layer depth.</figcaption>
+</p>
 
 ## How do TIWs modify EUC shear?
 
 To investigate how TIWs are able to modify the EUC shear, I performed
 a Lagrangian budget of zonal shear du/dz. The zonal shear following a
 Lagrangian particle obeys
+
+<p align="center"> <img
+src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{D}{Dt}\left(\frac{\partial u}{\partial z}\right) = \frac{\partial u}{\partial z}\frac{\partial v}{\partial y} + \left(f-\frac{\partial u}{\partial y}\right)\frac{\partial v}{\partial z}-\frac{\partial b}{\partial x} + \frac{\partial F_x}{\partial z}" />
+</p>
 
 
 I.e. the zonal shear can change due to horizontal vortex stretching
@@ -73,14 +87,18 @@ velocities result in a modulation of meridional diffluence dv/dy that
 then acts on the EUC shear through horizontal vortex stretching. The
 physics of this mechanism are summarized in Fig. 2.
 
+<p align="center">
+  <img src="/files/Fig8.jpg" alt="Schematic" style="width:75%;
+  text-align:center"/>
+  <figcaption>
 A schematic showing how variations in TIW driven meridional diffluence
 dv/dy (red arrows) can drive variations in the magnitude of the EUC
 shear (indicated by the black spirals) resulting in phases of enhanced
 and reduced turbulence (indicated by the small blue spirals) along the
-Equator.
+Equator.</figcaption>
+</p>
 
-## What is the total (rectified) effect of this modulation on the
-turbulent heat flux?
+## What is the total (rectified) effect of this modulation on the turbulent heat flux?
 
 To quantify the total rectifying effect of the TIW driven modulations
 on the turbulent heat flux averaged over a TIW wave period, I
@@ -93,7 +111,7 @@ on the parameterization scheme used for shear driven interior mixing,
 with potential implications for the role of TIWs in the SST budget of
 ocean models using different parametrization schemes.
 
-For more information, see my article in the Journal of Physical
+For more information, see my article in the [Journal of Physical
 Oceanography: The Modulation of Equatorial Turbulence by Tropical
-Instability Waves in a Regional Ocean Model
+Instability Waves in a Regional Ocean Model](/publications)
 

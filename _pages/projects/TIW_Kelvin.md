@@ -16,10 +16,14 @@ period of only 16 days (half the dominant 30-day period of TIWs), the
 extent of TIW-driven meridional excursions of the NEF reduced
 dramatically (see Fig. 1a-c). This rapid decay turned out to coincide
 with the arrival of a downwelling equatorial Kelvin Wave from the
-western Pacific (see FIg. 1d).
+western Pacific (see Fig. 1d).
 
-
-Fig 1: GOES SST observations in the eastern equatorial Pacific on the
+<p align="center">
+  <img src="/files/GOES_SST_plot.png" alt="GOES SST" style="width:40%;
+  text-align:center"/>
+  <img src="/files/EqSubSurfTempAnom.png" alt="Equatorial Subsurface Temperature" style="width:40%;
+  text-align:center"/>
+  <figcaption> Figure 1: GOES SST observations in the eastern equatorial Pacific on the
 (a) 10th (b) 18th and (c) 26th of November 2014 showing a rapid
 decrease in the amplitude of the TIW-driven meridional oscillations in
 the north equatorial front. (d) Upper equatorial heat anomalies
@@ -28,7 +32,8 @@ Kelvin wave propagating into the eastern Pacific. The image in (d) was
 provided by the NOAA/NWS Climate Prediction Center, College Park
 Maryland from their Web site at http://www.cpc.ncep.noaa.gov/). The
 GOES SST data (a-c) was obtained from the JPL Physical Oceanography
-DAAC (NOAA/NESDIS, 2003)
+DAAC (NOAA/NESDIS, 2003)</figcaption>
+</p>
 
 ## Intraseasonal first-baroclinic mode Kelvin waves
 
@@ -52,7 +57,10 @@ intensification of the TIWKE, which peaked roughly 30-days after the
 Kelvin wave peak (Fig. 2f).
 
 
-Fig 2: Time–longitude plots of the 20C isotherm depth anomaly on the
+<p align="center">
+  <img src="/files/2016-09-07.png" alt="Hovmoellers" style="width:100%;
+  text-align:center"/>
+  <figcaption> Figure 2: Time–longitude plots of the 20C isotherm depth anomaly on the
 equator for a single (a) downwelling and (b) upwelling intraseasonal
 Kelvin wave and for the ensemble average (c) downwelling and (d)
 upwelling Kelvin wave experiments. Time–longitude plot of the TIWKE
@@ -61,13 +69,23 @@ experiments. Also shown are 0.01-m contours of SSH anomalies, with
 dark gray contours indicating positive values and light gray contours
 indicating negative values. The forcing region and time period is
 shown with the black box. The green line in (a)–(d) indicates a phase
-speed of 2.64ms-1
+speed of 2.64ms-1</figcaption>
+</p>
 
 ## The TIWKE budget
 
 To explain why the Kelvin waves drive changes in the TIWKE, we
 examined the TIWKE, or EKE, budget described by the following
 equation:
+
+<p align="center">
+  <img src="/files/TIWKEbudget.png" alt="TIWKE Budget Equation" style="width:65%;
+  text-align:center"/>
+</p>  
+<p align="center">
+  <img src="/files/TIWKEeq.png" alt="TIWKE" style="width:30%;
+  text-align:center"/>
+</p>  
 
 where K is the TIWKE and the terms on the right-hand-side represent
 mean advection of TIWKE, pressure (or wave) fluxes of TIWKE, eddy
@@ -110,12 +128,13 @@ find that this net SST change is damped by the changes in the TIW
 meridional heat fluxes (due to the change in TIWKE), which counter the
 Kelvin wave induced SST anomalies (compare dotted and dashed lines in
 Fig. 3 a, b). This results has implications for the role of TIWs in
-the initiation of ENSO events. I am currently working on a project to
-extend this work to a simple coupled model setting in order to
-investigate this possibility.
+the initiation of ENSO events.
 
 
-Fig 3: Time series of terms in the upper-ocean heat budget (expressed
+<p align="center">
+  <img src="/files/HeatBudget.png" alt="Hovmoellers" style="width:50%;
+  text-align:center"/>
+  <figcaption> Fig 3: Time series of terms in the upper-ocean heat budget (expressed
 in terms of an average temperature). Average temperature in (a)
 downwelling and (b) upwelling experiments (solid lines). (c)
 Convergence of mean heat fluxes and (d) convergence of meridional eddy
@@ -127,5 +146,7 @@ mean heat convergence through Kelvin wave zonal and vertical
 advection. Kelvin wave zonal advection drives a net change in heat
 content [cf. dashed lines in (a) and (b) before and after the Kelvin
 wave passes] that is compensated for by changes in the meridional eddy
-convergence [dotted lines in (a) and (b) after the Kelvin wave passes]
+convergence [dotted lines in (a) and (b) after the Kelvin wave passes]</figcaption>
+</p>
+
 
