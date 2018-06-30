@@ -166,10 +166,12 @@ near the seafloor in the non-traditional solution, suggesting enhanced
 mixing there.</figcaption>
 </p>
 
-For more information please see my article published in [Geophysical
-Research Letters](/publications) or feel free to contact me. This
-article was also the subject of several media releases that are also
-worth a look:
+For more information please see my article published in Geophysical
+Research Letters ([Evidence for Seafloor-Intensified Mixing by
+Surface-Generated Equatorial
+Waves](http://dx.doi.org/10.1002/2015GL066472)) or feel free to
+contact me. This article was also the subject of several media
+releases that are also worth a look:
 
 [Stanford University News: Intense ocean turbulence discovered near
 sea floor in equatorial Pacific, Stanford scientists

@@ -86,14 +86,15 @@ water masses together.</figcaption>
 
 ## TIV core water formation
 
-In a recently accepted paper at the Journal of Physical Oceanography
-(Potential Vorticity Dynamics of Tropical Instability Vortices), I
-investigated the mechanisms through which the strong anticyclonic
-(clockwise in the Northern Hemisphere) vorticity of TIVs is formed. By
-studying the vorticity and buoyancy equations along Lagrangian fluid
-parcel tracks I was able to show that several processes contribute to
-the creation of TIV anticyclonic vorticity. Rearranging the equation
-for the PV above and normalizing by a mean <img
+In my paper published in the Journal of Physical Oceanography
+([Potential Vorticity Dynamics of Tropical Instability
+Vortices](http://dx.doi.org/10.1175/JPO-D-13-0157.1)), I investigated
+the mechanisms through which the strong anticyclonic (clockwise in the
+Northern Hemisphere) vorticity of TIVs is formed. By studying the
+vorticity and buoyancy equations along Lagrangian fluid parcel tracks
+I was able to show that several processes contribute to the creation
+of TIV anticyclonic vorticity. Rearranging the equation for the PV
+above and normalizing by a mean <img
 src="https://latex.codecogs.com/svg.latex?\Large&space;\overline{N^2}=1.6\times10^{-4}s^{-2}"
 /> and mean <img
 src="https://latex.codecogs.com/svg.latex?\Large&space;\overline{f}=1.27\times10^{-5}s^{-1}"
