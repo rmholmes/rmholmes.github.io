@@ -36,7 +36,6 @@ measurement that can be transformed into an estimate of the intensity
 of small-scale turbulence.</figcaption>
 </p>
 
-
 ## Strong abyssal mixing over smooth topography!
 
 Mixing in the abyssal oceans is generally thought to occur mostly
@@ -114,28 +113,45 @@ influence of the horizontal component of Earth's rotation (the so
 called non-traditional effects). The dispersion relation for a
 classical internal waves is,
 
-where omega is the wave frequency, f is the Coriolis parameter, N2 is
-the stratification and alpha is the slope of wave
-characteristics. Since all terms in this equation are positive, this
-implies that a wave can only exist equatorward of where its frequency
-omega is equal to f (since f reduces towards the equator). This
-results in the wave being trapped within its so-called 'inertial
-latitudes' (thick lines in Fig. 5a). However, when the non-traditional
-terms are included, the dispersion relation acquires an extra term.
+<p align="center">
+<img
+src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Traditional:
+}\quad\omega^2=f^2+N^2\alpha^2" />
+</p>
 
+where <img
+src="https://latex.codecogs.com/svg.latex?\Large&space;\omega" /> is
+the wave frequency, f is the Coriolis parameter, <img
+src="https://latex.codecogs.com/svg.latex?\Large&space;N^2" /> is the
+stratification and <img
+src="https://latex.codecogs.com/svg.latex?\Large&space;\alpha" /> is
+the slope of wave characteristics. Since all terms in this equation
+are positive, this implies that a wave can only exist equatorward of
+where its frequency omega is equal to f (since f reduces towards the
+equator). This results in the wave being trapped within its so-called
+'inertial latitudes' (thick lines in Fig. 5a). However, when the
+non-traditional terms are included, the dispersion relation acquires
+an extra term.
 
-The additional term highlighted in red, dependent on the horizontal
-component of Earth's rotation tilde f, can be negative and allows wave
-to exist poleward of their inertial latitude in regions where the
-stratification is small, i.e. near the seafloor. Practically, this
-creates trapping regions near the seafloor where wave energy can enter
-but cannot leave, and thus builds up and breaks driving mixing
-(compare inverse Richardson number between traditional and
-non-traditional cases in Fig. 5). Thus these non-traditional effects
-may be responsible for the trapping of the energy of the downward
-propagating equatorial Yanai wave, resulting in the bottom-intensified
-mixing over smooth topography that we observed with the Chipod.
+<p align="center">
+<img
+src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Non-traditional:
+}\quad\omega^2=f^2+\color{red}{2f\tilde{f}\alpha}\color{black}+N^2\alpha^2" />
+</p>
 
+The additional term, dependent on the horizontal component of Earth's
+rotation <img
+src="https://latex.codecogs.com/svg.latex?\Large&space;\tilde{f}" />,
+can be negative and allows wave to exist poleward of their inertial
+latitude in regions where the stratification is small, i.e. near the
+seafloor. Practically, this creates trapping regions near the seafloor
+where wave energy can enter but cannot leave, and thus builds up and
+breaks driving mixing (compare inverse Richardson number between
+traditional and non-traditional cases in Fig. 5). Thus these
+non-traditional effects may be responsible for the trapping of the
+energy of the downward propagating equatorial Yanai wave, resulting in
+the bottom-intensified mixing over smooth topography that we observed
+with the Chipod.
 
 <p align="center">
   <img src="/files/Movie.gif" alt="Non-traditional Wave Trapping" style="width:80%;
