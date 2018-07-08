@@ -3,8 +3,6 @@ layout: archive
 title: "Polymer Physics"
 permalink: /polymers/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 My honours year research project at ANU was in computational polymer
@@ -12,9 +10,9 @@ physics where I worked with Professor David Williams. I also worked as
 a research assistant for six months in this field, publishing two
 papers in Macromolecules and Europhysics letters
 
-*Background
+# Background
 
-** Polymers
+## Polymers
 
 A polymer consists of a long chain of repeating structural units
 called monomers. A typical monomer would be an ethylene molecule
@@ -30,7 +28,7 @@ important and the subject of much modern research. Unsolved problems
 include the protein folding problem and the construction of
 nano-particles out of polymers.
 
-** The physics of block copolymers in poor solvents 
+## The physics of block copolymers in poor solvents 
 
 My work involved trying to understand the behavior of single chain
 block copolymers in poor solvents using self-consistent field theory
@@ -62,7 +60,7 @@ strength, the final conformation of the polymer can be controlled.
 </p>
 
 
-** Self-consistent field theory 
+## Self-consistent field theory 
 
 I wrote a self-consistent field theory simulation in FORTRAN for
 simulation of the collapsed conformation of a given polymer chain and
@@ -82,7 +80,7 @@ as I identified, they can be unphysical due to the averaging process).
 
 
 <p align="center">
-  <img src="/files/Propagator2.png" alt="Propagator" style="width:50%;
+  <img src="/files/Propagator2.png" alt="Propagator" style="width:35%;
   text-align:center"/>
   <figcaption> A visualization of the propagator in SCFT
 </figcaption>
@@ -90,7 +88,7 @@ as I identified, they can be unphysical due to the averaging process).
 
 
 
-** Theoretical Free-energy modeling
+## Theoretical Free-energy modeling
 
 In addition to the self-consistent field theory simulations, I also
 used some theoretical free-energy models of my polymers to confirm and
@@ -104,7 +102,7 @@ conformation.
 
 
 <p align="center">
-  <img src="/files/MicelleModel.png" alt="Micelle" style="width:40%;
+  <img src="/files/MicelleModel.png" alt="Micelle" style="width:35%;
   text-align:center"/>
   <figcaption> A simple theoretical model of a set of two block (yellow and gray)
 polymer chain forming a simple Micelle structure.
@@ -112,7 +110,7 @@ polymer chain forming a simple Micelle structure.
 </p>
 
 
-* Block Copolymers as Patchy Colloids
+# Block Copolymers as Patchy Colloids
 ([Holmes and Williams (2011)](http://dx.doi.org/10.1021/ma200085w))
 
 My honours thesis was on The Morphology of Single Chain Asymmetric
@@ -144,7 +142,7 @@ copolymers in poor solvents from my SCFT simulations.
 
 
 
-* Conformation Transitions in Stretched Block Copolymers
+# Conformation Transitions in Stretched Block Copolymers
 ([Holmes and Williams (2011)](https://doi.org/10.1209/0295-5075/95/63004))
 
 In a second paper I explored the physics of stretched block
@@ -160,7 +158,7 @@ parameters of the solvent and polymer. This prediction was confirmed
 using a theoretical free-energy scaling model.
 
 <p align="center">
-  <img src="/files/fig1.jpg" alt="Stretching" style="width:70%;
+  <img src="/files/fig1.jpg" alt="Stretching" style="width:45%;
   text-align:center"/>
   <figcaption> A stretching transition in four block copolymers in poor
 solvents. Elongation distance increases from top left to bottom right.
