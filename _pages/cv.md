@@ -19,7 +19,7 @@ University medal
 * 2008-2009 __Study Abroad Program, University of California
 Santa Barbara__, Physics, GPA: 3.78/4
 * 2004-2005 Year 12 Certificate, Lake Ginninderra College, Canberra,
-Australia, University Admissions Index (UAI): 99/6/100
+Australia, University Admissions Index (UAI): 99.6/100
 
 ## Honors and Awards
 ___
