@@ -13,8 +13,9 @@ Research Centre](http://www.ccrc.unsw.edu.au/) and the [School of
 Mathematics and
 Statistics](https://www.maths.unsw.edu.au/about/applied-mathematics)
 at the [University of New South Wales](https://www.unsw.edu.au/). I
-study the physics of ocean circulation using a range of idealized and
-realistic ocean models.
+study the physics of ocean circulation using theoretical techniques, a
+range of idealized and realistic ocean models (ROMS, MOM5, MOM6,
+Dedalus) and analysis of satellite and in-situ oceanographic data.
 
 ## Research Interests
 
@@ -42,19 +43,13 @@ Antarctic Bottom Water into lighter water masses and their ultimate
 return to the surface.
 
 * _Antarctic coastal circulation and subsurface warming:_ I am also
-involved in work aiming to understand how warm Circumpolar Deep Water
-penetrates onto the Antarctic continental shelf, potentially
-increasing the melt rate of vulnerable ice shelves, particularly along
-the West Antarctic Peninsula. In particular, we are focused on a
-mechanisms involving the interaction between coastally-trapped
-barotropic waves and bottom boundary layer processes.
-
-I use a range of idealised and realistic ocean models (including ROMS,
-MOM5, MOM6 and dedalus) combined with analysis of satellite and
-in-situ oceanographic data and theoretical techniques.
+involved in work aiming to understand the mechanisms that can bring
+warm Circumpolar Deep Water onto the Antarctic continental shelf,
+potentially increasing the melt rate of vulnerable ice shelves.
 
 This website contains my CV, publications and talks. I am also in the
 process of adding a series of summaries of completed and current
 research projects (TBC...). If you wish to know more or have any other
-questions, please contact me at ryan.holmes@unsw.edu.au
+questions, please contact me at
+[ryan.holmes@unsw.edu.au](mailto:ryan.holmes@unsw.edu.au)
 
