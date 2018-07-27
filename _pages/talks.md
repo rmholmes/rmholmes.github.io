@@ -8,6 +8,11 @@ urlcolor: blue
 
 {% include base_path %}
 
+* **Ocean heat transport in temperature coordinates and what it can
+  tell us about ocean processes and their role in climate** (July
+  2018), Research School of Earth Sciences, Australian National
+  University, Canberra, Australia
+
 * **Numerical Mixing in the COSIMA models** (May 2018), COSIMA Workshop
   Talk, Australian National University, Canberra, Australia
   
