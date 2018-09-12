@@ -32,6 +32,13 @@ Participant, Hawaii.
 * 2006-2010 Bachelor of Philosophy (Honours) Scholarship, Total AU$20,000
 * 2010 University Medal in Physics, Australian National University
 
+## Funding
+* 2018-2020 D. Whitt, S. Bachman, R-C Lien, W. Large and R. Holmes,
+Simulations and analysis of mesoscale to turbulence scale process
+models to facilitate observational process deployments in the
+Equatorial Pacific Cold Tongue. NOAA/OAR Climate Variability and
+Predictability Program NOAA-OAR-CPO-2018-2005492
+
 ## Academic Experience
 ___
 * 2018-now  __Senior Research Associate, University of New South
@@ -73,5 +80,14 @@ South Wales.
 * 2014 __Teaching Assistant__, Stanford graduate course Atmosphere,
 Ocean, and Climate Dynamics: The Atmospheric Circulation, Stanford
 University.
+
+## Miscellaneous
+___
+* 2018 Session Convenor: Ocean General Session, Australian Meteorological
+and Oceanographic Society Annual Meeting, Sydney
+* 2018-2019 Centre of Excellence for Climate Extremes Early Career
+Research (ECR) Commitee member and UNSW representative. ECR day
+organiser
+* 
 
 

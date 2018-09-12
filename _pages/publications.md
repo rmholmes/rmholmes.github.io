@@ -14,6 +14,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 # Journal Articles
 ___
+* [12] Santoso et al (2018): Dynamics and Predictability of the El Nino Southern
+Oscillation: An Australian perspective on progress and
+challenges. **BAMS**, accepted
+
 * [11] *Holmes R. M.*, S. McGregor, A. Santoso and M.H. England (2018)
  [Contribution of Tropical Instability Waves to ENSO
  Irregularity](https://doi.org/10.1007/s00382-018-4217-0), in press at
@@ -80,10 +84,6 @@ transport in a global ocean model. Submitted to **Journal of Physical Oceanograp
 * Webb, D., *Holmes R. M.*, Spence, P. and England, M.H.: Barotropic
 Kelvin wave-induced bottom boundary layer warming along the West
 Antarctic Peninsula. Submitted to **Journal of Geophysical Research**
-
-* Santoso et al: Dynamics and Predictability of the El Nino Southern
-Oscillation: An Australian perspective on progress and
-challenges. Submitted to **BAMS**
 
 # Theses
 ___
