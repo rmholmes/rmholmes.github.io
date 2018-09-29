@@ -62,8 +62,14 @@ physics, affine geometry.
 
 ## Teaching and Supervision
 ___
+
+* 2018 __Lecturer__, MATH5285-MATH3261-Fluids, Oceans & Climate,
+University of New South Wales. Two 2hr lectures on Rossby waves and
+baroclinic instability, one tutorial and office hours.
 * 2018 __Guest lecturer__, CLIM3001: Climate Systems Science, Climate
-Change Research Centre, University of New South Wales.
+Change Research Centre, University of New South Wales. One 2hr lecture
+(Earth's energy balance), one 2hr tutorial (the El-Nino Southern
+Oscillation) and office hours.
 * 2017-2018 __Masters project main supervisor__, Maurice
 Huguenin-Virchaux, Mechanisms driving ocean heat uptake and warm water
 volume variability over idealized ENSO events, University of New South
@@ -81,13 +87,17 @@ South Wales.
 Ocean, and Climate Dynamics: The Atmospheric Circulation, Stanford
 University.
 
-## Miscellaneous
+## Miscellaneous/Administration
 ___
+
+* 2019 Water mass transformation for ocean physics and biogeochemistry
+  workshop co-organiser. University of New South Wales, Sydney
+* 2019 Advanced Ocean Modelling Summer School Co-organiser. Hobart,
+  Tasmania
 * 2018 Session Convenor: Ocean General Session, Australian Meteorological
 and Oceanographic Society Annual Meeting, Sydney
 * 2018-2019 Centre of Excellence for Climate Extremes Early Career
 Research (ECR) Commitee member and UNSW representative. ECR day
 organiser
-* 
 
 
