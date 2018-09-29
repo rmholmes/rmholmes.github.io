@@ -90,14 +90,14 @@ University.
 ## Miscellaneous/Administration
 ___
 
-* 2019 Water mass transformation for ocean physics and biogeochemistry
-  workshop co-organiser. University of New South Wales, Sydney
-* 2019 Advanced Ocean Modelling Summer School Co-organiser. Hobart,
-  Tasmania
-* 2018 Session Convenor: Ocean General Session, Australian Meteorological
-and Oceanographic Society Annual Meeting, Sydney
-* 2018-2019 Centre of Excellence for Climate Extremes Early Career
-Research (ECR) Commitee member and UNSW representative. ECR day
-organiser
+* 2019 __Workshop co-organiser__: Water mass transformation for ocean
+  physics and biogeochemistry. University of New South Wales, Sydney
+* 2019 __Summer School Co-organisder__: Advanced Ocean Modelling
+  Summer School, Hobart, Tasmania
+* 2018 __Session Convenor__: Ocean General Session, Australian
+Meteorological and Oceanographic Society Annual Meeting, Sydney
+* 2018-2019 Centre of Excellence for Climate Extremes __Early Career
+Research (ECR) commitee member__ and UNSW representative. Annual
+Meeting __ECR day main organiser__
 
 
