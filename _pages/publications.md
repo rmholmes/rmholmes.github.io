@@ -14,9 +14,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 # Journal Articles
 ___
-* [12] Santoso et al (2018): Dynamics and Predictability of the El Nino Southern
-Oscillation: An Australian perspective on progress and
-challenges. **BAMS**, accepted
+* [12] Santoso et al (2018): [Dynamics and Predictability of the El
+Nino Southern Oscillation: An Australian perspective on progress and
+challenges](https://doi.org/10.1175/BAMS-D-18-0057.1). **BAMS**, early
+online release
 
 * [11] *Holmes R. M.*, S. McGregor, A. Santoso and M.H. England (2018)
  [Contribution of Tropical Instability Waves to ENSO
