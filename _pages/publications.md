@@ -14,6 +14,12 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 # Journal Articles
 ___
+
+* [13] Webb, D., *Holmes R. M.*, Spence, P. and England, M.H.:
+Barotropic Kelvin wave-induced bottom boundary layer warming along the
+West Antarctic Peninsula. **Journal of Geophysical Research**,
+accepted
+
 * [12] Santoso et al (2018): [Dynamics and Predictability of the El
 Nino Southern Oscillation: An Australian perspective on progress and
 challenges](https://doi.org/10.1175/BAMS-D-18-0057.1). **BAMS**, early
@@ -81,10 +87,6 @@ online release
 ### Articles submitted for publication
 * *Holmes R. M.*, Zika, J.D. and England, M.H.: Diathermal heat
 transport in a global ocean model. Submitted to **Journal of Physical Oceanography**
-
-* Webb, D., *Holmes R. M.*, Spence, P. and England, M.H.: Barotropic
-Kelvin wave-induced bottom boundary layer warming along the West
-Antarctic Peninsula. Submitted to **Journal of Geophysical Research**
 
 # Theses
 ___
