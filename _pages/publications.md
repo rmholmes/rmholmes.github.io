@@ -15,6 +15,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 # Journal Articles
 ___
 
+* [14] *Holmes R. M.*, Zika, J.D. and England, M.H.: Diathermal heat
+transport in a global ocean model. **Journal of Physical
+Oceanography**, accepted
+
 * [13] Webb, D., *Holmes R. M.*, Spence, P. and England, M.H.:
 Barotropic Kelvin wave-induced bottom boundary layer warming along the
 West Antarctic Peninsula. **Journal of Geophysical Research**,
@@ -85,8 +89,6 @@ online release
  95, 63004.
 
 ### Articles submitted for publication
-* *Holmes R. M.*, Zika, J.D. and England, M.H.: Diathermal heat
-transport in a global ocean model. Submitted to **Journal of Physical Oceanography**
 
 # Theses
 ___
