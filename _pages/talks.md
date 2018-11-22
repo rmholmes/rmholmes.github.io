@@ -8,6 +8,10 @@ urlcolor: blue
 
 {% include base_path %}
 
+* **Diabatic contributions to the ocean's meridional heat transport**
+  (November 2018), Poster presentation at the Centre of Excellence for
+  Climate Extremes (CLEX) Annual workshop, Wollongong, Australia
+
 * **Ocean heat transport in temperature coordinates and what it can
   tell us about ocean processes and their role in climate** (July
   2018), Research School of Earth Sciences, Australian National
