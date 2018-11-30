@@ -8,6 +8,11 @@ urlcolor: blue
 
 {% include base_path %}
 
+* **Dianeutral circulation in the abyss: Tracer transport and the role
+  of seafloor geometry** (November 2018), Departmental seminar at the
+  National Centre for Atmospheric Research (NCAR), Boulder, Colorado,
+  U.S.A.
+
 * **Diabatic contributions to the ocean's meridional heat transport**
   (November 2018), Poster presentation at the Centre of Excellence for
   Climate Extremes (CLEX) Annual workshop, Wollongong, Australia
