@@ -8,6 +8,15 @@ urlcolor: blue
 
 {% include base_path %}
 
+* **Diabatic contributions to the ocean's meridional heat transport**
+  (December 2018), Poster presentation at the Frontiers of Fluid
+  Mechanics workshop, Bureau of Meteorology, Sydney, Australia
+
+* **Tracer transport within abyssal mixing layers** (December 2018),
+  talk at the bottom boundary layer turbulence and the ocean's
+  overturning circulation workshop, Massachusetts Institute of
+  Technology, Boston, U.S.A.
+
 * **Dianeutral circulation in the abyss: Tracer transport and the role
   of seafloor geometry** (November 2018), Departmental seminar at the
   National Centre for Atmospheric Research (NCAR), Boulder, Colorado,
