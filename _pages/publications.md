@@ -91,6 +91,10 @@ online release
 
 ### Articles submitted for publication
 
+* *Holmes R. M.*, de Lavergne, C. and McDougall, T.J.: Tracer
+transport within abyssal mixing layers. Submitted to the **Journal of
+Physical Oceanography**.
+
 # Theses
 ___
 
