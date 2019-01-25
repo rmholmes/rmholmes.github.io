@@ -18,7 +18,8 @@ ___
 * [14] *Holmes R. M.*, Zika, J.D. and England, M.H.: [Diathermal heat
 transport in a global ocean
 model](https://doi.org/10.1175/JPO-D-18-0098.1). **Journal of Physical
-Oceanography**, early online release
+Oceanography**, 49 (1), 141-161. [Climate Extremes Research
+Brief](https://climateextremes.org.au/how-the-ocean-moves-heat/)
 
 * [13] Webb, D., *Holmes R. M.*, Spence, P. and England, M.H.:
 Barotropic Kelvin wave-induced bottom boundary layer warming along the
