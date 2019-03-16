@@ -8,6 +8,10 @@ urlcolor: blue
 
 {% include base_path %}
 
+* **Warm Water Volume Variability over ENSO events** (January 2019),
+  Talk at the Centre for Southern Hemisphere Ocean Research ENSO
+  Symposium, CSIRO, Hobart, Australia
+
 * **Diabatic contributions to the ocean's meridional heat transport**
   (December 2018), Poster presentation at the Frontiers of Fluid
   Mechanics workshop, Bureau of Meteorology, Sydney, Australia

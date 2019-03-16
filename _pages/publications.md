@@ -22,26 +22,26 @@ Oceanography**, 49 (1), 141-161. [Climate Extremes Research
 Brief](https://climateextremes.org.au/how-the-ocean-moves-heat/)
 
 * [13] Webb, D., *Holmes R. M.*, Spence, P. and England, M.H.:
-Barotropic Kelvin wave-induced bottom boundary layer warming along the
-West Antarctic Peninsula. **Journal of Geophysical Research**,
-accepted
+[Barotropic Kelvin wave-induced bottom boundary layer warming along
+the West Antarctic
+Peninsula](https://doi.org/10.1029/2018JC014227). **Journal of
+Geophysical Research**, in press
 
-* [12] Santoso et al (2018): [Dynamics and Predictability of the El
+* [12] Santoso et al (2019): [Dynamics and Predictability of the El
 Nino Southern Oscillation: An Australian perspective on progress and
 challenges](https://doi.org/10.1175/BAMS-D-18-0057.1). **BAMS**, early
 online release
 
-* [11] *Holmes R. M.*, S. McGregor, A. Santoso and M.H. England (2018)
+* [11] *Holmes R. M.*, S. McGregor, A. Santoso and M.H. England (2019)
  [Contribution of Tropical Instability Waves to ENSO
- Irregularity](https://doi.org/10.1007/s00382-018-4217-0), in press at
- **Climate Dynamics**.
+ Irregularity](https://doi.org/10.1007/s00382-018-4217-0), **Climate
+ Dynamics**, 52, 1837-1855.
  
 * [10] *Holmes R. M.*, C. de Lavergne and T. J. McDougall (2018)
  [Ridges, Seamounts, Troughs and Bowls: Topographic Control of the
  Dianeutral Circulation in the Abyssal
  Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of
- Physical Oceanography**, 48,
- 861–882.
+ Physical Oceanography**, 48, 861–882.
  
 * [9] Warner, S. J., *R. M. Holmes*, E. H. McHugh Hawkins,
  M. Hoecker-Martinez, A. C. Savage and J. N. Moum (2018) [Buoyant
@@ -93,7 +93,7 @@ online release
 ### Articles submitted for publication
 
 * *Holmes R. M.*, de Lavergne, C. and McDougall, T.J.: Tracer
-transport within abyssal mixing layers. Submitted to the **Journal of
+transport within abyssal mixing layers. In review at the **Journal of
 Physical Oceanography**.
 
 # Theses
@@ -113,6 +113,11 @@ Supervisor: Professor David R. M. Williams. [`PDF Link`]({{ site.url
 
 # Media Articles
 ___
+
+
+* [How the ocean moves
+heat](https://climateextremes.org.au/how-the-ocean-moves-heat/) ARC
+Centre of Excellence for Climate Extremes Research Brief, January 2019
 
 
 * [Answers to the world's 'oldest water' found in the deep blue north
@@ -150,7 +155,4 @@ T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI
 Accession 0166518). Version 1.1. NOAA National Centers for
 Environmental Information. Dataset. [2017-09-13]
 [`LINK`](http://dx.doi.org/10.7289/V5833Q7K)
-
-
-
 

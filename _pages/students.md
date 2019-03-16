@@ -8,6 +8,8 @@ urlcolor: blue
 
 {% include base_path %}
 
+* Shweta Sharma (2019-present), Ph.D. in progress.
+
 * David Webb (2016-present), Ph.D. in progress. Propagation of coastal
   Kelvin waves and their impact on Antarctic climate
 

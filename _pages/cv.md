@@ -60,36 +60,50 @@ convection.
 University__ Electron scattering experiment, seismology, nuclear
 physics, affine geometry.
 
-## Teaching and Supervision
+## Teaching
 ___
 
+* 2019 __Lecturer__, MSCI2001-Introductory Marine Science, University
+of New South Wales. Taught first two weeks (6 hours of lectures) on an
+introduction to physical oceanography. Led a four day field trip
+project. Designed course assesment material.
 * 2018 __Lecturer__, MATH5285-MATH3261-Fluids, Oceans & Climate,
-University of New South Wales. Two 2hr lectures on Rossby waves and
-baroclinic instability, one tutorial and office hours.
+University of New South Wales. Two two-hour lectures on Rossby waves
+and baroclinic instability, one tutorial and office hours.
 * 2018 __Guest lecturer__, CLIM3001: Climate Systems Science, Climate
 Change Research Centre, University of New South Wales. One 2hr lecture
 (Earth's energy balance), one 2hr tutorial (the El-Nino Southern
 Oscillation) and office hours.
+* 2014 __Teaching Assistant__, Stanford graduate course Atmosphere,
+Ocean, and Climate Dynamics: The Atmospheric Circulation, Stanford
+University.
+
+## Student supervision
+___
+
+* 2019-present __Ph.D. project cosupervisor, Maurice Huguenin-Virchaux,
+University of New South Wales
+* 2019-present __Ph.D. project cosupervisor, Shweta Sharma, University of New
+  South Wales
+* 2016-present __Ph.D. project cosupervisor__, David Webb, Propagation of
+coastal Kelvin waves and their impact on Antarctic climate, University
+of New South Wales
 * 2017-2018 __Masters project main supervisor__, Maurice
 Huguenin-Virchaux, Mechanisms driving ocean heat uptake and warm water
 volume variability over idealized ENSO events, University of New South
 Wales
-* 2016-now __Ph.D. project cosupervisor__, David Webb, Propagation of
-coastal Kelvin waves and their impact on Antarctic climate, University
-of New South Wales
-* 2017 __Summer undergraduate research project supervisor__, Gideon Kwok, The
+* 2017-2018 __Summer undergraduate research project supervisor__, Gideon Kwok, The
 propagation of Kelvin waves in a shallow water ocean, University of
 New South Wales
 * 2015 __Undergraduate research project supervisor__, David Webb,
 Scattering of coastal Kelvin waves at a sharp bend, University of New
 South Wales.
-* 2014 __Teaching Assistant__, Stanford graduate course Atmosphere,
-Ocean, and Climate Dynamics: The Atmospheric Circulation, Stanford
-University.
 
-## Miscellaneous/Administration
+## Administration and Volunteering
 ___
 
+* 2019 __Session Convenor__: Tropical Oceanography Session, Australian
+Meteorological and Oceanographic Society Annual Meeting, Darwin
 * 2019 __Workshop co-organiser__: Water mass transformation for ocean
 physics and biogeochemistry. University of New South Wales, Sydney
 * 2019 __Summer School Co-organiser__: Advanced Ocean Modelling
