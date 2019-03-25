@@ -15,8 +15,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 # Journal Articles
 ___
 
-* [14] *Holmes R. M.*, Zika, J.D. and England, M.H.: [Diathermal heat
-transport in a global ocean
+* [14] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019):
+[Diathermal heat transport in a global ocean
 model](https://doi.org/10.1175/JPO-D-18-0098.1). **Journal of Physical
 Oceanography**, 49 (1), 141-161. [Climate Extremes Research
 Brief](https://climateextremes.org.au/how-the-ocean-moves-heat/)
