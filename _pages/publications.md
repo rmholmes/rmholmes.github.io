@@ -96,6 +96,9 @@ online release
 transport within abyssal mixing layers. In review at the **Journal of
 Physical Oceanography**.
 
+* Kiss A. E. et al.: ACCESS-OM2: A Global Ocean-Sea Ice Model at Three
+Resolutions. Submitted to **Geophysical Model Development**.
+
 # Theses
 ___
 
