@@ -21,7 +21,7 @@ model](https://doi.org/10.1175/JPO-D-18-0098.1). **Journal of Physical
 Oceanography**, 49 (1), 141-161. [Climate Extremes Research
 Brief](https://climateextremes.org.au/how-the-ocean-moves-heat/)
 
-* [13] Webb, D., *Holmes R. M.*, Spence, P. and England, M.H.:
+* [13] Webb, D., *Holmes R. M.*, Spence, P. and England, M.H. (2019):
 [Barotropic Kelvin wave-induced bottom boundary layer warming along
 the West Antarctic
 Peninsula](https://doi.org/10.1029/2018JC014227). **Journal of
