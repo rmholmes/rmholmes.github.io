@@ -25,12 +25,12 @@ Brief](https://climateextremes.org.au/how-the-ocean-moves-heat/)
 [Barotropic Kelvin wave-induced bottom boundary layer warming along
 the West Antarctic
 Peninsula](https://doi.org/10.1029/2018JC014227). **Journal of
-Geophysical Research**, in press
+Geophysical Research**, 124 (3), 1595-1615.
 
 * [12] Santoso et al (2019): [Dynamics and Predictability of the El
 Nino Southern Oscillation: An Australian perspective on progress and
-challenges](https://doi.org/10.1175/BAMS-D-18-0057.1). **BAMS**, early
-online release
+challenges](https://doi.org/10.1175/BAMS-D-18-0057.1). **Bull. Amer. Meteor. Soc.**,
+100, 403-420
 
 * [11] *Holmes R. M.*, S. McGregor, A. Santoso and M.H. England (2019)
  [Contribution of Tropical Instability Waves to ENSO
