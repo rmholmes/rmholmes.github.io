@@ -99,6 +99,11 @@ Physical Oceanography**.
 * Kiss A. E. et al.: ACCESS-OM2: A Global Ocean-Sea Ice Model at Three
 Resolutions. Submitted to **Geophysical Model Development**.
 
+* Groeskamp S., de Lavergne, C., *Holmes R. M.*, Tamsitt, V., Frenger,
+  I., Chapman, C., Newsom, E. and Stanley, G.: Climate recorded in
+  seawater: A workshop on water-mass transformation analysis for ocean
+  and climate studies. Submitted to **Bull. Amer. Meteor. Soc.**
+
 # Theses
 ___
 
