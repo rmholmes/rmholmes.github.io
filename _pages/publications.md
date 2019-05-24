@@ -104,6 +104,11 @@ Resolutions. Submitted to **Geophysical Model Development**.
   seawater: A workshop on water-mass transformation analysis for ocean
   and climate studies. Submitted to **Bull. Amer. Meteor. Soc.**
 
+* Archer M., Schaeffer A., Keating S., Roughan M., *Holmes R.*,
+  Siegelman L.: Observations of submesoscale instability and frontal
+  subduction within the mesoscale eddy field of the Tasman
+  Sea. Submitted to the **Journal of Physical Oceanography**
+
 # Theses
 ___
 
