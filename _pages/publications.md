@@ -15,6 +15,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 # Journal Articles
 ___
 
+* [15] Groeskamp S., de Lavergne, C., *Holmes R. M.*, Tamsitt, V.,
+Frenger, I., Chapman, C., Newsom, E. and Stanley, G. (2019): Climate
+recorded in seawater: A workshop on water-mass transformation analysis
+for ocean and climate studies. **Bull. Amer. Meteor. Soc.**, accepted
+
 * [14] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019):
 [Diathermal heat transport in a global ocean
 model](https://doi.org/10.1175/JPO-D-18-0098.1). **Journal of Physical
@@ -98,11 +103,6 @@ Physical Oceanography**.
 
 * Kiss A. E. et al.: ACCESS-OM2: A Global Ocean-Sea Ice Model at Three
 Resolutions. Submitted to **Geophysical Model Development**.
-
-* Groeskamp S., de Lavergne, C., *Holmes R. M.*, Tamsitt, V., Frenger,
-  I., Chapman, C., Newsom, E. and Stanley, G.: Climate recorded in
-  seawater: A workshop on water-mass transformation analysis for ocean
-  and climate studies. Submitted to **Bull. Amer. Meteor. Soc.**
 
 * Archer M., Schaeffer A., Keating S., Roughan M., *Holmes R.*,
   Siegelman L.: Observations of submesoscale instability and frontal
