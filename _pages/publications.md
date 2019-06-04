@@ -16,9 +16,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ___
 
 * [15] Groeskamp S., de Lavergne, C., *Holmes R. M.*, Tamsitt, V.,
-Frenger, I., Chapman, C., Newsom, E. and Stanley, G. (2019): Climate
+Frenger, I., Chapman, C., Newsom, E. and Stanley, G. (2019): [Climate
 recorded in seawater: A workshop on water-mass transformation analysis
-for ocean and climate studies. **Bull. Amer. Meteor. Soc.**, accepted
+for ocean and climate
+studies](https://doi.org/10.1175/BAMS-D-19-0153.1). **Bull. Amer. Meteor. Soc.**,
+accepted
 
 * [14] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019):
 [Diathermal heat transport in a global ocean
