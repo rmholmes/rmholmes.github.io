@@ -103,8 +103,9 @@ challenges](https://doi.org/10.1175/BAMS-D-18-0057.1). **Bull. Amer. Meteor. Soc
 transport within abyssal mixing layers. In review at the **Journal of
 Physical Oceanography**.
 
-* Kiss A. E. et al.: ACCESS-OM2: A Global Ocean-Sea Ice Model at Three
-Resolutions. Submitted to **Geophysical Model Development**.
+* Kiss A. E. et al.: [ACCESS-OM2: A Global Ocean-Sea Ice Model at
+Three Resolutions](https://doi.org/10.5194/gmd-2019-106). Submitted to
+**Geophysical Model Development**.
 
 * Archer M., Schaeffer A., Keating S., Roughan M., *Holmes R.*,
   Siegelman L.: Observations of submesoscale instability and frontal
