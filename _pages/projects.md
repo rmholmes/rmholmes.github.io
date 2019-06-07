@@ -170,8 +170,8 @@ measurements of small-scale turbulence in the abyssal equatorial
 oceans. In November and December 2014 I participated in a research
 cruise aboard the R/V Oceanus organised by Jim Moum from Oregon State
 University who's aims included measuring abyssal mixing in the eastern
-equatorial Pacific. Our measurements, recently published in
-Geophysical Research Letters (Holmes et. al. (2016) Evidence for
+equatorial Pacific. Our measurements, published in Geophysical
+Research Letters (Holmes et. al. (2016) Evidence for
 Seafloor-Intensified Mixing by Surface-Generated Equatorial Waves),
 revealed intense mixing located near the seafloor over a region of
 smooth topography near the equator. These measurements are unique
@@ -184,4 +184,7 @@ highlights the need for more observations and research work looking at
 deep mixing near the equator.
 
 [`More Information`](/projects/DeepEqMix)
+
+Also see the Visualizations page for an animation of deep equatorial
+waves under the traditional and non-traditional approximation.
 
