@@ -24,7 +24,7 @@ spectral PDEs solver.
 [![Equatorially trapped IGWs](/files/DedalusEqWaves_frame600.png)](https://vimeo.com/340802059)
 
 For more information: [Deep Equatorial Waves Project
-Summary](/projects/TIV_Dyn), [GRL article: Holmes et al. (2016):
+Summary](/projects/DeepEqMix), [GRL article: Holmes et al. (2016):
 Evidence for Seafloor-Intensified Mixing by Surface-Generated
 Equatorial Waves](http://dx.doi.org/10.1002/2015GL066472))
 
