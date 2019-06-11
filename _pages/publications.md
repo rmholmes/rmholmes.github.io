@@ -112,6 +112,10 @@ Three Resolutions](https://doi.org/10.5194/gmd-2019-106). Submitted to
   subduction within the mesoscale eddy field of the Tasman
   Sea. Submitted to the **Journal of Physical Oceanography**
 
+* *Holmes R. M.*, Zika, J.D. and England, M.H. (2019): Reply to
+  "Comment on `Diathermal heat transport in a global ocean
+  model'". Submitted to **Journal of Physical Oceanography**.
+
 # Theses
 ___
 
