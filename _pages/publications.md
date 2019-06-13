@@ -15,9 +15,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 # Journal Articles
 ___
 
-* **[16]** *Holmes R. M.*, Zika, J.D. and England, M.H. (2019): Reply to
-  "Comment on `Diathermal heat transport in a global ocean
-  model'". **Journal of Physical Oceanography**. Accepted.
+* **[16]** *Holmes R. M.*, Zika, J.D. and England, M.H. (2019): [Reply
+  to "Comment on `Diathermal heat transport in a global ocean
+  model'"](https://doi.org/10.1175/JPO-D-19-0139.1). **Journal of
+  Physical Oceanography**. Accepted.
 
 * **[15]** Groeskamp S., de Lavergne, C., *Holmes R. M.*, Tamsitt, V.,
 Frenger, I., Chapman, C., Newsom, E. and Stanley, G. (2019): [Climate
