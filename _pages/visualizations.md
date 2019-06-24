@@ -44,7 +44,7 @@ mixing and upwelling in the Pacific cold tongue.
 # Tracer transport in Abyssal Mixing Layers
 
 <p align="center">
-   <video src="/files/tracer_animation.mp4" width="600" controls preload></video>
+   <video src="/files/tracer_animation.mp4" width="800" controls preload></video>
 </p>
 
 The above animation shows a tracer released near a sloping boundary
