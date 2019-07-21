@@ -7,9 +7,8 @@ urlcolor: blue
 
 {% include base_path %}
 
-Please see below for my publications including published journal
-articles, submitted articles, theses and media articles. You can also
-find my published articles on [my Google Scholar
+Please see below for a publication list. You can also find my
+published articles on [my Google Scholar
 profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 # Journal Articles
