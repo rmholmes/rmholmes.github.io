@@ -134,6 +134,12 @@ Supervisor: Professor David R. M. Williams. [`PDF Link`]({{ site.url
 # Media Articles
 ___
 
+* *Holmes R. M.*, Groeskamp S. and de Lavergne, C. [Climate Recorded
+  in Seawater: A Workshop on Water-Mass Transformation Analysis for
+  Ocean and Climate
+  Studies](https://climateextremes.org.au/climate-recorded-in-seawater-a-workshop-on-water-mass-transformation-analysis-for-ocean-and-climate-studies/)
+  ARC Centre of Excellence for Climate Extremes newsletter workshop
+  report, August 2019.
 
 * [How the ocean moves
 heat](https://climateextremes.org.au/how-the-ocean-moves-heat/) ARC
