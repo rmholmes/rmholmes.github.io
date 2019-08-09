@@ -67,6 +67,13 @@ ___
 of New South Wales. Taught first two weeks (6 hours of lectures) on an
 introduction to physical oceanography. Led a four day field trip
 project. Designed course assesment material.
+* 2019 __Guest lecturer__, CLIM3001: Climate Systems Science, Climate
+Change Research Centre, University of New South Wales. One 2hr lecture
+(Earth's energy balance), one 2hr tutorial (the El-Nino Southern
+Oscillation).
+* 2019 __Guest lecturer__, CLIM2001: Fundamentals of Atmospheric
+Science, Climate Change Research Centre, University of New South
+Wales. One 30 min lecture on Ocean Circulation and Modelling.
 * 2018 __Lecturer__, MATH5285-MATH3261-Fluids, Oceans & Climate,
 University of New South Wales. Two two-hour lectures on Rossby waves
 and baroclinic instability, one tutorial and office hours.
@@ -81,9 +88,9 @@ University.
 ## Student supervision
 ___
 
-* 2019-present __Ph.D. project cosupervisor, Maurice Huguenin-Virchaux,
+* 2019-present __Ph.D. project cosupervisor__, Maurice Huguenin-Virchaux,
 University of New South Wales
-* 2019-present __Ph.D. project cosupervisor, Shweta Sharma, University of New
+* 2019-present __Ph.D. project cosupervisor__, Shweta Sharma, University of New
   South Wales
 * 2016-present __Ph.D. project cosupervisor__, David Webb, Propagation of
 coastal Kelvin waves and their impact on Antarctic climate, University
