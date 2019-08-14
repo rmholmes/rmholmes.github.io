@@ -15,20 +15,21 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ___
 
 * [17] *Holmes R. M.*, de Lavergne, C. and McDougall, T.J. (2019):
-  Tracer transport within abyssal mixing layers. **Journal of Physical
-  Oceanography**. Accepted.
+  [Tracer transport within abyssal mixing
+  layers](https://doi.org/10.1175/JPO-D-19-0006.1). **Journal of
+  Physical Oceanography**, accepted.
 
-* [16] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019): [Reply
-  to "Comment on `Diathermal heat transport in a global ocean
+* [16] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019): [Reply to
+  "Comment on `Diathermal heat transport in a global ocean
   model'"](https://doi.org/10.1175/JPO-D-19-0139.1). **Journal of
-  Physical Oceanography**. Accepted.
+  Physical Oceanography**. 49 (8), 2195-2197.
 
 * [15] Groeskamp S., de Lavergne, C., *Holmes R. M.*, Tamsitt, V.,
   Frenger, I., Chapman, C., Newsom, E. and Stanley, G. (2019):
   [Climate recorded in seawater: A workshop on water-mass
   transformation analysis for ocean and climate
   studies](https://doi.org/10.1175/BAMS-D-19-0153.1). **Bull. Amer. Meteor. Soc.**,
-  accepted
+  accepted.
 
 * [14] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019):
   [Diathermal heat transport in a global ocean
