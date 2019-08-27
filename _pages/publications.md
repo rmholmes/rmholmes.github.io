@@ -21,7 +21,7 @@ ___
   Brief](https://climateextremes.org.au/research-brief-how-passive-tracers-will-diffuse-on-the-abyssal-ocean-floor/)
 
 * [16] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019): [Reply to
-  "Comment on `Diathermal heat transport in a global ocean
+  "Comments on `Diathermal heat transport in a global ocean
   model'"](https://doi.org/10.1175/JPO-D-19-0139.1). **Journal of
   Physical Oceanography**. 49 (8), 2195-2197.
 
@@ -110,6 +110,11 @@ ___
   **Europhysics** 95, 63004.
 
 ### Articles submitted for publication
+
+* *Holmes, R. M.*, Zika, J.D., Ferrari, R., Thompson, A., Newsom,
+  E. and England, M.H.: Atlantic ocean heat transport enabled by
+  Indo-Pacific heat uptake and mixing. Submitted to **Geophysical
+  Research Letters**
 
 * Kiss A. E. et al.: [ACCESS-OM2: A Global Ocean-Sea Ice Model at
   Three Resolutions](https://doi.org/10.5194/gmd-2019-106). Submitted
