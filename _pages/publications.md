@@ -17,7 +17,7 @@ ___
 * [17] *Holmes R. M.*, de Lavergne, C. and McDougall, T.J. (2019):
   [Tracer transport within abyssal mixing
   layers](https://doi.org/10.1175/JPO-D-19-0006.1). **Journal of
-  Physical Oceanography**, accepted. [Climate Extremes Research
+  Physical Oceanography**, 49, 2669–2695. [Climate Extremes Research
   Brief](https://climateextremes.org.au/research-brief-how-passive-tracers-will-diffuse-on-the-abyssal-ocean-floor/)
 
 * [16] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019): [Reply to
@@ -30,7 +30,7 @@ ___
   [Climate recorded in seawater: A workshop on water-mass
   transformation analysis for ocean and climate
   studies](https://doi.org/10.1175/BAMS-D-19-0153.1). **Bull. Amer. Meteor. Soc.**,
-  accepted. [Climate Extremes Newsletter
+  100, ES243–ES247. [Climate Extremes Newsletter
   Article](https://climateextremes.org.au/climate-recorded-in-seawater-a-workshop-on-water-mass-transformation-analysis-for-ocean-and-climate-studies/)
 
 * [14] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019):
