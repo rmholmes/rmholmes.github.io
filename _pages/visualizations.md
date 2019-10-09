@@ -53,6 +53,11 @@ vertically due to bottom-intensified vertical diffusion and up the
 slope within a thin Bottom Boundary Layer (BBL) where the buoyancy
 flux converges and drives diapycnal upwelling. The rate of increase of
 the variance of the tracer in density space (left panel) reduces once
-the tracer encounters the boundary.
+the tracer encounters the boundary. For more information: [JPO
+article: Holmes, de Lavergne and McDougall (2019): Tracer Transport
+within Abyssal Mixing
+Layers](https://doi.org/10.1175/JPO-D-19-0006.1), [Climate Extremes
+Research
+Brief](https://climateextremes.org.au/research-brief-how-passive-tracers-will-diffuse-on-the-abyssal-ocean-floor/)
 
 
