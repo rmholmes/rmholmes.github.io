@@ -8,6 +8,10 @@ urlcolor: blue
 
 {% include base_path %}
 
+* **Global ocean heat transport and mixing in the eastern tropical
+  Pacific** (September-October 2019), Three 1 hour seminars at LOCEAN
+  Paris, IGD Grenoble and LEGOS Toulouse, France
+
 * **Diabatic Contributions to the Ocean's Meridional Heat Transport**
   (July 2019), Talk at IUGG conference, Montreal, Canada
 
