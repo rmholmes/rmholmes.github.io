@@ -8,6 +8,10 @@ urlcolor: blue
 
 {% include base_path %}
 
+* **Atlantic ocean heat transport enabled by Indo-Pacific heat uptake
+  and mixing** (October 2019), CLEX Tropical Variability Seminar,
+  Sydney, Australia
+
 * **Global ocean heat transport and mixing in the eastern tropical
   Pacific** (September-October 2019), Three 1 hour seminars at LOCEAN
   Paris, IGD Grenoble and LEGOS Toulouse, France
