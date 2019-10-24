@@ -14,6 +14,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 # Journal Articles
 ___
 
+* [18] *Holmes, R. M.*, Zika, J.D., Ferrari, R., Thompson, A., Newsom,
+  E. and England, M.H. (2019): Atlantic ocean heat transport enabled
+  by Indo-Pacific heat uptake and mixing. **Geophysical Research
+  Letters**, accepted.
+
 * [17] *Holmes R. M.*, de Lavergne, C. and McDougall, T.J. (2019):
   [Tracer transport within abyssal mixing
   layers](https://doi.org/10.1175/JPO-D-19-0006.1). **Journal of
@@ -110,11 +115,6 @@ ___
   **Europhysics** 95, 63004.
 
 ### Articles submitted for publication
-
-* *Holmes, R. M.*, Zika, J.D., Ferrari, R., Thompson, A., Newsom,
-  E. and England, M.H.: Atlantic ocean heat transport enabled by
-  Indo-Pacific heat uptake and mixing. Submitted to **Geophysical
-  Research Letters**
 
 * Kiss A. E. et al.: [ACCESS-OM2: A Global Ocean-Sea Ice Model at
   Three Resolutions](https://doi.org/10.5194/gmd-2019-106). Submitted
