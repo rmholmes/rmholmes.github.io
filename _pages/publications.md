@@ -17,7 +17,7 @@ ___
 * [18] *Holmes, R. M.*, Zika, J.D., Ferrari, R., Thompson, A., Newsom,
   E. and England, M.H. (2019): [Atlantic ocean heat transport enabled
   by Indo-Pacific heat uptake and
-  mixing](https://doi.org/https://dx.doi.org/10.1029/2019GL085160). **Geophysical
+  mixing](https://dx.doi.org/10.1029/2019GL085160). **Geophysical
   Research Letters**, accepted.
 
 * [17] *Holmes R. M.*, de Lavergne, C. and McDougall, T.J. (2019):
