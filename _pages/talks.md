@@ -8,57 +8,61 @@ urlcolor: blue
 
 {% include base_path %}
 
-* **Atlantic ocean heat transport enabled by Indo-Pacific heat uptake
-  and mixing** (October 2019), CLEX Tropical Variability Seminar,
-  Sydney, Australia
+* Atlantic ocean heat transport enabled by Indo-Pacific heat uptake
+  and mixing (October 2019), **CLEX Tropical Variability Seminar,
+  Sydney, Australia**
 
-* **Global ocean heat transport and mixing in the eastern tropical
-  Pacific** (September-October 2019), Three 1 hour seminars at LOCEAN
-  Paris, IGD Grenoble and LEGOS Toulouse, France
+* Global ocean heat transport and mixing in the eastern tropical
+  Pacific (September-October 2019), Three 1 hour seminars at **LOCEAN
+  Paris, IGD Grenoble and LEGOS Toulouse, France**
 
-* **Diabatic Contributions to the Ocean's Meridional Heat Transport**
-  (July 2019), Talk at IUGG conference, Montreal, Canada
+* Diabatic contributions to the ocean's meridional heat transport
+  (September 2018), Talk at the **COSIMA Workshop Talk, Australian
+  National University, Canberra, Australia**
 
-* **Tracer Transport within Abyssal Mixing Layers** (July 2019), Talk
-  at IUGG conference, Montreal, Canada
+* Diabatic Contributions to the Ocean's Meridional Heat Transport
+  (July 2019), Talk at **IUGG conference, Montreal, Canada**
 
-* **Warm Water Volume Variability over ENSO events** (January 2019),
-  Talk at the Centre for Southern Hemisphere Ocean Research ENSO
-  Symposium, CSIRO, Hobart, Australia
+* Tracer Transport within Abyssal Mixing Layers** (July 2019), Talk at
+  **IUGG conference, Montreal, Canada**
 
-* **Diabatic contributions to the ocean's meridional heat transport**
-  (December 2018), Poster presentation at the Frontiers of Fluid
-  Mechanics workshop, Bureau of Meteorology, Sydney, Australia
+* Warm Water Volume Variability over ENSO events (January 2019), Talk
+  at the **Centre for Southern Hemisphere Ocean Research ENSO
+  Symposium, CSIRO, Hobart, Australia**
 
-* **Tracer transport within abyssal mixing layers** (December 2018),
-  talk at the bottom boundary layer turbulence and the ocean's
-  overturning circulation workshop, Massachusetts Institute of
-  Technology, Boston, U.S.A.
+* Diabatic contributions to the ocean's meridional heat transport
+  (December 2018), Poster presentation at the **Frontiers of Fluid
+  Mechanics workshop, Bureau of Meteorology, Sydney, Australia**
 
-* **Dianeutral circulation in the abyss: Tracer transport and the role
-  of seafloor geometry** (November 2018), Departmental seminar at the
-  National Centre for Atmospheric Research (NCAR), Boulder, Colorado,
-  U.S.A.
+* Tracer transport within abyssal mixing layers (December 2018), talk
+  at the **bottom boundary layer turbulence and the ocean's overturning
+  circulation workshop, Massachusetts Institute of Technology, Boston,
+  U.S.A.**
 
-* **Diabatic contributions to the ocean's meridional heat transport**
-  (November 2018), Poster presentation at the Centre of Excellence for
-  Climate Extremes (CLEX) Annual workshop, Wollongong, Australia
+* Dianeutral circulation in the abyss: Tracer transport and the role
+  of seafloor geometry (November 2018), Departmental seminar at the
+  **National Centre for Atmospheric Research (NCAR), Boulder, Colorado,
+  U.S.A.**
 
-* **Ocean heat transport in temperature coordinates and what it can
-  tell us about ocean processes and their role in climate** (July
-  2018), Research School of Earth Sciences, Australian National
-  University, Canberra, Australia
+* Diabatic contributions to the ocean's meridional heat transport
+  (November 2018), Poster presentation at the **Centre of Excellence for
+  Climate Extremes (CLEX) Annual workshop, Wollongong, Australia**
 
-* **Numerical Mixing in the COSIMA models** (May 2018), COSIMA Workshop
-  Talk, Australian National University, Canberra, Australia
+* Ocean heat transport in temperature coordinates and what it can tell
+  us about ocean processes and their role in climate (July 2018),
+  **Research School of Earth Sciences, Australian National University,
+  Canberra, Australia**
+
+* Numerical Mixing in the COSIMA models (May 2018), **COSIMA Workshop
+  Talk, Australian National University, Canberra, Australia**
   
-* **Water mass transformation techniques applied to two problems in
+* Water mass transformation techniques applied to two problems in
   oceanography: 1) tropical heat transport and 2) Antarctic Bottom
-  Water upwelling** (Feb 2018), College of Oceanic and Atmospheric
-  Sciences Seminar, Oregon State University, Corvallis, Oregon, U.S.A.
+  Water upwelling (Feb 2018), **College of Oceanic and Atmospheric
+  Sciences Seminar, Oregon State University, Oregon, U.S.A.**
   
-* **The Pacific Cold Tongue: The Blender of the Global Ocean** (Feb 2018),
-  Ocean Sciences Meeting Poster, Portland, Oregon, U.S.A.
+* The Pacific Cold Tongue: The Blender of the Global Ocean (Feb 2018),
+**Ocean Sciences Meeting Poster, Portland, Oregon, U.S.A.**
   
 * **Warm-to-Cold Ocean Heat Transport and its Variability in the Pacific**
   (Nov 2017, with Maurice Huguenin-Virchaux), UNSW ENSO Workshop Talk,
