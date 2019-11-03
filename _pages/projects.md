@@ -50,47 +50,54 @@ mixing across a suite of global ACCESS-OM2 simulations with varying
 horizontal and vertical resolutions, and varying explicit mixing
 parameterizations.
 
-## Completed Projects
-
 ### Tracer Transport near Abyssal Sloping Topography
 
-With Casimir de Lavergne and Trevor McDougall I am looking at the
+With Casimir de Lavergne and Trevor McDougall I have studied the
 behavoir of tracers released near the abyssal seafloor where turbulent
-mixing is bottom intensified.
+mixing is bottom intensified ([Holmes et al. 2019, Tracer transport
+within abyssal mixing layers, J. Phys
+Oceanogr.](https://doi.org/10.1175/JPO-D-19-0006.1)). Using
+one-dimensional boundary layer theory and the statisical moment method
+we have shown that the presence of the bottom boundary can in many
+cases reduce the rate at which tracers are transported across
+isopycnals. This work should help in the analysis of future tracer
+release experiments performed in the field (such as the planned
+Rockall Trough experiment).
 
 ### Contribution of Stochastic Oceanic Variability to ENSO
 
-* Holmes R. M., S. McGregor, A. Santoso and M.H. England (2018)
-  [Contribution of Tropical Instability Waves to ENSO
-  Irregularity](https://doi.org/10.1007/s00382-018-4217-0), **Climate
-  Dynamics**
+
+Holmes R. M., S. McGregor, A. Santoso and M.H. England (2018)
+[Contribution of Tropical Instability Waves to ENSO
+Irregularity](https://doi.org/10.1007/s00382-018-4217-0), **Climate
+Dynamics**
  
 ### The Influence of Topography on Dianeutral Transport in the Abyssal Ocean
 
-* Holmes R. M.*, C. de Lavergne and T. J. McDougall (2018) [Ridges,
-  Seamounts, Troughs and Bowls: Topographic Control of the Dianeutral
-  Circulation in the Abyssal
-  Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of
-  Physical Oceanography**, 48, 861–882. (Description coming...)
+Holmes R. M.*, C. de Lavergne and T. J. McDougall (2018) [Ridges,
+Seamounts, Troughs and Bowls: Topographic Control of the Dianeutral
+Circulation in the Abyssal
+Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of Physical
+Oceanography**, 48, 861–882. (Description coming...)
 
-* de Lavergne, C., G. Madec, F. Roquet, *R. M. Holmes* and
-  T. J. McDougall (2017) [Abyssal ocean overturning shaped by seafloor
-  distribution](http://dx.doi.org/10.1038/nature24472), **Nature**,
-  551,181–186.
+de Lavergne, C., G. Madec, F. Roquet, *R. M. Holmes* and
+T. J. McDougall (2017) [Abyssal ocean overturning shaped by seafloor
+distribution](http://dx.doi.org/10.1038/nature24472), **Nature**,
+551,181–186.
 
 ### Coastal Antarctic subsurface warming and ice sheet melt
 
-* Webb, D., *Holmes R. M.*, Spence, P. and England, M.H. (2019):
-  [Barotropic Kelvin wave-induced bottom boundary layer warming along
-  the West Antarctic
-  Peninsula](https://doi.org/10.1029/2018JC014227). **Journal of
-  Geophysical Research**, 124 (3), 1595-1615.
+Spence, P., *R. M. Holmes*, A. McC. Hogg, S. M. Griffies,
+K. D. Stewart, and M. H. England (2017), [Localized rapid warming of
+West Antarctic subsurface waters by remote
+winds](http://dx.doi.org/10.1038/nclimate3335), **Nature Climate
+Change**, 7 (8), 595-603.
 
-* Spence, P., *R. M. Holmes*, A. McC. Hogg, S. M. Griffies,
-  K. D. Stewart, and M. H. England (2017), [Localized rapid warming of
-  West Antarctic subsurface waters by remote
-  winds](http://dx.doi.org/10.1038/nclimate3335), **Nature Climate
-  Change**, 7 (8), 595-603.
+Webb, D., *Holmes R. M.*, Spence, P. and England, M.H. (2019):
+[Barotropic Kelvin wave-induced bottom boundary layer warming along
+the West Antarctic
+Peninsula](https://doi.org/10.1029/2018JC014227). **Journal of
+Geophysical Research**, 124 (3), 1595-1615.
 
 ## Ph.D. Projects
 
