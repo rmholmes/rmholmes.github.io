@@ -9,16 +9,16 @@ redirect_from:
 
 I am a physical oceanographer and climate scientist interested in the
 physics of the ocean circulation. My research focuses on how processes
-acting on small-scales, such as turbulent mixing and submesoscale to
-mesoscale eddies, influence the large-scale circulation and its
-variability. My research uses theoretical techniques, a range of
-idealized and realistic ocean models (regional ROMS, global MOM5,
-spectral Dedalus) and analysis of satellite and in-situ oceanographic
-data to better understand interactions across scales in the ocean. I
-am currently a postdoctoral researcher in the [Centre of Excellence
-for Climate Extremes](http://climateextremes.org.au/), the [Climate
-Change Research Centre](http://www.ccrc.unsw.edu.au/) and the [School
-of Mathematics and
+acting on small-scales, such as turbulent mixing and mesoscale eddies,
+influence the large-scale ocean circulation and its variability. I use
+theoretical techniques combined with a range of idealized and
+realistic ocean models (regional ROMS, global MOM5, spectral Dedalus)
+and analysis of oceanographic data to better understand interactions
+across scales in the ocean. I am currently a postdoctoral researcher
+in the [Centre of Excellence for Climate
+Extremes](http://climateextremes.org.au/), the [Climate Change
+Research Centre](http://www.ccrc.unsw.edu.au/) and the [School of
+Mathematics and
 Statistics](https://www.maths.unsw.edu.au/about/applied-mathematics)
 at the [University of New South Wales](https://www.unsw.edu.au/).
 
@@ -44,7 +44,7 @@ from warm to cold temperatures (the ocean's \textit{diathermal} heat
 transport). By developing a suite of novel heat transport diagnostics
 within a series of MOM5-based global ocean models (e.g. the Australian
 community ocean model,
-(ACCESS-OM2)[http://cosima.org.au/index.php/models/access-om2/]), I
+[ACCESS-OM2](http://cosima.org.au/index.php/models/access-om2/)), I
 study how ocean heat transport depends on parameterized diffusive
 mixing processes that move heat down-gradient from warm to cold
 temperatures. This diagnostic framework allows these important
