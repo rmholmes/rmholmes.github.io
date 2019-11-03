@@ -66,7 +66,7 @@ quantified, including the `artificial' numerical mixing arising from
 the numerical discretization of tracer transport.
 
 <p align="center">
-  <img src="/files/SectionSchematic_v14.pdf" alt="Heat Transport Schematic" style="width:80%;
+  <img src="/files/SectionSchematic_v14.png" alt="Heat Transport Schematic" style="width:80%;
   text-align:center"/>
 <figcaption> Figure 1: A schematic illustrating heat flows above,
 below and across the 15C and 20C isotherms in MOM5. Much of the heat

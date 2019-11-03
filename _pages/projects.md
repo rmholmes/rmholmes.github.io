@@ -74,7 +74,7 @@ Dynamics**
  
 ### The Influence of Topography on Dianeutral Transport in the Abyssal Ocean
 
-Holmes R. M.*, C. de Lavergne and T. J. McDougall (2018) [Ridges,
+Holmes R. M., C. de Lavergne and T. J. McDougall (2018) [Ridges,
 Seamounts, Troughs and Bowls: Topographic Control of the Dianeutral
 Circulation in the Abyssal
 Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of Physical
