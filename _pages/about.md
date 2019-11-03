@@ -14,13 +14,14 @@ influence the large-scale ocean circulation and its variability. I use
 theoretical techniques combined with a range of idealized and
 realistic ocean models (e.g. the regional model ROMS, the global model
 MOM5 and the spectral model Dedalus) and analysis of oceanographic
-data to better understand interactions across scales in the ocean. I
-obtained my PhD in 2016 from [Stanford
-University](https://www.stanford.edu/), working with Professor Leif
-Thomas. I am currently a postdoctoral researcher in the [Centre of
-Excellence for Climate Extremes](http://climateextremes.org.au/), the
-[Climate Change Research Centre](http://www.ccrc.unsw.edu.au/) and the
-[School of Mathematics and
+data to better understand interactions across scales in the ocean in
+order to represent them properly in low-resolution models. I obtained
+my PhD in 2016 from [Stanford University](https://www.stanford.edu/),
+working with Professor Leif Thomas. I am currently a postdoctoral
+researcher in the [Centre of Excellence for Climate
+Extremes](http://climateextremes.org.au/), the [Climate Change
+Research Centre](http://www.ccrc.unsw.edu.au/) and the [School of
+Mathematics and
 Statistics](https://www.maths.unsw.edu.au/about/applied-mathematics)
 at the [University of New South Wales](https://www.unsw.edu.au/) in
 Sydney, Australia.
