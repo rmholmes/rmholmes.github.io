@@ -29,8 +29,8 @@ Sydney, Australia.
 
 My research interests include:
 
-* **Equatorial dynamics, turbulent mixing and Tropical Instability
-Waves:** I am interested in equatorial dynamics and in particular how
+* **Equatorial dynamics, turbulent mixing and tropical instability
+waves:** I am interested in equatorial dynamics and in particular how
 processes on short timescales (months to seconds), such as tropical
 instability waves (TIWs), internal gravity waves and small-scale
 turbulence, influence the large-scale tropical circulation and its
@@ -47,7 +47,7 @@ Atmospheric Research (NCAR, USA) to study variability of turbulent
 mixing at the Equator from observations and a hierarchy of
 high-resolution models.
 
-* **Ocean Heat Transport in Temperature Space** The ocean is warmed by
+* **Ocean heat transport in temperature space:** The ocean is warmed by
 air-sea heat fluxes at low-latitudes and warm temperatures and cooled
 in the mid- and high-latitudes at colder temperatures. To maintain a
 steady state the ocean must therefore move heat not only from low to
@@ -60,18 +60,18 @@ study how the ocean's diathermal and meridional heat transport depends
 on parameterized diffusive mixing processes ([Holmes et al. 2018
 J. Phys. Oceanogr.](https://doi.org/10.1175/JPO-D-18-0098.1), [2019
 Geophysical Research
-Letters](https://dx.doi.org/10.1029/2019GL085160). This diagnostic
+Letters](https://dx.doi.org/10.1029/2019GL085160)). This diagnostic
 framework allows the role of mixing processes to be isolated and
 quantified, including the `artificial' numerical mixing arising from
 the numerical discretization of tracer transport.
 
-* **Abyssal Mixing and the Abyssal Diapycnal Circulation:** I am
-interested in diapycnal mixing and how it influences abyssal ocean
-circulation and the conversion of Antarctic Bottom Water into lighter
-water. As mixing in the abyssal ocean is seafloor-intensified the
-topography of the seafloor has a strong influence on abyssal
-circulation pathways ([de Lavergne et al. 2017
-Nature](http://dx.doi.org/10.1038/nature24472) and [Holmes et al. 2018
+* **Abyssal ocean circulation and mixing:** I am interested in
+diapycnal mixing and how it influences abyssal ocean circulation and
+the conversion of Antarctic Bottom Water into lighter water. As mixing
+in the abyssal ocean is seafloor-intensified the topography of the
+seafloor has a strong influence on abyssal circulation pathways ([de
+Lavergne et al. 2017 Nature](http://dx.doi.org/10.1038/nature24472)
+and [Holmes et al. 2018
 J. Phys. Oceanogr.](https://doi.org/10.1175/JPO-D-17-0141.1)). My more
 recent work focuses on using theoretical techniques and idealized
 process modelling to understand how tracers are transported in the
@@ -79,7 +79,7 @@ abyssal ocean in order to inform future field tracer release
 experiments ([Holmes et al. 2019
 J. Phys. Oceanogr.](https://doi.org/10.1175/JPO-D-19-0006.1)).
 
-* **Antarctic coastal circulation and subsurface warming:** I am
+* **Antarctic coastal circulation and ice shelf melting:** I am
 involved in a series of projects aimed at understanding the mechanisms
 that drive warm Circumpolar Deep Water onto the Antarctic continental
 shelf and into contact with vulnerable ice shelves, with worrying

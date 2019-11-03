@@ -53,7 +53,7 @@ with TIW phase is associated with variations in the EUC shear.
 
 
 <p align="center">
-  <img src="/files/Fig1.jpg" alt="Eq Longitude-Depth" style="width:60%;
+  <img src="/files/LonDepthMix.jpg" alt="Eq Longitude-Depth" style="width:60%;
   text-align:center"/>
   <figcaption>
 Figure 1: Equatorial Depth-Longitude slice of (a) Temperature, (b)

@@ -18,8 +18,37 @@ detailed subpages and/or the published articles.
 With Jan Zika, Matthew England and a number of other collaborators
 national and international collaborators I am looking at how heat is
 transported between different temperature layers within a series of
-global ocean models. 
+global ocean models. We have developed a novel set of heat budget
+diagnostics within the MOM5 global ocean model in which we can
+robustly diagnose heat transport across isotherms and in
+three-dimensional space and its various contributing processes.
 
+The first part of this project focused on the temperature and seasonal
+structure of the various mixing processes that contribute to the
+ocean's globally-integrated diathermal heat transport ([Holmes et
+al. 2019, Diathermal heat transport in a global ocean model,
+J. Phys. Oceanogr.](https://doi.org/10.1175/JPO-D-18-0098.1)).
+
+In collaboration with Raffaele Ferrari (MIT), Andrew Thompson
+(CalTech) and Emily Newsom (Oxford), we have published a follow-up
+study that shows the critical role that turbulent mixing and air-sea
+heat fluxes in the tropical Pacific ocean play for the global ocean
+heat transport ([Holmes et al. 2019, Atlantic ocean heat transport
+enabled by Indo-Pacific heat uptake and mixing, Geophysical Research
+Letters](https://dx.doi.org/10.1029/2019GL085160)). Specifically, this
+study showed that mixing drives heat out of the shallow wind-driven
+circulation in the Indo-Pacific basins to the deep cold overturning
+circulation in the Atlantic allowing heat to be transfered northward
+in the Atlantic.
+
+Finally, this project has also given us a method in which to
+accurately and robustly quantify the spatial and temporal structure of
+numerical mixing. Numerical `spurious' mixing arrises from the model's
+discretization of the tracer advection scheme. We are currently
+applying this method to quantify and compare the levels of numerical
+mixing across a suite of global ACCESS-OM2 simulations with varying
+horizontal and vertical resolutions, and varying explicit mixing
+parameterizations.
 
 ## Completed Projects
 
@@ -31,31 +60,37 @@ mixing is bottom intensified.
 
 ### Contribution of Stochastic Oceanic Variability to ENSO
 
-*Holmes R. M.*, S. McGregor, A. Santoso and M.H. England (2018)
- [Contribution of Tropical Instability Waves to ENSO
- Irregularity](https://doi.org/10.1007/s00382-018-4217-0), in press at
- **Climate Dynamics** (Description coming...)
+* Holmes R. M., S. McGregor, A. Santoso and M.H. England (2018)
+  [Contribution of Tropical Instability Waves to ENSO
+  Irregularity](https://doi.org/10.1007/s00382-018-4217-0), **Climate
+  Dynamics**
  
 ### The Influence of Topography on Dianeutral Transport in the Abyssal Ocean
 
-*Holmes R. M.*, C. de Lavergne and T. J. McDougall (2018) [Ridges,
- Seamounts, Troughs and Bowls: Topographic Control of the Dianeutral
- Circulation in the Abyssal
- Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of
- Physical Oceanography**, 48, 861–882. (Description coming...)
+* Holmes R. M.*, C. de Lavergne and T. J. McDougall (2018) [Ridges,
+  Seamounts, Troughs and Bowls: Topographic Control of the Dianeutral
+  Circulation in the Abyssal
+  Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of
+  Physical Oceanography**, 48, 861–882. (Description coming...)
 
- de Lavergne, C., G. Madec, F. Roquet, *R. M. Holmes* and
- T. J. McDougall (2017) [Abyssal ocean overturning shaped by seafloor
- distribution](http://dx.doi.org/10.1038/nature24472), **Nature**,
- 551,181–186.
+* de Lavergne, C., G. Madec, F. Roquet, *R. M. Holmes* and
+  T. J. McDougall (2017) [Abyssal ocean overturning shaped by seafloor
+  distribution](http://dx.doi.org/10.1038/nature24472), **Nature**,
+  551,181–186.
 
 ### Coastal Antarctic subsurface warming and ice sheet melt
 
- Spence, P., *R. M. Holmes*, A. McC. Hogg, S. M. Griffies,
- K. D. Stewart, and M. H. England (2017), [Localized rapid warming of
- West Antarctic subsurface waters by remote
- winds](http://dx.doi.org/10.1038/nclimate3335), **Nature Climate
- Change**, 7 (8), 595-603.
+* Webb, D., *Holmes R. M.*, Spence, P. and England, M.H. (2019):
+  [Barotropic Kelvin wave-induced bottom boundary layer warming along
+  the West Antarctic
+  Peninsula](https://doi.org/10.1029/2018JC014227). **Journal of
+  Geophysical Research**, 124 (3), 1595-1615.
+
+* Spence, P., *R. M. Holmes*, A. McC. Hogg, S. M. Griffies,
+  K. D. Stewart, and M. H. England (2017), [Localized rapid warming of
+  West Antarctic subsurface waters by remote
+  winds](http://dx.doi.org/10.1038/nclimate3335), **Nature Climate
+  Change**, 7 (8), 595-603.
 
 ## Ph.D. Projects
 
