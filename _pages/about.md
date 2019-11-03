@@ -101,6 +101,19 @@ by bottom Ekman transport associated with coastally trapped barotropic
 waves [Spence, Holmes et al. 2017 Nature Climate
 Change](http://dx.doi.org/10.1038/nclimate3335).
 
+<p align="center">
+  <img src="/files/NATCCsch.png" alt="Antarctic Kelvin Wave" style="width:80%;
+  text-align:center"/>
+<figcaption> Figure 2: The pathway of a barotropic Kelvin wave
+  propagating around the Antarctic peninsula. On the west side of the
+  peninsula (blue box) the Kelvin wave drives circulation changes that
+  can bring warm circumpolar deep water onto the continental shelf and
+  into contact with the vulnerable ice shelves (see [Spence et
+  al. 2017 Nature Climate Change
+  Letters](http://dx.doi.org/10.1038/nclimate3335) for more
+  information) transport </figcaption>
+</p>
+
 This website contains my CV, a list of publications, conference talks
 and a short summary of some of the projects that I am currently
 involved in.  If you wish to know more or have any other questions,
