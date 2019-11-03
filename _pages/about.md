@@ -37,14 +37,14 @@ turbulence, influence the large-scale tropical circulation and its
 modes of variability such as the El-Nino Southern Oscillation
 (ENSO). My PhD work focused on TIWs and their role in driving mixing
 in the equatorial Pacific (e.g. their modulation of shear-driven
-turbulence, [Holmes and Thomas
-(2015)](http://dx.doi.org/10.1175/JPO-D-14-0209.1)). More recently I
-have shown that the chaotic nature of TIWs influences ENSO
-predictability ([Holmes et
-al. 2019](https://doi.org/10.1007/s00382-018-4217-0)). I have also
+turbulence, [Holmes and Thomas 2015
+J. Phys. Oceanogr.](http://dx.doi.org/10.1175/JPO-D-14-0209.1)). More
+recently I have shown that the chaotic nature of TIWs influences ENSO
+predictability ([Holmes et al. 2019 Climate
+Dynamics](https://doi.org/10.1007/s00382-018-4217-0)). I have also
 been collaborating with scientists at the National Centre for
-Atmospheric Research (NCAR, USA) to study variabilty of turbulent
-mixing at the Equator from observations and a hierachy of
+Atmospheric Research (NCAR, USA) to study variability of turbulent
+mixing at the Equator from observations and a hierarchy of
 high-resolution models.
 
 * _Ocean Heat Transport in Temperature Space_ The ocean is warmed by
@@ -57,14 +57,13 @@ transport). By developing a suite of novel heat transport diagnostics
 within a series of MOM5-based global ocean models (e.g. the Australian
 community ocean model,
 [ACCESS-OM2](http://cosima.org.au/index.php/models/access-om2/)), I
-study how ocean heat transport depends on parameterized diffusive
-mixing processes that move heat down-gradient from warm to cold
-temperatures ([Holmes et al. 2018
-J. Phys. Oceangr.](https://doi.org/10.1175/JPO-D-18-0098.1), [2019
-Geophysical Research
+study how this ocean heat transport depends on parameterized diffusive
+mixing processes that drive diathermal heat transport ([Holmes et
+al. 2018 J. Phys. Oceanogr.](https://doi.org/10.1175/JPO-D-18-0098.1),
+[2019 Geophysical Research
 Letters](https://dx.doi.org/10.1029/2019GL085160). This diagnostic
 framework allows these important processes to be isolated and
-quantified, including the `artificial' numerical mixing arrising from
+quantified, including the `artificial numerical mixing arising from
 the discretization of tracer transport in ocean models.
 
 * _Abyssal Mixing and the Abyssal Diapycnal Circulation:_ I am
@@ -75,11 +74,12 @@ seafloor-intensified, the topography of the seafloor has a strong
 influence on abyssal circulation pathways and water-mass
 transformation ([de Lavergne et al. 2017
 Nature](http://dx.doi.org/10.1038/nature24472) and [Holmes et al. 2018
-J. Phys. Oceangr.](https://doi.org/10.1175/JPO-D-17-0141.1)). Using
-theoretical techniques and idealized process modelling I have also
-been studying how tracers are transported in the abyssal ocean in
-order to inform planned field tracer release experiments ([Holmes et
-al. 2019 J. Phys. Oceangr.](https://doi.org/10.1175/JPO-D-19-0006.1)).
+J. Phys. Oceanogr.](https://doi.org/10.1175/JPO-D-17-0141.1)). More
+recent work using theoretical techniques and idealized process
+modelling has focused on how tracers are transported in the abyssal
+ocean in order to inform a planned field tracer release experiment
+([Holmes et al. 2019
+J. Phys. Oceanogr.](https://doi.org/10.1175/JPO-D-19-0006.1)).
 
 * _Antarctic coastal circulation and subsurface warming:_ I am
 involved in a series of projects that aim to understand the mechanisms
@@ -88,7 +88,7 @@ Antarctic continental shelf, potentially increasing the melt rate of
 vulnerable ice shelves with worrying implications for global sea level
 rise. One such mechanism highlighted by our work involves the
 transport of heat onto the continental shelf driven by bottom Ekman
-transport arrising from coastally trapped barotropic waves that
+transport arising from coastally trapped barotropic waves that
 propagate around the Antarctic coastline [Spence, Holmes et al. 2017
 Nature Climate Change](http://dx.doi.org/10.1038/nclimate3335).
 
