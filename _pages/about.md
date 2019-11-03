@@ -65,6 +65,18 @@ framework allows the role of mixing processes to be isolated and
 quantified, including the `artificial' numerical mixing arising from
 the numerical discretization of tracer transport.
 
+<p align="center">
+  <img src="/files/SectionSchematic_v14.pdf" alt="Heat Transport Schematic" style="width:80%;
+  text-align:center"/>
+<figcaption> Figure 1: A schematic illustrating heat flows above,
+below and across the 15C and 20C isotherms in MOM5. Much of the heat
+that is transported northward in the Atlantic is ultimately sourced
+from heat uptake and turbulent mixing in the tropical Pacific (see
+[Holmes et al. 2019 Geophysical Research
+Letters](https://dx.doi.org/10.1029/2019GL085160)) transport
+</figcaption>
+</p>
+
 * **Abyssal ocean circulation and mixing:** I am interested in
 diapycnal mixing and how it influences abyssal ocean circulation and
 the conversion of Antarctic Bottom Water into lighter water. As mixing
