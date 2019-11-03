@@ -35,9 +35,8 @@ variability, in particular the El-Nino Southern Oscillation
 (ENSO). 
 
 * _Ocean Heat Transport in Temperature Space_ The ocean is warmed by
-air-sea heat fluxes at low-latitudes (predominantly in the eastern
-Pacific cold tongue, see Fig. 1) and warm temperatures and cooled in
-the mid- and high-latitudes at colder temperatures. Therefore, in
+air-sea heat fluxes at low-latitudes and warm temperatures and cooled
+in the mid- and high-latitudes at colder temperatures. Therefore, in
 order to maintain a steady state, heat must be moved not only from low
 to high latitudes (the ocean's *meridional* heat transport), but also
 from warm to cold temperatures (the ocean's \textit{diathermal} heat
