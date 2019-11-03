@@ -47,14 +47,14 @@ Atmospheric Research (NCAR, USA) to study variability of turbulent
 mixing at the Equator from observations and a hierarchy of
 high-resolution models.
 
-* **Ocean heat transport in temperature space:** The ocean is warmed by
-air-sea heat fluxes at low-latitudes and warm temperatures and cooled
-in the mid- and high-latitudes at colder temperatures. To maintain a
-steady state the ocean must therefore move heat not only from low to
-high latitudes (*meridional* heat transport), but also from warm to
-cold temperatures (*diathermal* heat transport). By developing a suite
-of novel heat transport diagnostics within the MOM5-based Australian
-community global ocean model
+* **Ocean heat transport in temperature space:** The ocean is warmed
+by air-sea heat fluxes at low-latitudes and warm temperatures and
+cooled in the mid- and high-latitudes at colder temperatures. To
+maintain a steady state the ocean must therefore move heat not only
+from low to high latitudes (*meridional* heat transport), but also
+from warm to cold temperatures (*diathermal* heat transport). By
+developing a suite of novel heat transport diagnostics within the
+MOM5-based Australian community global ocean model
 [ACCESS-OM2](http://cosima.org.au/index.php/models/access-om2/), I
 study how the ocean's diathermal and meridional heat transport depends
 on parameterized diffusive mixing processes ([Holmes et al. 2018
@@ -63,19 +63,19 @@ Geophysical Research
 Letters](https://dx.doi.org/10.1029/2019GL085160)). This diagnostic
 framework allows the role of mixing processes to be isolated and
 quantified, including the `artificial' numerical mixing arising from
-the numerical discretization of tracer transport.
+the numerical discretization of tracer transport (article in
+preparation).
 
-<p align="center">
-  <img src="/files/SectionSchematic_v14.png" alt="Heat Transport Schematic" style="width:80%;
-  text-align:center"/>
-<figcaption> Figure 1: A schematic illustrating heat flows above,
-below and across the 15C and 20C isotherms in MOM5. Much of the heat
-that is transported northward in the Atlantic is ultimately sourced
-from heat uptake and turbulent mixing in the tropical Pacific (see
-[Holmes et al. 2019 Geophysical Research
-Letters](https://dx.doi.org/10.1029/2019GL085160)) transport
-</figcaption>
-</p>
+<p align="center"> <img src="/files/SectionSchematic_v14.png"
+  alt="Heat Transport Schematic" style="width:80%;
+  text-align:center"/> <figcaption> Figure 1: A schematic illustrating
+  heat flows above, below and across the 15C and 20C isotherms from a
+  MOM5 global ocean model simulation. Much of the heat that is
+  transported northward in the Atlantic is ultimately sourced from
+  heat uptake and turbulent mixing in the tropical Pacific (see
+  Holmes et al. 2019 Geophysical Research
+  Letters for more information).
+  </figcaption> </p>
 
 * **Abyssal ocean circulation and mixing:** I am interested in
 diapycnal mixing and how it influences abyssal ocean circulation and
@@ -102,16 +102,15 @@ waves [Spence, Holmes et al. 2017 Nature Climate
 Change](http://dx.doi.org/10.1038/nclimate3335).
 
 <p align="center">
-  <img src="/files/NATCCsch.png" alt="Antarctic Kelvin Wave" style="width:80%;
+  <img src="/files/NATCCsch.png" alt="Antarctic Kelvin Wave" style="width:60%;
   text-align:center"/>
 <figcaption> Figure 2: The pathway of a barotropic Kelvin wave
   propagating around the Antarctic peninsula. On the west side of the
   peninsula (blue box) the Kelvin wave drives circulation changes that
   can bring warm circumpolar deep water onto the continental shelf and
-  into contact with the vulnerable ice shelves (see [Spence et
-  al. 2017 Nature Climate Change
-  Letters](http://dx.doi.org/10.1038/nclimate3335) for more
-  information) transport </figcaption>
+  into contact with the vulnerable ice shelves (see Spence et
+  al. 2017 Nature Climate Change for more
+  information) </figcaption>
 </p>
 
 This website contains my CV, a list of publications, conference talks
