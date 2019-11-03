@@ -22,6 +22,7 @@ Santa Barbara__, Physics, GPA: 3.78/4
 Australia, University Admissions Index (UAI): 99.6/100
 
 ## Funding
+___
 * 2018-2020 D. Whitt, S. Bachman, R-C Lien, W. Large and R. Holmes,
 Simulations and analysis of mesoscale to turbulence scale process
 models to facilitate observational process deployments in the
@@ -62,7 +63,6 @@ physics, affine geometry.
 
 ## Teaching
 ___
-
 * 2019 __Lecturer__, MSCI2001-Introductory Marine Science, University
 of New South Wales. Taught first two weeks (6 hours of lectures) on an
 introduction to physical oceanography. Led a four day field trip
@@ -87,10 +87,10 @@ University.
 
 ## Student supervision
 ___
-
 * 2019-present __Ph.D. project cosupervisor__, Maurice Huguenin-Virchaux,
 University of New South Wales
-* 2019-present __Ph.D. project cosupervisor__, Shweta Sharma, University of New
+* 2019-present __Ph.D. project cosupervisor__, Shweta Sharma, Seasonal to
+  Multi-Decadal Variability in Southern Ocean Eddy Activity, University of New
   South Wales
 * 2016-present __Ph.D. project cosupervisor__, David Webb, Propagation of
 coastal Kelvin waves and their impact on Antarctic climate, University
@@ -99,16 +99,15 @@ of New South Wales
 Huguenin-Virchaux, Mechanisms driving ocean heat uptake and warm water
 volume variability over idealized ENSO events, University of New South
 Wales
-* 2017-2018 __Summer undergraduate research project supervisor__, Gideon Kwok, The
-propagation of Kelvin waves in a shallow water ocean, University of
-New South Wales
+* 2017-2018 __Summer undergraduate research project supervisor__ ,
+Gideon Kwok, The propagation of Kelvin waves in a shallow water ocean
+(six week summer project), University of New South Wales
 * 2015 __Undergraduate research project supervisor__, David Webb,
-Scattering of coastal Kelvin waves at a sharp bend, University of New
-South Wales.
+Scattering of coastal Kelvin waves at a sharp bend (two month summer
+project), University of New South Wales.
 
 ## Administration and Volunteering
 ___
-
 * 2019 __Session Convenor__: Tropical Oceanography Session, Australian
 Meteorological and Oceanographic Society Annual Meeting, Darwin
 * 2019 __Workshop co-organiser__: Water mass transformation for ocean

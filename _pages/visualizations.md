@@ -31,7 +31,7 @@ Equatorial Waves](http://dx.doi.org/10.1002/2015GL066472))
 # Tropical Instability Waves
 
 <p align="center">
-  <img src="/files/tpos20_animation.gif" alt="Tropical Instability Waves TPOS20" style="width:80%;
+  <img src="/files/tpos20_animation.gif" alt="Tropical Instability Waves TPOS20" style="width:100%;
   text-align:center"/>
 </p>
 
@@ -44,7 +44,7 @@ mixing and upwelling in the Pacific cold tongue.
 # Tracer transport in Abyssal Mixing Layers
 
 <p align="center">
-   <video src="/files/tracer_animation.mp4" width="800" controls preload></video>
+   <video src="/files/tracer_animation.mp4" width="600" controls preload></video>
 </p>
 
 The above animation shows a tracer released near a sloping boundary
