@@ -21,12 +21,12 @@ right panel it is excluded (the so-called traditional
 approximation). Including this component changes the wave physics in
 the deep ocean and can create trapping regions where energy builds up
 and small scale shear can develop, potentially contributing to deep
-ocean mixing. These simulations were performed using the Dedalus
-spectral PDEs solver. For more information: [Deep Equatorial Waves
-Project Summary](/projects/DeepEqMix), [GRL article: Holmes et
-al. (2016): Evidence for Seafloor-Intensified Mixing by
-Surface-Generated Equatorial
-Waves](http://dx.doi.org/10.1002/2015GL066472))
+ocean mixing. These simulations were performed using the [Dedalus
+spectral PDEs solver](http://dedalus-project.org/). For more
+information: [Deep Equatorial Waves Project
+Summary](/projects/DeepEqMix), [GRL article: Holmes et al. (2016):
+Evidence for Seafloor-Intensified Mixing by Surface-Generated
+Equatorial Waves](http://dx.doi.org/10.1002/2015GL066472))
 
 # Tropical Instability Waves
 
