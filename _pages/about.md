@@ -24,6 +24,8 @@ at the [University of New South Wales](https://www.unsw.edu.au/).
 
 ## Research Interests
 
+My research interests include:
+
 * _Equatorial dynamics, turbulent mixing and Tropical Instability
 Waves:_ I am interested in equatorial dynamics and in particular how
 processes on short timescales (months to seconds), such as tropical
