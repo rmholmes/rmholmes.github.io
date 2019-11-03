@@ -15,11 +15,18 @@ ___
 of Earth System Science, GPA: 4.084/4
 * 2006-2010 __Bachelor of Philosophy (Honours), Australian
 National University__, Physics, First class honours 95/100 with
-University medal
+*University medal*
 * 2008-2009 __Study Abroad Program, University of California
 Santa Barbara__, Physics, GPA: 3.78/4
 * 2004-2005 Year 12 Certificate, Lake Ginninderra College, Canberra,
 Australia, University Admissions Index (UAI): 99.6/100
+
+## Funding
+* 2018-2020 D. Whitt, S. Bachman, R-C Lien, W. Large and R. Holmes,
+Simulations and analysis of mesoscale to turbulence scale process
+models to facilitate observational process deployments in the
+Equatorial Pacific Cold Tongue. NOAA/OAR Climate Variability and
+Predictability Program NOAA-OAR-CPO-2018-2005492
 
 ## Honors and Awards
 ___
@@ -31,13 +38,6 @@ Participant, Hawaii.
 * 2012-2015 Stanford University Graduate Fellowship Award
 * 2006-2010 Bachelor of Philosophy (Honours) Scholarship, Total AU$20,000
 * 2010 University Medal in Physics, Australian National University
-
-## Funding
-* 2018-2020 D. Whitt, S. Bachman, R-C Lien, W. Large and R. Holmes,
-Simulations and analysis of mesoscale to turbulence scale process
-models to facilitate observational process deployments in the
-Equatorial Pacific Cold Tongue. NOAA/OAR Climate Variability and
-Predictability Program NOAA-OAR-CPO-2018-2005492
 
 ## Academic Experience
 ___
@@ -115,9 +115,11 @@ Meteorological and Oceanographic Society Annual Meeting, Darwin
 physics and biogeochemistry. University of New South Wales, Sydney
 * 2019 __Summer School Co-organiser__: Advanced Ocean Modelling
 Summer School, Hobart, Tasmania
+* 2018+ __NCI project data/SUs manager__: e14 NCI project (Matthew
+  England),
 * 2018 __Session Convenor__: Ocean General Session, Australian
-Meteorological and Oceanographic Society Annual Meeting, Sydney
-* 2018-2019 Centre of Excellence for Climate Extremes __Early Career
+Meteorological and Oceanographic Society Annual Meeting, Sydney *
+2018-2019 Centre of Excellence for Climate Extremes __Early Career
 Research (ECR) commitee member__ and UNSW representative. Annual
 Meeting 2018 __ECR day main organiser__
 

@@ -8,6 +8,8 @@ urlcolor: blue
 
 {% include base_path %}
 
+### 2019
+
 * Atlantic ocean heat transport enabled by Indo-Pacific heat uptake
   and mixing (October 2019), **CLEX Tropical Variability Seminar,
   Sydney, Australia**
@@ -17,7 +19,7 @@ urlcolor: blue
   Paris, IGD Grenoble and LEGOS Toulouse, France**
 
 * Diabatic contributions to the ocean's meridional heat transport
-  (September 2018), Talk at the **COSIMA Workshop Talk, Australian
+  (September 2019), Talk at the **COSIMA Workshop Talk, Australian
   National University, Canberra, Australia**
 
 * Diabatic Contributions to the Ocean's Meridional Heat Transport
@@ -29,6 +31,8 @@ urlcolor: blue
 * Warm Water Volume Variability over ENSO events (January 2019), Talk
   at the **Centre for Southern Hemisphere Ocean Research ENSO
   Symposium, CSIRO, Hobart, Australia**
+
+### 2018
 
 * Diabatic contributions to the ocean's meridional heat transport
   (December 2018), Poster presentation at the **Frontiers of Fluid
@@ -63,7 +67,9 @@ urlcolor: blue
   
 * The Pacific Cold Tongue: The Blender of the Global Ocean (Feb 2018),
   **Ocean Sciences Meeting Poster, Portland, Oregon, U.S.A.**
-  
+
+### 2017
+
 * Warm-to-Cold Ocean Heat Transport and its Variability in the Pacific
   (Nov 2017, with Maurice Huguenin-Virchaux), **ENSO Workshop Talk,
   University of New South Wales, Sydney, Australia**
@@ -92,6 +98,8 @@ urlcolor: blue
   2017), **Talk at Australian Meteorological and Oceanographic Society
   Annual Conference Canberra, Australian Capital Territory, Australia**
 
+### 2016
+
 * Eddies, waves and internal variability in the tropical Pacific
   Ocean: Implications for the El Nino - Southern Oscillation (Nov
   2016), **Invited Talk at the Australian Research Council Centre of
@@ -119,6 +127,8 @@ urlcolor: blue
   Equatorial Waves (Feb 2016), **Ocean Sciences Meeting Talk, New
   Orleans, Louisiana, USA**
 
+### 2015
+
 * Scattering of Equatorial Kelvin Waves by Tropical Instability
   Vortices (Jun 2015), **20th Conference on Atmospheric and Oceanic
   Fluid Dynamics Poster Presentation, Minneapolis, Minnesota, USA**
@@ -126,7 +136,9 @@ urlcolor: blue
 * Tropical Instability Waves and Equatorial Mixing (May 2015),
   **Geophysical Fluid Dynamics Laboratory Seminar, Australian National
   University, Australia**
-  
+
+### 2014
+
 * Equatorial Turbulence and Tropical Instability Waves (Dec 2014),
   **AGU Annual Meeting Abstract and Talk, San Francisco, California,
   USA**
@@ -146,7 +158,9 @@ Wales, Sydney NSW, Australia**
 * The Vortex Dynamics of the Modulation of Equatorial Mixing by
   Tropical Instability Waves (Feb 2014), **Ocean Sciences Poster,
   Honolulu, Hawaii, USA**
-  
+
+### 2013
+
 * The Vortex Dynamics of the Modulation of Equatorial Mixing by
   Tropical Instability Waves (Dec 2013), **AGU Annual Meeting Poster,
   San Francisco, California**
@@ -155,11 +169,14 @@ Wales, Sydney NSW, Australia**
   vortex (TIV) core water formation (Mar 2013), **33rd Annual CNLS
   Conference: Ocean Turbulence Abstract and Poster, Santa Fe, New
   Mexico, USA**
-  
-* Potential Vorticity Dynamics of Tropical Instability Vortices
-  (Dec 2012), **Geophysical Fluid Dynamics Laboratory Seminar,
-  Australian National University, Canberra ACT, Australia**
+
+### 2012
+
+* Potential Vorticity Dynamics of Tropical Instability Vortices (Dec
+  2012), **Geophysical Fluid Dynamics Laboratory Seminar, Australian
+  National University, Canberra ACT, Australia**
   
 * On the Potential Vorticity Dynamics of Tropical Instability Vortices
-  (Dec 2012), **AGU Annual Meeting Talk, San Francisco, California, USA**
+  (Dec 2012), **AGU Annual Meeting Talk, San Francisco, California,
+  USA**
   
