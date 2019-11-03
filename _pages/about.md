@@ -39,7 +39,7 @@ air-sea heat fluxes at low-latitudes and warm temperatures and cooled
 in the mid- and high-latitudes at colder temperatures. Therefore, in
 order to maintain a steady state, heat must be moved not only from low
 to high latitudes (the ocean's *meridional* heat transport), but also
-from warm to cold temperatures (the ocean's \textit{diathermal} heat
+from warm to cold temperatures (the ocean's *diathermal* heat
 transport). By developing a suite of novel heat transport diagnostics
 within a series of MOM5-based global ocean models (e.g. the Australian
 community ocean model,
@@ -63,7 +63,7 @@ J. Phys. Oceangr.](https://doi.org/10.1175/JPO-D-17-0141.1)). Using
 theoretical techniques and idealized process modelling I have also
 been studying how tracers are transported in the abyssal ocean in
 order to inform planned field tracer release experiments ([Holmes et
-al. 2019 J. Phys. Oceangr.](https://doi.org/10.1175/JPO-D-19-0006.1).
+al. 2019 J. Phys. Oceangr.](https://doi.org/10.1175/JPO-D-19-0006.1)).
 
 * _Antarctic coastal circulation and subsurface warming:_ I am also
 involved in a series of projects that aim to understand the mechanisms
