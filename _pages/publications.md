@@ -7,11 +7,12 @@ urlcolor: blue
 
 {% include base_path %}
 
-Please see below for a publication list. You can also find my
-published articles on [my Google Scholar
+Please see below for a publication list, including journal articles,
+theses, media articles and data sets. You can also visit my [Google
+Scholar
 profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
-# Journal Articles
+## Journal Articles
 ___
 
 ### 2019
@@ -136,7 +137,7 @@ ___
   subduction within the mesoscale eddy field of the Tasman
   Sea. Submitted to the **Journal of Physical Oceanography**
 
-# Theses
+## Theses
 ___
 
 ### Ph.D. Thesis
@@ -151,7 +152,7 @@ Supervisor: Professor David R. M. Williams. [`PDF Link`]({{ site.url
 }}/files/Ryan_Holmes_Honours_Thesis.pdf)
 
 
-# Media Articles
+## Media Articles
 ___
 
 * *Holmes R. M.*, Groeskamp S. and de Lavergne, C. [Climate Recorded
@@ -193,7 +194,7 @@ Stanford University News, February 2016.
    Insights](http://www.fondriest.com/news/study-deep-turbulence-reveals-ocean-currents-insights.htm)
    Environmental Monitor, April 2016.
 
-# Data Sets
+## Data Sets
 ___
 
 * de Lavergne, C., Madec, G., Roquet, F., Holmes, R. M. and McDougall,
