@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Associate in the [Centre of Excellence for
-Climate Extremes](http://climateextremes.org.au/), the [Climate Change
+I am a physical oceanographer and climate scientist interested in the
+physics of the ocean circulation and ocean modelling.  My research
+involves applying theoretical techniques and a range of idealized and
+realistic ocean models (ROMS, MOM5, MOM6, Dedalus) and analysis of
+satellite and in-situ oceanographic data. I am currently a Senior
+Research Associate in the [Centre of Excellence for Climate
+Extremes](http://climateextremes.org.au/), the [Climate Change
 Research Centre](http://www.ccrc.unsw.edu.au/) and the [School of
 Mathematics and
 Statistics](https://www.maths.unsw.edu.au/about/applied-mathematics)
-at the [University of New South Wales](https://www.unsw.edu.au/). I
-study the physics of ocean circulation using theoretical techniques, a
-range of idealized and realistic ocean models (ROMS, MOM5, MOM6,
-Dedalus) and analysis of satellite and in-situ oceanographic data.
+at the [University of New South Wales](https://www.unsw.edu.au/).
 
 ## Research Interests
 
