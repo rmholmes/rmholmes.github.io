@@ -11,23 +11,23 @@ accessible descriptions of the range of projects that I am currently
 working on or have completed. Please follow the links for more
 detailed subpages and/or the published articles.
 
-# Current Projects
-___
+## Current Projects
 
 ### Diathermal Heat Transport in a Global Ocean Model
 
-With Jan Zika and Matthew England I am looking at how heat is
+With Jan Zika, Matthew England and a number of other collaborators
+national and international collaborators I am looking at how heat is
 transported between different temperature layers within a series of
-global ocean models.
+global ocean models. 
+
+
+## Completed Projects
 
 ### Tracer Transport near Abyssal Sloping Topography
 
 With Casimir de Lavergne and Trevor McDougall I am looking at the
 behavoir of tracers released near the abyssal seafloor where turbulent
 mixing is bottom intensified.
-
-# Completed Projects
-___
 
 ### Contribution of Stochastic Oceanic Variability to ENSO
 
@@ -115,27 +115,28 @@ TIWs. In collaboration with Sally Warner and Jim Moum at Oregon State
 University I investigated these fronts from a modelling pospective,
 and compared them to several real fronts observed using ADCP, CTD and
 microstructure turbulence instruments on two separate research cruises
-in the equatorial Pacific. This work has recently been published in
-the [Journal of Physical Oceanography](/publications)
+in the equatorial Pacific. This work has been published in the
+[Journal of Physical Oceanography](/publications)
 
 ### Chapter 2: The influence of Tropical Instability Waves on Vertical Mixing in the EUC
 
 Recent observations have shown that turbulent mixing within the EUC is
 modulated by TIWs, with implications for the role of TIWs in the heat
 budget of the upper equatorial Pacific. In an article published in the
-Journal of Physical Oceanography (The Modulation of Equatorial
-Turbulence by Tropical Instability Waves in a Regional Ocean Model), I
-showed that large-scale TIW strain can modulate the shear of the EUC
-through horizontal vortex stretching. This modulation of the EUC shear
-drives a subsequent modulation of the Richardson number and thus
-shear-driven vertical mixing. Furthermore, using a simple 1D mixing
-model of the EUC driven by periodic TIW strain, I was able to show
-that this modulation drove an overall increase in the turbulent heat
-flux, with the amount of increase dependent on the parameterization
-for shear-driven vertical mixing included in the mixing model. Thus,
-while TIWs are thought to warm the equatorial cold tongue through
-lateral mixing, their influence on vertical mixing results in a net
-surface cooling that offsets the lateral heating.
+Journal of Physical Oceanography ([The Modulation of Equatorial
+Turbulence by Tropical Instability Waves in a Regional Ocean
+Model](http://dx.doi.org/10.1175/JPO-D-14-0209.1)), I showed that
+large-scale TIW strain can modulate the shear of the EUC through
+horizontal vortex stretching. This modulation of the EUC shear drives
+a subsequent modulation of the Richardson number and thus shear-driven
+vertical mixing. Furthermore, using a simple 1D mixing model of the
+EUC driven by periodic TIW strain, I was able to show that this
+modulation drove an overall increase in the turbulent heat flux, with
+the amount of increase dependent on the parameterization for
+shear-driven vertical mixing included in the mixing model. Thus, while
+TIWs are thought to warm the equatorial cold tongue through lateral
+mixing, their influence on vertical mixing results in a net surface
+cooling that offsets the lateral heating.
 
 [`More Information`](/projects/TIW_Mixing)
 
@@ -153,10 +154,10 @@ Kelvin waves drove an intensification in TIWKE of a similar
 magnitude. These TIWKE changes occured because of Kelvin wave induced
 modifications to the background equatorial circulation from which TIWs
 gain energy. This work also revealed the importance of wave radiation
-in the TIWKE budget. The results of this study were recently published
-in the Journal of Physical Oceanography Holmes and Thomas (2016)
-Modulation of Tropical Instability Wave Intensity by Equatorial Kelvin
-Waves.
+in the TIWKE budget. The results of this study were published in the
+Journal of Physical Oceanography [Holmes and Thomas (2016) Modulation
+of Tropical Instability Wave Intensity by Equatorial Kelvin
+Waves](http://dx.doi.org/10.1175/JPO-D-16-0064.1).
 
 [`More Information`](/projects/TIW_Kelvin)
 
@@ -171,17 +172,18 @@ oceans. In November and December 2014 I participated in a research
 cruise aboard the R/V Oceanus organised by Jim Moum from Oregon State
 University who's aims included measuring abyssal mixing in the eastern
 equatorial Pacific. Our measurements, published in Geophysical
-Research Letters (Holmes et. al. (2016) Evidence for
-Seafloor-Intensified Mixing by Surface-Generated Equatorial Waves),
-revealed intense mixing located near the seafloor over a region of
-smooth topography near the equator. These measurements are unique
-because previously most intense mixing in the deep ocean was thought
-to occur only over rough topographic features. Instead, we suggest
-that the mixing that we observed was generated by downward propagating
-equatorial waves generated at the surface. This constitutes a unique
-energy pathway through which wind energy can mix the deep ocean, and
-highlights the need for more observations and research work looking at
-deep mixing near the equator.
+Research Letters ([Holmes et. al. (2016) Evidence for
+Seafloor-Intensified Mixing by Surface-Generated Equatorial
+Waves](http://dx.doi.org/10.1002/2015GL066472)), revealed intense
+mixing located near the seafloor over a region of smooth topography
+near the equator. These measurements are unique because previously
+most intense mixing in the deep ocean was thought to occur only over
+rough topographic features. Instead, we suggest that the mixing that
+we observed was generated by downward propagating equatorial waves
+generated at the surface. This constitutes a unique energy pathway
+through which wind energy can mix the deep ocean, and highlights the
+need for more observations and research work looking at deep mixing
+near the equator.
 
 [`More Information`](/projects/DeepEqMix)
 

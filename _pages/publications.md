@@ -13,7 +13,6 @@ Scholar
 profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ## Journal Articles
-___
 
 ### 2019
 
@@ -138,7 +137,6 @@ ___
   Sea. Submitted to the **Journal of Physical Oceanography**
 
 ## Theses
-___
 
 ### Ph.D. Thesis
 Holmes R. M. (2016) Tropical Instability Waves and Mixing in the
@@ -153,7 +151,6 @@ Supervisor: Professor David R. M. Williams. [`PDF Link`]({{ site.url
 
 
 ## Media Articles
-___
 
 * *Holmes R. M.*, Groeskamp S. and de Lavergne, C. [Climate Recorded
   in Seawater: A Workshop on Water-Mass Transformation Analysis for
@@ -195,7 +192,6 @@ Stanford University News, February 2016.
    Environmental Monitor, April 2016.
 
 ## Data Sets
-___
 
 * de Lavergne, C., Madec, G., Roquet, F., Holmes, R. M. and McDougall,
 T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI
