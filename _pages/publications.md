@@ -14,6 +14,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 # Journal Articles
 ___
 
+### 2019
+
 * [18] *Holmes, R. M.*, Zika, J.D., Ferrari, R., Thompson, A., Newsom,
   E. and England, M.H. (2019): [Atlantic ocean heat transport enabled
   by Indo-Pacific heat uptake and
@@ -60,7 +62,9 @@ ___
   [Contribution of Tropical Instability Waves to ENSO
   Irregularity](https://doi.org/10.1007/s00382-018-4217-0), **Climate
   Dynamics**, 52, 1837-1855.
- 
+
+### 2018
+
 * [10] *Holmes R. M.*, C. de Lavergne and T. J. McDougall (2018)
   [Ridges, Seamounts, Troughs and Bowls: Topographic Control of the
   Dianeutral Circulation in the Abyssal
@@ -72,7 +76,9 @@ ___
   gravity currents released from tropical instability
   waves](https://doi.org/10.1175/JPO-D-17-0144.1), **Journal of
   Physical Oceanography**, 48, 361–382.
- 
+
+### 2017
+
 * [8] de Lavergne, C., G. Madec, F. Roquet, *R. M. Holmes* and
   T. J. McDougall (2017) [Abyssal ocean overturning shaped by seafloor
   distribution](http://dx.doi.org/10.1038/nature24472), **Nature**,
@@ -83,7 +89,9 @@ ___
   West Antarctic subsurface waters by remote
   winds](http://dx.doi.org/10.1038/nclimate3335), **Nature Climate
   Change**, 7 (8), 595-603.
- 
+
+### 2016
+
 * [6] *Holmes R. M.* and Thomas L. N. (2016), [Modulation of Tropical
   Instability Wave Intensity by Equatorial Kelvin
   Waves](http://dx.doi.org/10.1175/JPO-D-16-0064.1), **Journal of
@@ -94,7 +102,9 @@ ___
   Waves](http://dx.doi.org/10.1002/2015GL066472), **Geophysical
   Research Letters** 43 (3), 1202-1210. (Also see media articles
   below)
- 
+
+### 2011-2015
+
 * [4] *Holmes R. M.* and Thomas L. N. (2015) [The Modulation of
   Equatorial Turbulence by Tropical Instability Waves in a Regional
   Ocean Model](http://dx.doi.org/10.1175/JPO-D-14-0209.1), **Journal
