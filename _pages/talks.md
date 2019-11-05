@@ -25,8 +25,8 @@ urlcolor: blue
 * Diabatic Contributions to the Ocean's Meridional Heat Transport
   (July 2019), Talk at **IUGG conference, Montreal, Canada**
 
-* Tracer Transport within Abyssal Mixing Layers** (July 2019), Talk at
-  **IUGG conference, Montreal, Canada**
+* Tracer Transport within Abyssal Mixing Layers (July 2019), Talk at
+**IUGG conference, Montreal, Canada**
 
 * Warm Water Volume Variability over ENSO events (January 2019), Talk
   at the **Centre for Southern Hemisphere Ocean Research ENSO

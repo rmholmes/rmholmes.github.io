@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download 2-page CV](../files/RyanHolmesCV_short.pdf)
+
 ## Education
 ___
 * 2011-2016 __Doctor Of Philosophy, Stanford University__, Physical Oceanography, Department
