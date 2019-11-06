@@ -194,8 +194,13 @@ Stanford University News, February 2016.
 ## Data Sets
 
 * de Lavergne, C., Madec, G., Roquet, F., Holmes, R. M. and McDougall,
-T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI
-Accession 0166518). Version 1.1. NOAA National Centers for
-Environmental Information. Dataset. [2017-09-13]
-[`LINK`](http://dx.doi.org/10.7289/V5833Q7K)
+  T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI
+  Accession 0166518). Version 1.1. NOAA National Centers for
+  Environmental Information. Dataset. [2017-09-13]
+  [`LINK`](http://dx.doi.org/10.7289/V5833Q7K)
 
+* Holmes, R. M., Zika, J.D., Ferrari, R., Thompson, A., Newsom, E. and
+  England, M.H. (2019): Atlantic ocean heat transport enabled by
+  Indo-Pacific heat uptake and mixing. UNSW dataset, Research Data
+  Australia [https://doi.org/10.26190/5dc23d4b7e739](
+  https://doi.org/10.26190/5dc23d4b7e739)
