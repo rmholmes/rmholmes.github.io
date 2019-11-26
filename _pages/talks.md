@@ -10,13 +10,21 @@ urlcolor: blue
 
 ### 2019
 
+* Diathermal heat transport in the ACCESS global ocean models
+  (November 2019), **Ocean heat content change and it's impact on sea
+  level workshop, UNSW, Australia**
+
+* Atlantic ocean heat transport enabled by Indo-Pacific heat uptake
+  and mixing (November 2019), **CLEX Annual Workshop Poster, Hobart,
+  Australia**
+
 * Atlantic ocean heat transport enabled by Indo-Pacific heat uptake
   and mixing (October 2019), **CLEX Tropical Variability Seminar,
   Sydney, Australia**
 
 * Global ocean heat transport and mixing in the eastern tropical
-  Pacific (September-October 2019), Three 1 hour seminars at **LOCEAN
-  Paris, IGD Grenoble and LEGOS Toulouse, France**
+  Pacific (September-October 2019), *Three 1 hour seminars* at
+  **LOCEAN Paris, IGD Grenoble and LEGOS Toulouse, France**
 
 * Diabatic contributions to the ocean's meridional heat transport
   (September 2019), Talk at the **COSIMA Workshop Talk, Australian
