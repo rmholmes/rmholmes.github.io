@@ -117,8 +117,9 @@ Meteorological and Oceanographic Society Annual Meeting, Darwin
 physics and biogeochemistry. University of New South Wales, Sydney
 * 2019 __Summer School Co-organiser__: Advanced Ocean Modelling
 Summer School, Hobart, Tasmania
-* 2018+ __NCI project data/SUs manager__: e14 NCI project (Matthew
-  England),
+* 2017+ __Chief Investigator on National Computational Infrastructure
+  project e14__: Successful applications for large amounts of
+  supercomputing resources (12MSU awarded for 2019). Data/SUs manager.
 * 2018 __Session Convenor__: Ocean General Session, Australian
 Meteorological and Oceanographic Society Annual Meeting, Sydney *
 2018-2019 Centre of Excellence for Climate Extremes __Early Career
