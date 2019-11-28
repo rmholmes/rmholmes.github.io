@@ -121,8 +121,8 @@ Summer School, Hobart, Tasmania
   project e14__: Successful applications for large amounts of
   supercomputing resources (12MSU awarded for 2019). Data/SUs manager.
 * 2018 __Session Convenor__: Ocean General Session, Australian
-Meteorological and Oceanographic Society Annual Meeting, Sydney *
-2018-2019 Centre of Excellence for Climate Extremes __Early Career
+Meteorological and Oceanographic Society Annual Meeting, Sydney
+* 2018-2019 Centre of Excellence for Climate Extremes __Early Career
 Research (ECR) commitee member__ and UNSW representative. Annual
 Meeting 2018 __ECR day main organiser__
 
