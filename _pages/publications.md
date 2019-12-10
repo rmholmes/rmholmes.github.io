@@ -20,7 +20,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   E. and England, M.H. (2019): [Atlantic ocean heat transport enabled
   by Indo-Pacific heat uptake and
   mixing](https://dx.doi.org/10.1029/2019GL085160). **Geophysical
-  Research Letters**, accepted.
+  Research Letters**, accepted. [Climate Extremes Research
+  Brief](https://climateextremes.org.au/research-brief-how-tropical-indo-pacific-processes-drive-ocean-heat-into-atlantic-meridional-circulation/)
 
 * [17] *Holmes R. M.*, de Lavergne, C. and McDougall, T.J. (2019):
   [Tracer transport within abyssal mixing
