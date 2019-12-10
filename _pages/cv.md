@@ -30,7 +30,7 @@ ___
 Simulations and analysis of mesoscale to turbulence scale process
 models to facilitate observational process deployments in the
 Equatorial Pacific Cold Tongue. NOAA/OAR Climate Variability and
-Predictability Program NOAA-OAR-CPO-2018-2005492
+Predictability Program NOAA-OAR-CPO-2018-2005492, __USD$572,950__
 
 ## Honors and Awards
 ___
