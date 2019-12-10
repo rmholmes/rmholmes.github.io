@@ -153,6 +153,12 @@ Supervisor: Professor David R. M. Williams. [`PDF Link`]({{ site.url
 
 ## Media Articles
 
+* *Holmes R. M.*, [Making the most of a CLEX postdoc in 2019 - An
+   overview of my trips to North America and
+   France](https://climateextremes.org.au/making-the-most-of-a-clex-postdoc-in-2019-an-overview-of-my-trips-to-north-america-and-france/),
+   ARC Centre of Excellence for Climate Extremes newsletter article,
+   November 2019
+
 * *Holmes R. M.*, Groeskamp S. and de Lavergne, C. [Climate Recorded
   in Seawater: A Workshop on Water-Mass Transformation Analysis for
   Ocean and Climate
