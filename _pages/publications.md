@@ -16,6 +16,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2019
 
+* [19] Kiss A. E. et al.: [ACCESS-OM2: A Global Ocean-Sea Ice Model at
+  Three
+  Resolutions](https://doi.org/10.5194/gmd-2019-106). **Geophysical
+  Model Development**, accepted.
+
 * [18] *Holmes, R. M.*, Zika, J.D., Ferrari, R., Thompson, A., Newsom,
   E. and England, M.H. (2019): [Atlantic ocean heat transport enabled
   by Indo-Pacific heat uptake and
@@ -127,10 +132,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   **Europhysics** 95, 63004.
 
 ### Articles submitted for publication
-
-* Kiss A. E. et al.: [ACCESS-OM2: A Global Ocean-Sea Ice Model at
-  Three Resolutions](https://doi.org/10.5194/gmd-2019-106). Submitted
-  to **Geophysical Model Development**.
 
 * Archer M., Schaeffer A., Keating S., Roughan M., *Holmes R.*,
   Siegelman L.: Observations of submesoscale instability and frontal
