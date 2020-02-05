@@ -18,7 +18,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 * [19] Kiss A. E. et al.: [ACCESS-OM2 v1.0: A Global Ocean-Sea Ice
   Model at Three
-  Resolutions](https://doi.org/10.5194/gmd-2019-106). **Geoscientific
+  Resolutions](https://doi.org/10.5194/gmd-13-401-2020). **Geoscientific
   Model Development**, 13, 401-442.
 
 ### 2019
