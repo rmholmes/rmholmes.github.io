@@ -14,12 +14,14 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ## Journal Articles
 
-### 2019
+### 2020
 
-* [19] Kiss A. E. et al.: [ACCESS-OM2: A Global Ocean-Sea Ice Model at
-  Three
-  Resolutions](https://doi.org/10.5194/gmd-2019-106). **Geophysical
-  Model Development**, accepted.
+* [19] Kiss A. E. et al.: [ACCESS-OM2 v1.0: A Global Ocean-Sea Ice
+  Model at Three
+  Resolutions](https://doi.org/10.5194/gmd-2019-106). **Geoscientific
+  Model Development**, 13, 401-442.
+
+### 2019
 
 * [18] *Holmes, R. M.*, Zika, J.D., Ferrari, R., Thompson, A., Newsom,
   E. and England, M.H. (2019): [Atlantic ocean heat transport enabled
