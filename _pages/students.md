@@ -10,9 +10,6 @@ urlcolor: blue
 
 * Maurice Huguenin-Virchaux (2019-present), Ph.D. in progress.
 
-* Shweta Sharma (2019-present), Ph.D. in progress. Seasonal to
-  Multi-Decadal Variability in Southern Ocean Eddy Activity
-
 * David Webb (2016-present), Ph.D. in progress. Propagation of coastal
   Kelvin waves and their impact on Antarctic climate
 

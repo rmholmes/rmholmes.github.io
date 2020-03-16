@@ -92,9 +92,6 @@ University.
 ___
 * 2019-present __Ph.D. project cosupervisor__, Maurice Huguenin-Virchaux,
 University of New South Wales
-* 2019-present __Ph.D. project cosupervisor__, Shweta Sharma, Seasonal to
-  Multi-Decadal Variability in Southern Ocean Eddy Activity, University of New
-  South Wales
 * 2016-present __Ph.D. project cosupervisor__, David Webb, Propagation of
 coastal Kelvin waves and their impact on Antarctic climate, University
 of New South Wales
