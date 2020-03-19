@@ -66,13 +66,13 @@ physics, affine geometry.
 
 ## Teaching
 ___
-* 2019 __Lecturer__, MSCI2001-Introductory Marine Science, University
+* 2019 & 2020 __Lecturer__, MSCI2001-Introductory Marine Science, University
 of New South Wales. Taught first two weeks (6 hours of lectures) on an
 introduction to physical oceanography. Led a four day field trip
-project. Designed course assesment material.
-* 2019 __Guest lecturer__, CLIM3001: Climate Systems Science, Climate
+project. Designed course assessment material.
+* 2018 & 2019 __Guest lecturer__, CLIM3001: Climate Systems Science, Climate
 Change Research Centre, University of New South Wales. One 2hr lecture
-(Earth's energy balance), one 2hr tutorial (the El-Nino Southern
+(Earth's energy balance) and one 2hr tutorial (the El-Nino Southern
 Oscillation).
 * 2019 __Guest lecturer__, CLIM2001: Fundamentals of Atmospheric
 Science, Climate Change Research Centre, University of New South
@@ -80,10 +80,6 @@ Wales. One 30 min lecture on Ocean Circulation and Modelling.
 * 2018 __Lecturer__, MATH5285-MATH3261-Fluids, Oceans & Climate,
 University of New South Wales. Two two-hour lectures on Rossby waves
 and baroclinic instability, one tutorial and office hours.
-* 2018 __Guest lecturer__, CLIM3001: Climate Systems Science, Climate
-Change Research Centre, University of New South Wales. One 2hr lecture
-(Earth's energy balance), one 2hr tutorial (the El-Nino Southern
-Oscillation) and office hours.
 * 2014 __Teaching Assistant__, Stanford graduate course Atmosphere,
 Ocean, and Climate Dynamics: The Atmospheric Circulation, Stanford
 University.

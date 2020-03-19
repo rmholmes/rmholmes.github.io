@@ -135,10 +135,14 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
-* Archer M., Schaeffer A., Keating S., Roughan M., *Holmes R.*,
+* Archer M., Schaeffer A., Keating S., Roughan M., *Holmes R. M.*,
   Siegelman L.: Observations of submesoscale instability and frontal
   subduction within the mesoscale eddy field of the Tasman
   Sea. Submitted to the **Journal of Physical Oceanography**
+
+* Huguenin, M., *Holmes, R. M.* and England, M.: Diabatic
+  Contributions to Warm Water Volume Variability Over ENSO
+  Events. Submitted to the **Journal of Climate**
 
 ## Theses
 
