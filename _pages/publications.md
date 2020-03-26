@@ -16,8 +16,13 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2020
 
-* [19] Kiss A. E. et al.: [ACCESS-OM2 v1.0: A Global Ocean-Sea Ice
-  Model at Three
+* [20] Archer M., Schaeffer A., Keating S., Roughan M., *Holmes
+  R. M.*, Siegelman L. (2020): Observations of submesoscale
+  instability and frontal subduction within the mesoscale eddy field
+  of the Tasman Sea. **Journal of Physical Oceanography**, accepted.
+
+* [19] Kiss A. E. et al. (2020): [ACCESS-OM2 v1.0: A Global Ocean-Sea
+  Ice Model at Three
   Resolutions](https://doi.org/10.5194/gmd-13-401-2020). **Geoscientific
   Model Development**, 13, 401-442.
 
@@ -134,11 +139,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   **Europhysics** 95, 63004.
 
 ### Articles submitted for publication
-
-* Archer M., Schaeffer A., Keating S., Roughan M., *Holmes R. M.*,
-  Siegelman L.: Observations of submesoscale instability and frontal
-  subduction within the mesoscale eddy field of the Tasman
-  Sea. Submitted to the **Journal of Physical Oceanography**
 
 * Huguenin, M., *Holmes, R. M.* and England, M.: Diabatic
   Contributions to Warm Water Volume Variability Over ENSO
