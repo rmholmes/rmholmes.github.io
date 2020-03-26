@@ -144,6 +144,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Contributions to Warm Water Volume Variability Over ENSO
   Events. Submitted to the **Journal of Climate**
 
+* *Holmes, R. M.* and McDougall, T. J.: Diapycnal transport near a
+   sloping bottom boundary. Submitted to the **Journal of Physical
+   Oceanography**
+
 ## Theses
 
 ### Ph.D. Thesis
