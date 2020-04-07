@@ -17,9 +17,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ### 2020
 
 * [20] Archer M., Schaeffer A., Keating S., Roughan M., *Holmes
-  R. M.*, Siegelman L. (2020): Observations of submesoscale
+  R. M.*, Siegelman L. (2020): [Observations of submesoscale
   instability and frontal subduction within the mesoscale eddy field
-  of the Tasman Sea. **Journal of Physical Oceanography**, accepted.
+  of the Tasman
+  Sea](https://doi.org/10.1175/JPO-D-19-0131.1). **Journal of Physical
+  Oceanography**, accepted.
 
 * [19] Kiss A. E. et al. (2020): [ACCESS-OM2 v1.0: A Global Ocean-Sea
   Ice Model at Three
