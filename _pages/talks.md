@@ -8,6 +8,11 @@ urlcolor: blue
 
 {% include base_path %}
 
+### 2020
+
+* Numerical mixing in ACCESS-OM2 (May 2020), **Annual COSIMA workshop
+  remote meeting, Australia**
+
 ### 2019
 
 * Diathermal heat transport in the ACCESS global ocean models

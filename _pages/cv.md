@@ -34,6 +34,8 @@ Predictability Program NOAA-OAR-CPO-2018-2005492, __USD$572,950__
 
 ## Honors and Awards
 ___
+* 2020 Consortium for Ocean and Sea Ice Modelling in Australia most
+  selfless contribution award.
 * 2017 Nominated by the Australian Academy of Science to attend the
 Lindau Nobel Laureates Meeting in Lindau, Germany 2017.
 * 2016 Physical Oceanography Dissertation Symposium (PODS) Invited
@@ -72,10 +74,10 @@ ___
 of New South Wales. Taught first two weeks (6 hours of lectures) on an
 introduction to physical oceanography. Led a four day field trip
 project. Designed course assessment material.
-* 2018 & 2019 __Guest lecturer__, CLIM3001: Climate Systems Science, Climate
-Change Research Centre, University of New South Wales. One 2hr lecture
-(Earth's energy balance) and one 2hr tutorial (the El-Nino Southern
-Oscillation).
+* 2018, 2019 & 2020 __Guest lecturer__, CLIM3001: Climate Systems
+Science, Climate Change Research Centre, University of New South
+Wales. One 2hr lecture (Earth's energy balance) and one 2hr tutorial
+(the El-Nino Southern Oscillation).
 * 2019 __Guest lecturer__, CLIM2001: Fundamentals of Atmospheric
 Science, Climate Change Research Centre, University of New South
 Wales. One 30 min lecture on Ocean Circulation and Modelling.
