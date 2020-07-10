@@ -143,12 +143,16 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ### Articles submitted for publication
 
 * Huguenin, M., *Holmes, R. M.* and England, M.: Diabatic
-  Contributions to Warm Water Volume Variability Over ENSO
-  Events. Submitted to the **Journal of Climate**
+  Contributions to Warm Water Volume Variability Over ENSO Events. In
+  review at the **Journal of Climate**
 
 * *Holmes, R. M.* and McDougall, T. J.: Diapycnal transport near a
-   sloping bottom boundary. Submitted to the **Journal of Physical
+   sloping bottom boundary. In review at the **Journal of Physical
    Oceanography**
+
+*  Morel, Y. et al. From mixing to the basin scale circulation: How
+   the inverse cascade is involved in the formation of the subsurface
+   currents in the equatorial Atlantic. Submitted to **Fluids**
 
 ## Theses
 
