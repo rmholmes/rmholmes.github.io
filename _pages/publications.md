@@ -16,6 +16,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2020
 
+* [21] Huguenin, M., *Holmes, R. M.* and England, M. (2020): Diabatic
+  Contributions to Warm Water Volume Variability Over ENSO Events.
+  **Journal of Climate**, accepted.
+
 * [20] Archer M., Schaeffer A., Keating S., Roughan M., *Holmes
   R. M.*, Siegelman L. (2020): [Observations of submesoscale
   instability and frontal subduction within the mesoscale eddy field
@@ -142,17 +146,13 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
-* Huguenin, M., *Holmes, R. M.* and England, M.: Diabatic
-  Contributions to Warm Water Volume Variability Over ENSO Events. In
-  review at the **Journal of Climate**
-
 * *Holmes, R. M.* and McDougall, T. J.: Diapycnal transport near a
    sloping bottom boundary. In review at the **Journal of Physical
    Oceanography**
 
 *  Assessne F., Morel, Y. et al. From mixing to the basin scale
    circulation: How the inverse cascade is involved in the formation
-   of the subsurface currents in the equatorial Atlantic. Submitted to
+   of the subsurface currents in the equatorial Atlantic. In review at
    **Fluids**
 
 ## Theses
