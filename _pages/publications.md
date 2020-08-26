@@ -16,6 +16,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2020
 
+* [22] Assene F., Morel, Y. ... *Holmes, R.M.* et al. (2020) From
+  mixing to the basin scale circulation: How the inverse cascade is
+  involved in the formation of the subsurface currents in the
+  equatorial Atlantic. **Fluids**, accepted.
+
 * [21] Huguenin, M., *Holmes, R. M.* and England, M. (2020): Diabatic
   Contributions to Warm Water Volume Variability Over ENSO Events.
   **Journal of Climate**, accepted.
@@ -149,11 +154,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * *Holmes, R. M.* and McDougall, T. J.: Diapycnal transport near a
    sloping bottom boundary. In review at the **Journal of Physical
    Oceanography**
-
-*  Assessne F., Morel, Y. et al. From mixing to the basin scale
-   circulation: How the inverse cascade is involved in the formation
-   of the subsurface currents in the equatorial Atlantic. In review at
-   **Fluids**
 
 ## Theses
 
