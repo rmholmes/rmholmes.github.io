@@ -155,6 +155,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Bladwell, C., *Holmes, R. M.* and Zika, J.: The oceanic branch of
+  the water cycle: salt and freshwater transport in latitude-salinity
+  coordinates. submitted to the **Journal of Physical Oceanography**.
+
 ## Theses
 
 ### Ph.D. Thesis
