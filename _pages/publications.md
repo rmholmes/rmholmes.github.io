@@ -20,10 +20,12 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
    transport near a sloping bottom boundary. **Journal of Physical
    Oceanography**, accepted. 
 
-* [22] Assene F., Morel, Y. ... *Holmes, R.M.* et al. (2020) From
+* [22] Assene F., Morel, Y. ... *Holmes, R.M.* et al. (2020) [From
   mixing to the basin scale circulation: How the inverse cascade is
   involved in the formation of the subsurface currents in the
-  equatorial Atlantic. **Fluids**, accepted.
+  equatorial
+  Atlantic](https://doi.org/10.3390/fluids5030147). **Fluids**, 5 (3),
+  147.
 
 * [21] Huguenin, M., *Holmes, R. M.* and England, M. (2020): Diabatic
   Contributions to Warm Water Volume Variability Over ENSO Events.
@@ -155,9 +157,9 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
-* Bladwell, C., *Holmes, R. M.* and Zika, J.: The oceanic branch of
-  the water cycle: salt and freshwater transport in latitude-salinity
-  coordinates. submitted to the **Journal of Physical Oceanography**.
+* Bladwell, C., *Holmes, R. M.* and Zika, J.: Internal salt content: a
+  useful framework for understanding the oceanic branch of the water
+  cycle. Submitted to the **Journal of Physical Oceanography**.
 
 ## Theses
 
