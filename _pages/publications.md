@@ -14,6 +14,12 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ## Journal Articles
 
+### Articles submitted for publication
+
+* Bladwell, C., *Holmes, R. M.* and Zika, J.: Internal salt content: a
+  useful framework for understanding the oceanic branch of the water
+  cycle. Submitted to the **Journal of Physical Oceanography**.
+
 ### 2020
 
 * [23] *Holmes, R. M.* and McDougall, T. J. (2020): Diapycnal
@@ -154,12 +160,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   in weakly stretched single-chain multi-block copolymers in poor
   solvents](https://doi.org/10.1209/0295-5075/95/63004)
   **Europhysics** 95, 63004.
-
-### Articles submitted for publication
-
-* Bladwell, C., *Holmes, R. M.* and Zika, J.: Internal salt content: a
-  useful framework for understanding the oceanic branch of the water
-  cycle. Submitted to the **Journal of Physical Oceanography**.
 
 ## Theses
 
