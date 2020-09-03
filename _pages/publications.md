@@ -34,9 +34,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Atlantic](https://doi.org/10.3390/fluids5030147). **Fluids**, 5 (3),
   147.
 
-* [21] Huguenin, M., *Holmes, R. M.* and England, M. (2020): Diabatic
-  Contributions to Warm Water Volume Variability Over ENSO Events.
-  **Journal of Climate**, accepted.
+* [21] Huguenin, M., *Holmes, R. M.* and England, M. (2020): [Diabatic
+  Contributions to Warm Water Volume Variability Over ENSO
+  Events](https://doi.org/10.1175/JCLI-D-20-0198.1).  **Journal of
+  Climate**, accepted.
 
 * [20] Archer M., Schaeffer A., Keating S., Roughan M., *Holmes
   R. M.*, Siegelman L. (2020): [Observations of submesoscale
