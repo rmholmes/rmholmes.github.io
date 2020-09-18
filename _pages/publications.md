@@ -16,6 +16,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC., Kiss,
+  A.E. and England, M.H.: The geography of numerical mixing in a suite
+  of global ocean models. Submitted to the **Journal of Advances in
+  Modeling Earth Systems**.
+
 * Bladwell, C., *Holmes, R. M.* and Zika, J.: Internal salt content: a
   useful framework for understanding the oceanic branch of the water
   cycle. Submitted to the **Journal of Physical Oceanography**.
