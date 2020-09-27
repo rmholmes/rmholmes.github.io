@@ -21,6 +21,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   of global ocean models. Submitted to the **Journal of Advances in
   Modeling Earth Systems**.
 
+* Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman, S. and
+  Large, W.: Off-equatorial deep cycle turbulence forced by Tropical
+  Instability Waves in the equatorial Pacific. Submitted to the
+  **Journal of Physical Oceanography**.
+
 * Bladwell, C., *Holmes, R. M.* and Zika, J.: Internal salt content: a
   useful framework for understanding the oceanic branch of the water
   cycle. Submitted to the **Journal of Physical Oceanography**.
