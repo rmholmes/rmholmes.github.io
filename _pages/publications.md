@@ -18,8 +18,9 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 * *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC., Kiss,
   A.E. and England, M.H.: The geography of numerical mixing in a suite
-  of global ocean models. Submitted to the **Journal of Advances in
-  Modeling Earth Systems**.
+  of global ocean models. [ESSOA
+  preprint](https://www.essoar.org/doi/10.1002/essoar.10504439.1).
+  Submitted to the **Journal of Advances in Modeling Earth Systems**.
 
 * Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman, S. and
   Large, W.: Off-equatorial deep cycle turbulence forced by Tropical
