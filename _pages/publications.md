@@ -31,6 +31,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   useful framework for understanding the oceanic branch of the water
   cycle. Submitted to the **Journal of Physical Oceanography**.
 
+* Webb, D., *Holmes, R. M.*, Spence, P. and England, M.: Propagation
+  of barotropic Kelvin waves around Antarctica.  Submitted to **Ocean
+  Dynamics**.
+
 ### 2020
 
 * [23] *Holmes, R. M.* and McDougall, T. J. (2020): [Diapycnal
@@ -48,7 +52,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [21] Huguenin, M., *Holmes, R. M.* and England, M. (2020): [Diabatic
   Contributions to Warm Water Volume Variability Over ENSO
   Events](https://doi.org/10.1175/JCLI-D-20-0198.1).  **Journal of
-  Climate**, accepted.
+  Climate**, 33 (22), 9945-9964.
 
 * [20] Archer M., Schaeffer A., Keating S., Roughan M., *Holmes
   R. M.*, Siegelman L. (2020): [Observations of submesoscale
