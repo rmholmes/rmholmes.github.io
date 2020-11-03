@@ -22,6 +22,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   preprint](https://www.essoar.org/doi/10.1002/essoar.10504439.1).
   Submitted to the **Journal of Advances in Modeling Earth Systems**.
 
+* Sohail, T., Irving, D., Zika, J., *Holmes, R. M.* and Church, J.:
+  Long-term global ocean heat content change driven by sub-polar
+  surface heat fluxes.  Submitted to **Geophysical Research Letters**.
+
 * Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman, S. and
   Large, W.: Off-equatorial deep cycle turbulence forced by Tropical
   Instability Waves in the equatorial Pacific. Submitted to the
