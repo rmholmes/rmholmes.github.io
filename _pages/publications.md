@@ -44,7 +44,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [23] *Holmes, R. M.* and McDougall, T. J. (2020): [Diapycnal
    transport near a sloping bottom
    boundary](https://doi.org/10.1175/JPO-D-20-0066.1). **Journal of
-   Physical Oceanography**, accepted.
+   Physical Oceanography**, 50 (11), 3253-3266.
 
 * [22] Assene F., Morel, Y. ... *Holmes, R.M.* et al. (2020) [From
   mixing to the basin scale circulation: How the inverse cascade is
