@@ -24,7 +24,9 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 * Sohail, T., Irving, D., Zika, J., *Holmes, R. M.* and Church, J.:
   Long-term global ocean heat content change driven by sub-polar
-  surface heat fluxes.  Submitted to **Geophysical Research Letters**.
+  surface heat fluxes. [ESSOA
+  preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10504695.1).
+  Submitted to **Geophysical Research Letters**.
 
 * Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman, S. and
   Large, W.: Off-equatorial deep cycle turbulence forced by Tropical
@@ -38,6 +40,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * Webb, D., *Holmes, R. M.*, Spence, P. and England, M.: Propagation
   of barotropic Kelvin waves around Antarctica.  Submitted to **Ocean
   Dynamics**.
+
+* Webb, D., Spence, P., *Holmes, R. M.* and England, M.:
+  Planetary-wave induced strengthening of the AMOC forced by poleward
+  intensified Southern Hemisphere westerly winds.  Submitted to
+  **Journal of Climate**.
 
 ### 2020
 
