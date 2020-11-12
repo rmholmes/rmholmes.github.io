@@ -24,7 +24,9 @@ Research Centre](http://www.ccrc.unsw.edu.au/) and the [School of
 Mathematics and
 Statistics](https://www.maths.unsw.edu.au/about/applied-mathematics)
 at the [University of New South Wales](https://www.unsw.edu.au/) in
-Sydney, Australia.
+Sydney, Australia. I have recently been awarded an ARC Discovery Early
+Career Research Award (DECRA) fellowship that will begin at the School
+of Geosciences, the University of Sydney, in mid-2021.
 
 ## Research Interests
 
