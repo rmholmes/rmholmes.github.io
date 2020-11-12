@@ -26,11 +26,16 @@ Australia, University Admissions Index (UAI): 99.6/100
 
 ## Funding
 ___
+
+* 2021-2024 Holmes, R., Australian Research Council (ARC) __Discovery
+  Early Career Researcher Award (DECRA)__ DE21010004: Mixing and air-sea
+  coupling in the Pacific: Toward better El Nino
+  forecasts. *AUD$440,185*
 * 2018-2020 D. Whitt, S. Bachman, R-C Lien, W. Large and R. Holmes,
-Simulations and analysis of mesoscale to turbulence scale process
-models to facilitate observational process deployments in the
-Equatorial Pacific Cold Tongue. NOAA/OAR Climate Variability and
-Predictability Program NOAA-OAR-CPO-2018-2005492, __USD$572,950__
+  Simulations and analysis of mesoscale to turbulence scale process
+  models to facilitate observational process deployments in the
+  Equatorial Pacific Cold Tongue. __NOAA/OAR Climate Variability and
+  Predictability Program__ NOAA-OAR-CPO-2018-2005492, *USD$572,950*
 
 ## Honors and Awards
 ___
