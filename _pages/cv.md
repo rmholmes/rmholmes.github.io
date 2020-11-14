@@ -27,10 +27,15 @@ Australia, University Admissions Index (UAI): 99.6/100
 ## Funding
 ___
 
-* 2021-2024 Holmes, R., Australian Research Council (ARC) __Discovery
-  Early Career Researcher Award (DECRA)__ DE21010004: Mixing and air-sea
+* 2021-2023 Holmes, R., __Australian Research Council Discovery Early
+  Career Researcher Award (DECRA)__ DE21010004: Mixing and air-sea
   coupling in the Pacific: Toward better El Nino
   forecasts. *AUD$440,185*
+* 2021-2024 Hogg, A., England, M., Morrison, A., Spence, P., Bennetts,
+  L., Babanin, A., Holmes R., Hobbs, W., Shakespeare, C., Toffoli,
+  A. and Evans, B., __Australian Research Council Linkage Project__
+  LP200100406: Building Australia's next-generation ocean-sea ice
+  model. *AUD$1,161,512*
 * 2018-2020 D. Whitt, S. Bachman, R-C Lien, W. Large and R. Holmes,
   Simulations and analysis of mesoscale to turbulence scale process
   models to facilitate observational process deployments in the
