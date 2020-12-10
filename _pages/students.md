@@ -8,10 +8,19 @@ urlcolor: blue
 
 {% include base_path %}
 
+## Ph.D. students
+
 * Maurice Huguenin-Virchaux (2019-present), Ph.D. in progress.
+
+* Christopher Bladwell (2018-present), Ph.D. in progress.
 
 * David Webb (2016-2020), Ph.D. submitted. Impacts of planetary ocean
   waves on Antarctic and North Atlantic climate
+
+## Masters/honours/undergraduate students
+
+* Claire Yung (2020-2021), 6-week summer undergraduate project. Assymetries
+  in global ocean heat uptake.
 
 * Maurice Huguenin-Virchaux (2017-2018), Masters completed. Mechanisms
   driving ocean heat uptake and warm water volume variability over
