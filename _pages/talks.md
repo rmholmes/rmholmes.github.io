@@ -10,8 +10,16 @@ urlcolor: blue
 
 ### 2020
 
+* Numerical mixing in ACCESS-OM2 (November 2020), **Annual ARC Centre
+  of Excellence for Climate Extremes meeting (online), Australia**,
+  Poster.
+
+* Ocean Heat Content internal variability in various volume-percentile
+  coordinates (November 2020), **OCCSeaLe workshop on Workshop on
+  Ocean Warming and Sea Level Rise (online), Australia**, Talk.
+
 * Numerical mixing in ACCESS-OM2 (May 2020), **Annual COSIMA workshop
-  remote meeting, Australia**
+  remote meeting, Australia**, Talk.
 
 ### 2019
 
