@@ -16,6 +16,12 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R.,
+  Griffies, S. and Durack, P.: The interpretation of temperature and
+  salinity variables in numerical ocean model output, and the
+  calculation of heat fluxes and heat content. Submitted to the
+  **Journal of Advances in Modelling Earth Systems**.
+
 * *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC., Kiss,
   A.E. and England, M.H.: The geography of numerical mixing in a suite
   of global ocean models. [ESSOA
