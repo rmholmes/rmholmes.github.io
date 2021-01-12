@@ -16,6 +16,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Savita, A., Zika, J., Domingues, C., Marsland, S., Evans, G., Dias,
+  F., *Holmes, R.M.* and Hogg, A.: Super Residual Circulation: a new
+  perspective on ocean vertical heat transport. Submitted to the
+  **Journal of Physical Oceanography**
+
 * McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R.,
   Griffies, S. and Durack, P.: The interpretation of temperature and
   salinity variables in numerical ocean model output, and the
