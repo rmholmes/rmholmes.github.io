@@ -8,6 +8,16 @@ urlcolor: blue
 
 {% include base_path %}
 
+### 2021
+
+* Adiabatic and diabatic signatures of ocean temperature variability
+ (February 2021), **Australian Meteorological and Oceanographic
+ Society Annual Conference (online)**, Talk.
+
+* Long-term global ocean heat content change driven by sub-polar
+ surface heat fluxes (February 2021), **Australian Meteorological and
+ Oceanographic Society Annual Conference (online)**, Talk.
+
 ### 2020
 
 * Numerical mixing in ACCESS-OM2 (November 2020), **Annual ARC Centre
