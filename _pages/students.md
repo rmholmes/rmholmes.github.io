@@ -22,6 +22,10 @@ urlcolor: blue
 * Claire Yung (2020-2021), 6-week summer undergraduate project. Assymetries
   in global ocean heat uptake.
 
+* Micheal Eabry (2020-2021), Masters spin-off project. How model
+  biases in ITF transport affect Pacific Ocean water-mass
+  transformation and the global overturning circulation
+
 * Maurice Huguenin-Virchaux (2017-2018), Masters completed. Mechanisms
   driving ocean heat uptake and warm water volume variability over
   idealised ENSO events.
