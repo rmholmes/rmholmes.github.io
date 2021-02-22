@@ -40,11 +40,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10504695.1).
   Submitted to **Geophysical Research Letters**.
 
-* Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman, S. and
-  Large, W.: Off-equatorial deep cycle turbulence forced by Tropical
-  Instability Waves in the equatorial Pacific. Submitted to the
-  **Journal of Physical Oceanography**.
-
 * Bladwell, C., *Holmes, R. M.* and Zika, J.: Internal salt content: a
   useful framework for understanding the oceanic branch of the water
   cycle. Submitted to the **Journal of Physical Oceanography**.
@@ -57,6 +52,13 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Planetary-wave induced strengthening of the AMOC forced by poleward
   intensified Southern Hemisphere westerly winds.  Submitted to
   **Journal of Climate**.
+
+### 2021
+
+* [24] Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman,
+  S. and Large, W. (2021): Off-equatorial deep cycle turbulence forced
+  by Tropical Instability Waves in the equatorial Pacific. **Journal
+  of Physical Oceanography**, accepted.
 
 ### 2020
 
