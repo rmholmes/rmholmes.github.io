@@ -26,7 +26,7 @@ Statistics](https://www.maths.unsw.edu.au/about/applied-mathematics)
 at the [University of New South Wales](https://www.unsw.edu.au/) in
 Sydney, Australia. I have recently been awarded an ARC Discovery Early
 Career Research Award (DECRA) fellowship that will begin at the School
-of Geosciences, the University of Sydney, in mid-2021.
+of Geosciences, the University of Sydney, in August 2021.
 
 ## Research Interests
 
