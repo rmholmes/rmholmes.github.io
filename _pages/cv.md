@@ -57,7 +57,9 @@ Participant, Hawaii.
 
 ## Academic Experience
 ___
-* 2018-now  __Senior Research Associate, University of New South
+* 2021+ __Discovery Early Career Research Award Fellow, University of
+  Sydney__, School of Geosciences, Faculty of Science
+* 2018-2021  __Senior Research Associate, University of New South
 Wales__ School of Mathematics and Statistics and Climate Change
 Research Centre
 * 2016-2017 __Research Associate, University of New South
