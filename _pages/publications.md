@@ -56,9 +56,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ### 2021
 
 * [24] Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman,
-  S. and Large, W. (2021): Off-equatorial deep cycle turbulence forced
-  by Tropical Instability Waves in the equatorial Pacific. **Journal
-  of Physical Oceanography**, accepted.
+  S. and Large, W. (2021): [Off-equatorial deep cycle turbulence
+  forced by Tropical Instability Waves in the equatorial
+  Pacific](https://doi.org/10.1175/JPO-D-20-0229.1). **Journal of
+  Physical Oceanography**, accepted.
 
 ### 2020
 
