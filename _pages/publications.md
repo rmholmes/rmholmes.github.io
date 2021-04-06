@@ -34,12 +34,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   preprint](https://www.essoar.org/doi/10.1002/essoar.10504439.1).
   Submitted to the **Journal of Advances in Modeling Earth Systems**.
 
-* Sohail, T., Irving, D., Zika, J., *Holmes, R. M.* and Church, J.:
-  Long-term global ocean heat content change driven by sub-polar
-  surface heat fluxes. [ESSOA
-  preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10504695.1).
-  Submitted to **Geophysical Research Letters**.
-
 * Bladwell, C., *Holmes, R. M.* and Zika, J.: Internal salt content: a
   useful framework for understanding the oceanic branch of the water
   cycle. Submitted to the **Journal of Physical Oceanography**.
@@ -54,6 +48,12 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   **Journal of Climate**.
 
 ### 2021
+
+* [25] Sohail, T., Irving, D., Zika, J., *Holmes, R. M.* and Church,
+  J. (2021): Long-term global ocean heat content change driven by
+  sub-polar surface heat fluxes. [ESSOA
+  preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10504695.1).
+  **Geophysical Research Letters**, accepted.
 
 * [24] Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman,
   S. and Large, W. (2021): [Off-equatorial deep cycle turbulence
