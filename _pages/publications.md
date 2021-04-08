@@ -34,10 +34,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   preprint](https://www.essoar.org/doi/10.1002/essoar.10504439.1).
   Submitted to the **Journal of Advances in Modeling Earth Systems**.
 
-* Bladwell, C., *Holmes, R. M.* and Zika, J.: Internal salt content: a
-  useful framework for understanding the oceanic branch of the water
-  cycle. Submitted to the **Journal of Physical Oceanography**.
-
 * Webb, D., *Holmes, R. M.*, Spence, P. and England, M.: Propagation
   of barotropic Kelvin waves around Antarctica.  Submitted to **Ocean
   Dynamics**.
@@ -48,6 +44,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   **Journal of Climate**.
 
 ### 2021
+
+* [26] Bladwell, C., *Holmes, R. M.* and Zika, J. (2021): Internal
+  salt content: a useful framework for understanding the oceanic
+  branch of the water cycle. **Journal of Physical Oceanography**,
+  accepted.
 
 * [25] Sohail, T., Irving, D., Zika, J., *Holmes, R. M.* and Church,
   J. (2021): Fifty year trends in global ocean heat content traced to
