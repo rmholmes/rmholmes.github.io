@@ -45,16 +45,17 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2021
 
-* [26] Bladwell, C., *Holmes, R. M.* and Zika, J. (2021): Internal
+* [26] Bladwell, C., *Holmes, R. M.* and Zika, J. (2021): [Internal
   salt content: a useful framework for understanding the oceanic
-  branch of the water cycle. **Journal of Physical Oceanography**,
-  accepted.
+  branch of the water
+  cycle](https://doi.org/10.1175/JPO-D-20-0212.1). **Journal of
+  Physical Oceanography**, accepted.
 
 * [25] Sohail, T., Irving, D., Zika, J., *Holmes, R. M.* and Church,
-  J. (2021): Fifty year trends in global ocean heat content traced to
-  surface heat fluxes in the sub-polar ocean. [ESSOA
-  preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10504695.1).
-  **Geophysical Research Letters**, accepted.
+  J. (2021): [Fifty year trends in global ocean heat content traced to
+  surface heat fluxes in the sub-polar
+  ocean](https://doi.org/10.1029/2020GL091439).  **Geophysical
+  Research Letters**, accepted.
 
 * [24] Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman,
   S. and Large, W. (2021): [Off-equatorial deep cycle turbulence
