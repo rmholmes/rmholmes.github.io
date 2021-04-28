@@ -38,12 +38,12 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   of barotropic Kelvin waves around Antarctica.  Submitted to **Ocean
   Dynamics**.
 
-* Webb, D., Spence, P., *Holmes, R. M.* and England, M.:
-  Planetary-wave induced strengthening of the AMOC forced by poleward
-  intensified Southern Hemisphere westerly winds.  Submitted to
-  **Journal of Climate**.
-
 ### 2021
+
+* [27] Webb, D., Spence, P., *Holmes, R. M.* and England, M. (2021):
+  Planetary-wave induced strengthening of the AMOC forced by poleward
+  intensified Southern Hemisphere westerly winds. **Journal of
+  Climate**, accepted.
 
 * [26] Bladwell, C., *Holmes, R. M.* and Zika, J. (2021): [Internal
   salt content: a useful framework for understanding the oceanic
@@ -55,7 +55,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   J. (2021): [Fifty year trends in global ocean heat content traced to
   surface heat fluxes in the sub-polar
   ocean](https://doi.org/10.1029/2020GL091439).  **Geophysical
-  Research Letters**, accepted.
+  Research Letters**, 48, e202GLO91439.
 
 * [24] Cherian, D., Whitt, D., *Holmes, R. M.*, Lien, R-C., Bachman,
   S. and Large, W. (2021): [Off-equatorial deep cycle turbulence
