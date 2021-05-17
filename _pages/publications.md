@@ -16,11 +16,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
-* Savita, A., Zika, J., Domingues, C., Marsland, S., Evans, G., Dias,
-  F., *Holmes, R.M.* and Hogg, A.: Super Residual Circulation: a new
-  perspective on ocean vertical heat transport. Submitted to the
-  **Journal of Physical Oceanography**
-
 * McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R.,
   Griffies, S. and Durack, P.: [The interpretation of temperature and
   salinity variables in numerical ocean model output, and the
@@ -40,9 +35,15 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2021
 
+* [28] Savita, A., Zika, J., Domingues, C., Marsland, S., Evans, G.,
+  Dias, F., *Holmes, R.M.* and Hogg, A.: Super Residual Circulation: a
+  new perspective on ocean vertical heat transport. **Journal of
+  Physical Oceanography**, accepted.
+
 * [27] Webb, D., Spence, P., *Holmes, R. M.* and England, M. (2021):
-  Planetary-wave induced strengthening of the AMOC forced by poleward
-  intensified Southern Hemisphere westerly winds. **Journal of
+  [Planetary-wave induced strengthening of the AMOC forced by poleward
+  intensified Southern Hemisphere westerly
+  winds](https://doi.org/10.1175/JCLI-D-20-0858.1). **Journal of
   Climate**, accepted.
 
 * [26] Bladwell, C., *Holmes, R. M.* and Zika, J. (2021): [Internal
@@ -61,7 +62,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   S. and Large, W. (2021): [Off-equatorial deep cycle turbulence
   forced by Tropical Instability Waves in the equatorial
   Pacific](https://doi.org/10.1175/JPO-D-20-0229.1). **Journal of
-  Physical Oceanography**, accepted.
+  Physical Oceanography**, 51 (5), 1575-1593.
 
 ### 2020
 
