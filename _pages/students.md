@@ -16,7 +16,7 @@ urlcolor: blue
 
 * Dhruv Bhagtani (2021-present), Ph.D. in progress, ANU.
 
-* David Webb (2016-2020), Ph.D. submitted. Impacts of planetary ocean
+* David Webb (2016-2020), Ph.D. awarded. Impacts of planetary ocean
   waves on Antarctic and North Atlantic climate, UNSW.
 
 ## Masters/honours/undergraduate students
