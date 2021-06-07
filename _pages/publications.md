@@ -23,17 +23,17 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   content](https://gmd.copernicus.org/preprints/gmd-2020-426/). Submitted
   to the **Geoscientific Model Development**.
 
-* *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC., Kiss,
-  A.E. and England, M.H.: The geography of numerical mixing in a suite
-  of global ocean models. [ESSOA
-  preprint](https://www.essoar.org/doi/10.1002/essoar.10504439.1).
-  Submitted to the **Journal of Advances in Modeling Earth Systems**.
-
 * Webb, D., *Holmes, R. M.*, Spence, P. and England, M.: Propagation
   of barotropic Kelvin waves around Antarctica.  Submitted to **Ocean
   Dynamics**.
 
 ### 2021
+
+* [29] *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC.,
+  Kiss, A.E. and England, M.H.: The geography of numerical mixing in a
+  suite of global ocean models. [ESSOA
+  preprint](https://www.essoar.org/doi/10.1002/essoar.10504439.1).
+  **Journal of Advances in Modeling Earth Systems**, accepted.
 
 * [28] Savita, A., Zika, J., Domingues, C., Marsland, S., Evans, G.,
   Dias, F., *Holmes, R.M.* and Hogg, A.: Super Residual Circulation: a
@@ -281,3 +281,10 @@ Stanford University News, February 2016.
   Indo-Pacific heat uptake and mixing. UNSW dataset, Research Data
   Australia [https://doi.org/10.26190/5dc23d4b7e739](
   https://doi.org/10.26190/5dc23d4b7e739)
+
+* Holmes, R. M., Zika, J.D., Griffies, S.M., Hogg, A. McC., Kiss,
+  A.E. and England, M.H. (2021): The geography of numerical mixing in
+  a suite of global ocean models. Zenodo dataset,
+  [https://doi.org/10.5281/zenodo.4798380](
+  https://doi.org/10.5281/zenodo.4798380)
+
