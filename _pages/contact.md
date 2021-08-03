@@ -5,5 +5,5 @@ author_profile: true
 urlcolor: blue
 ---
 
-Email: [ryan.holmes@unsw.edu.au](mailto:ryan.holmes@unsw.edu.au)
+Email: [r.holmes@sydney.edu.au](mailto:r.holmes@sydney.edu.au)
 
