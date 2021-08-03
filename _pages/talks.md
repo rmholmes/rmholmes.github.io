@@ -10,6 +10,10 @@ urlcolor: blue
 
 ### 2021
 
+* The geography of numerical mixing in a suite of global ocean models
+  (April 2021), *European Geophysical Union General Assembly
+  (online)*, Talk.
+
 * Adiabatic and diabatic signatures of ocean temperature variability
  (February 2021), **Australian Meteorological and Oceanographic
  Society Annual Conference (online)**, Talk.

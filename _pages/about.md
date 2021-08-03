@@ -17,16 +17,10 @@ MOM5 and the spectral model Dedalus) and analysis of oceanographic
 data to better understand interactions across scales in the ocean in
 order to represent them properly in low-resolution models. I obtained
 my PhD in 2016 from [Stanford University](https://www.stanford.edu/),
-working with Professor Leif Thomas. I am currently a postdoctoral
-researcher in the [Centre of Excellence for Climate
-Extremes](http://climateextremes.org.au/), the [Climate Change
-Research Centre](http://www.ccrc.unsw.edu.au/) and the [School of
-Mathematics and
-Statistics](https://www.maths.unsw.edu.au/about/applied-mathematics)
-at the [University of New South Wales](https://www.unsw.edu.au/) in
-Sydney, Australia. I have recently been awarded an ARC Discovery Early
-Career Research Award (DECRA) fellowship that will begin at the School
-of Geosciences, the University of Sydney, in August 2021.
+working with Professor Leif Thomas. I am currently an ARC Discovery
+Early Career Research Award (DECRA) Fellow at the [School of
+Geosciences](https://www.sydney.edu.au/science/schools/school-of-geosciences.html)
+at the [University of Sydney](http://www.sydney.edu.au/).
 
 ## Research Interests
 
@@ -120,5 +114,5 @@ This website contains my CV, a list of publications, conference talks
 and a short summary of some of the projects that I am currently
 involved in.  If you wish to know more or have any other questions,
 please contact me at
-[ryan.holmes@unsw.edu.au](mailto:ryan.holmes@unsw.edu.au)
+[r.holmes@sydney.edu.au](mailto:r.holmes@sydney.edu.au)
 

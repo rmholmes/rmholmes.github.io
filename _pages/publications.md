@@ -16,6 +16,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Whitt, D., Cherian, D., *Holmes, R.M.*, Bachman, S., Lien, R-C. and
+  Large, W.: Simulation and scaling of the vertical heat transport in
+  deep-cycle turbulence throughout the equatorial Pacific cold
+  tongue. Submitted to the **Journal of Physical Oceanography**.
+
 * McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R.,
   Griffies, S. and Durack, P.: [The interpretation of temperature and
   salinity variables in numerical ocean model output, and the
@@ -30,27 +35,28 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ### 2021
 
 * [29] *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC.,
-  Kiss, A.E. and England, M.H.: The geography of numerical mixing in a
-  suite of global ocean models. [ESSOA
-  preprint](https://www.essoar.org/doi/10.1002/essoar.10504439.1).
-  **Journal of Advances in Modeling Earth Systems**, accepted.
+  Kiss, A.E. and England, M.H.: [The geography of numerical mixing in
+  a suite of global ocean
+  models](https://doi.org/10.1029/2020MS002333).  **Journal of
+  Advances in Modeling Earth Systems**, 13 (7), e2020MS002333.
 
 * [28] Savita, A., Zika, J., Domingues, C., Marsland, S., Evans, G.,
-  Dias, F., *Holmes, R.M.* and Hogg, A.: Super Residual Circulation: a
-  new perspective on ocean vertical heat transport. **Journal of
-  Physical Oceanography**, accepted.
+  Dias, F., *Holmes, R.M.* and Hogg, A.: [Super Residual Circulation:
+  a new perspective on ocean vertical heat
+  transport](https://doi.org/10.1175/JPO-D-21-0008.1). **Journal of
+  Physical Oceanography**, 51 (8), 2443-2462.
 
 * [27] Webb, D., Spence, P., *Holmes, R. M.* and England, M. (2021):
   [Planetary-wave induced strengthening of the AMOC forced by poleward
   intensified Southern Hemisphere westerly
   winds](https://doi.org/10.1175/JCLI-D-20-0858.1). **Journal of
-  Climate**, accepted.
+  Climate**, 34 (17), 7073-7090.
 
 * [26] Bladwell, C., *Holmes, R. M.* and Zika, J. (2021): [Internal
   salt content: a useful framework for understanding the oceanic
   branch of the water
   cycle](https://doi.org/10.1175/JPO-D-20-0212.1). **Journal of
-  Physical Oceanography**, accepted.
+  Physical Oceanography**, 51 (7), 2167-2179.
 
 * [25] Sohail, T., Irving, D., Zika, J., *Holmes, R. M.* and Church,
   J. (2021): [Fifty year trends in global ocean heat content traced to
