@@ -42,7 +42,12 @@ Dynamics](https://doi.org/10.1007/s00382-018-4217-0)). I have also
 been collaborating with scientists at the National Centre for
 Atmospheric Research (NCAR, USA) to study variability of turbulent
 mixing at the Equator from observations and a hierarchy of
-high-resolution models.
+high-resolution models. My recently funded ARC DECRA project *Mixing
+and air-sea coupling in the Pacific: Toward better El Nino forecasts*
+aims to further develop out understanding of air-sea interactions at
+the mesoscale in the tropical Pacific and feed that understanding into
+improvements in low-resolution models that are used to provide El Nino
+forecasts.
 
 * **Ocean heat transport in temperature space:** The ocean is warmed
 by air-sea heat fluxes at low-latitudes and warm temperatures and
@@ -60,8 +65,8 @@ Geophysical Research
 Letters](https://dx.doi.org/10.1029/2019GL085160)). This diagnostic
 framework allows the role of mixing processes to be isolated and
 quantified, including the `artificial' numerical mixing arising from
-the numerical discretization of tracer transport (article in
-preparation).
+the numerical discretization of tracer transport [Holmes et al. 2021
+J. Adv. Mod. Earth Sys.](https://doi.org/10.1029/2020MS002333).
 
 <p align="center"> <img src="/files/SectionSchematic_v14.png"
   alt="Heat Transport Schematic" style="width:80%;
