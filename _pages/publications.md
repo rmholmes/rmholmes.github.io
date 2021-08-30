@@ -16,6 +16,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
+  Quantifying cross-shelf transport in the East Australian Current
+  System: A budget-based approach. Submitted to the **Journal of
+  Physical Oceanography**.
+
 * Whitt, D., Cherian, D., *Holmes, R.M.*, Bachman, S., Lien, R-C. and
   Large, W.: Simulation and scaling of the vertical heat transport in
   deep-cycle turbulence throughout the equatorial Pacific cold
