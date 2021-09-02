@@ -16,6 +16,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* *Holmes, R.M.*, Sohail, T. and Zika, J. : Adiabatic and diabatic
+  signatures of temperature variability. Submitted to the **Journal of
+  Climate**.
+
 * Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
   Quantifying cross-shelf transport in the East Australian Current
   System: A budget-based approach. Submitted to the **Journal of
