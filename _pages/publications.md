@@ -30,18 +30,18 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   deep-cycle turbulence throughout the equatorial Pacific cold
   tongue. Submitted to the **Journal of Physical Oceanography**.
 
-* McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R.,
-  Griffies, S. and Durack, P.: [The interpretation of temperature and
-  salinity variables in numerical ocean model output, and the
-  calculation of heat fluxes and heat
-  content](https://gmd.copernicus.org/preprints/gmd-2020-426/). Submitted
-  to the **Geoscientific Model Development**.
-
 * Webb, D., *Holmes, R. M.*, Spence, P. and England, M.: Propagation
   of barotropic Kelvin waves around Antarctica.  Submitted to **Ocean
   Dynamics**.
 
 ### 2021
+
+* [30] McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R.,
+  Griffies, S. and Durack, P.: [The interpretation of temperature and
+  salinity variables in numerical ocean model output, and the
+  calculation of heat fluxes and heat
+  content](https://gmd.copernicus.org/preprints/gmd-2020-426/). **Geoscientific
+  Model Development**, accepted.
 
 * [29] *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC.,
   Kiss, A.E. and England, M.H.: [The geography of numerical mixing in
