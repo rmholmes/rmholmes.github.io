@@ -10,27 +10,28 @@ urlcolor: blue
 
 ## Ph.D. students
 
-* Maurice Huguenin-Virchaux (2019-present), Ph.D. in progress, UNSW.
+* Maurice Huguenin-Virchaux (2019-present), Ph.D. **in progress**, UNSW.
 
-* Christopher Bladwell (2018-present), Ph.D. in progress, UNSW.
+* Christopher Bladwell (2018-present), Ph.D. **in progress**, UNSW.
 
-* Dhruv Bhagtani (2021-present), Ph.D. in progress, ANU.
+* Dhruv Bhagtani (2021-present), Ph.D. **in progress**, ANU.
 
-* David Webb (2016-2020), Ph.D. awarded, UNSW. *Impacts of planetary ocean
-  waves on Antarctic and North Atlantic climate.*
+* David Webb (2016-2020), Ph.D. **awarded**, UNSW. *Impacts of
+  planetary ocean waves on Antarctic and North Atlantic climate.*
 
 ## Masters/honours/undergraduate students
 
-* Matt Pudig (2021-present), honours in progress, UNSW.
+* Matt Pudig (2021-present), honours **in progress**, UNSW.
+
+* Micheal Eabry (2020-present), Masters spin-off project **in
+  progress**, UNSW. *The impact of Indonesian Throughflow
+  constrictions on eastern Pacific upwelling and water-mass
+  transformation*
 
 * Claire Yung (2020-2021), 6-week summer undergraduate project,
   UNSW. *Assymetries in global ocean heat uptake.*
 
-* Micheal Eabry (2020-2021), Masters spin-off project, UNSW. *How
-  model biases in ITF transport affect Pacific Ocean water-mass
-  transformation and the global overturning circulation*
-
-* Maurice Huguenin-Virchaux (2017-2018), Masters completed,
+* Maurice Huguenin-Virchaux (2017-2018), Masters **awarded**,
   UNSW. *Mechanisms driving ocean heat uptake and warm water volume
   variability over idealised ENSO events.*
 
