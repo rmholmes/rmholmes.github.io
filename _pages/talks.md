@@ -11,6 +11,10 @@ urlcolor: blue
 ### 2021
 
 * The geography of numerical mixing in a suite of global ocean models
+  (September 2021), *Future Directions in Basin and Global
+  High-resolution Ocean Modelling. (online)*, Talk.
+
+* The geography of numerical mixing in a suite of global ocean models
   (April 2021), *European Geophysical Union General Assembly
   (online)*, Talk.
 
