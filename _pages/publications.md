@@ -117,7 +117,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   by Indo-Pacific heat uptake and
   mixing](https://dx.doi.org/10.1029/2019GL085160). **Geophysical
   Research Letters**, 46, 13939-13949. [Climate Extremes Research
-  Brief](https://climateextremes.org.au/research-brief-how-tropical-indo-pacific-processes-drive-ocean-heat-into-atlantic-meridional-circulation/)
+  Brief](https://climateextremes.org.au/research-brief-how-tropical-indo-pacific-processes-drive-ocean-heat-into-atlantic-meridional-circulation/), 
+  [`pre-print (PDF)`]({{ site.url}}/files/Preprints/Holmes2019GRL_preprint.pdf)
 
 * [17] *Holmes R. M.*, de Lavergne, C. and McDougall, T.J. (2019):
   [Tracer transport within abyssal mixing
@@ -227,7 +228,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ### Ph.D. Thesis
 Holmes R. M. (2016) Tropical Instability Waves and Mixing in the
 Equatorial Pacific Ocean, *Stanford University*, Supervisor: Professor
-Leif Thomas. [`PDF Link`](https://purl.stanford.edu/qj214kp4156)
+Leif Thomas. [`PDF Link`]({{ site.url
+}}/files/Ryan_Holmes_Stanford_University_PhD_Thesis.pdf)
 
 ### Honours Thesis
 Holmes R. M. (2010) The Morphology of Single Chain Asymmetric Block
