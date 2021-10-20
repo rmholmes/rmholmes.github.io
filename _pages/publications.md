@@ -287,11 +287,18 @@ Stanford University News, February 2016.
 
 ## Data Sets
 
-* de Lavergne, C., Madec, G., Roquet, F., Holmes, R. M. and McDougall,
-  T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI
-  Accession 0166518). Version 1.1. NOAA National Centers for
-  Environmental Information. Dataset. [2017-09-13]
-  [`LINK`](http://dx.doi.org/10.7289/V5833Q7K)
+* Holmes, R. M., McDougall, T.J., Barker, P.M., Pawlowicz, R.,
+  Griffies, S.M. and Durack, P. (2021): The interpretation of
+  temperature and salinity variables in numerical ocean model output
+  and the calculation of heat fluxes and heat content - ACCESS-CM2
+  data and code. Zenodo [data set + code],
+  [https://doi.org/10.5281/zenodo.5580343](https://doi.org/10.5281/zenodo.5580343)
+
+* Holmes, R. M., Zika, J.D., Griffies, S.M., Hogg, A. McC., Kiss,
+  A.E. and England, M.H. (2021): The geography of numerical mixing in
+  a suite of global ocean models. Zenodo dataset,
+  [https://doi.org/10.5281/zenodo.4798380](
+  https://doi.org/10.5281/zenodo.4798380)
 
 * Holmes, R. M., Zika, J.D., Ferrari, R., Thompson, A., Newsom, E. and
   England, M.H. (2019): Atlantic ocean heat transport enabled by
@@ -299,9 +306,9 @@ Stanford University News, February 2016.
   Australia [https://doi.org/10.26190/5dc23d4b7e739](
   https://doi.org/10.26190/5dc23d4b7e739)
 
-* Holmes, R. M., Zika, J.D., Griffies, S.M., Hogg, A. McC., Kiss,
-  A.E. and England, M.H. (2021): The geography of numerical mixing in
-  a suite of global ocean models. Zenodo dataset,
-  [https://doi.org/10.5281/zenodo.4798380](
-  https://doi.org/10.5281/zenodo.4798380)
+* de Lavergne, C., Madec, G., Roquet, F., Holmes, R. M. and McDougall,
+  T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI
+  Accession 0166518). Version 1.1. NOAA National Centers for
+  Environmental Information. Dataset. [2017-09-13]
+  [`LINK`](http://dx.doi.org/10.7289/V5833Q7K)
 
