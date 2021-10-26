@@ -40,8 +40,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Griffies, S. and Durack, P.: [The interpretation of temperature and
   salinity variables in numerical ocean model output, and the
   calculation of heat fluxes and heat
-  content](https://gmd.copernicus.org/preprints/gmd-2020-426/). **Geoscientific
-  Model Development**, accepted.
+  content](https://doi.org/10.5194/gmd-14-6445-2021). **Geoscientific
+  Model Development**, 14, 6445-6466.
 
 * [29] *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC.,
   Kiss, A.E. and England, M.H.: [The geography of numerical mixing in
