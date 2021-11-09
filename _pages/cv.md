@@ -120,8 +120,11 @@ Gideon Kwok, The propagation of Kelvin waves in a shallow water ocean
 Scattering of coastal Kelvin waves at a sharp bend (two month summer
 project), University of New South Wales.
 
-## Administration and Volunteering
+## Service and Volunteering
 ___
+
+* 2021 __Working group member__: US CLIVAR working group on tropical
+  Pacific decadal variability
 * 2019 __Session Convenor__: Tropical Oceanography Session, Australian
 Meteorological and Oceanographic Society Annual Meeting, Darwin
 * 2019 __Workshop co-organiser__: Water mass transformation for ocean
