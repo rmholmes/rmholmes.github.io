@@ -118,7 +118,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   mixing](https://dx.doi.org/10.1029/2019GL085160). **Geophysical
   Research Letters**, 46, 13939-13949. [Climate Extremes Research
   Brief](https://climateextremes.org.au/research-brief-how-tropical-indo-pacific-processes-drive-ocean-heat-into-atlantic-meridional-circulation/), 
-  [`pre-print (PDF)`]({{ site.url}}/files/Preprints/Holmes2019GRL_preprint.pdf)
+  [`accepted manuscript (PDF)`]({{ site.url}}/files/Accepted_articles/Holmes2019GRL_accepted_manuscript.pdf)
 
 * [17] *Holmes R. M.*, de Lavergne, C. and McDougall, T.J. (2019):
   [Tracer transport within abyssal mixing
@@ -159,7 +159,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [11] *Holmes R. M.*, S. McGregor, A. Santoso and M.H. England (2019)
   [Contribution of Tropical Instability Waves to ENSO
   Irregularity](https://doi.org/10.1007/s00382-018-4217-0), **Climate
-  Dynamics**, 52, 1837-1855.
+  Dynamics**, 52, 1837-1855.  [`accepted manuscript (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2019CD_accepted_manuscript.pdf)
 
 ### 2018
 
@@ -216,12 +217,14 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [2] *Holmes R. M.* and Williams D. R. M. (2011), [Single chain
   asymmetric block copolymers in poor solvents. Candidates for patchy
   colloids](http://dx.doi.org/10.1021/ma200085w) **Macromolecules**
-  44, 6172-6181.
+  44, 6172-6181. [`accepted manuscript (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2011Ma_accepted_manuscript.pdf)
  
 * [1] *Holmes R. M.* and Williams D. R. M. (2011): [Popout transitions
   in weakly stretched single-chain multi-block copolymers in poor
   solvents](https://doi.org/10.1209/0295-5075/95/63004)
-  **Europhysics** 95, 63004.
+  **Europhysics** 95, 63004. [`pre-print (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2011EPL_pre-print.pdf)
 
 ## Theses
 
