@@ -16,10 +16,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
-* *Holmes, R.M.*, Sohail, T. and Zika, J. : Adiabatic and diabatic
-  signatures of temperature variability. Submitted to the **Journal of
-  Climate**.
-
 * Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
   Quantifying cross-shelf transport in the East Australian Current
   System: A budget-based approach. Submitted to the **Journal of
@@ -36,22 +32,26 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2021
 
+* [31] *Holmes, R.M.*, Sohail, T. and Zika, J. (2021): Adiabatic and
+  diabatic signatures of temperature variability. **Journal of
+  Climate**, accepted.
+
 * [30] McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R.,
-  Griffies, S. and Durack, P.: [The interpretation of temperature and
-  salinity variables in numerical ocean model output, and the
-  calculation of heat fluxes and heat
+  Griffies, S. and Durack, P. (2021): [The interpretation of
+  temperature and salinity variables in numerical ocean model output,
+  and the calculation of heat fluxes and heat
   content](https://doi.org/10.5194/gmd-14-6445-2021). **Geoscientific
   Model Development**, 14, 6445-6466.
 
 * [29] *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC.,
-  Kiss, A.E. and England, M.H.: [The geography of numerical mixing in
-  a suite of global ocean
+  Kiss, A.E. and England, M.H. (2021): [The geography of numerical
+  mixing in a suite of global ocean
   models](https://doi.org/10.1029/2020MS002333).  **Journal of
   Advances in Modeling Earth Systems**, 13 (7), e2020MS002333.
 
 * [28] Savita, A., Zika, J., Domingues, C., Marsland, S., Evans, G.,
-  Dias, F., *Holmes, R.M.* and Hogg, A.: [Super Residual Circulation:
-  a new perspective on ocean vertical heat
+  Dias, F., *Holmes, R.M.* and Hogg, A. (2021): [Super Residual
+  Circulation: a new perspective on ocean vertical heat
   transport](https://doi.org/10.1175/JPO-D-21-0008.1). **Journal of
   Physical Oceanography**, 51 (8), 2443-2462.
 
