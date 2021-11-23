@@ -136,8 +136,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Brief](https://climateextremes.org.au/research-brief-how-passive-tracers-will-diffuse-on-the-abyssal-ocean-floor/)
 
 * [16] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019): [Reply to
-  "Comments on `Diathermal heat transport in a global ocean
-  model'"](https://doi.org/10.1175/JPO-D-19-0139.1). **Journal of
+  "Comments on Diathermal heat transport in a global ocean
+  model"](https://doi.org/10.1175/JPO-D-19-0139.1). **Journal of
   Physical Oceanography**. 49 (8), 2195-2197. [`published manuscript
   (PDF)`]({{
   site.url}}/files/Accepted_articles/Holmes2019JPO_Diathermal_Comment.pdf)
