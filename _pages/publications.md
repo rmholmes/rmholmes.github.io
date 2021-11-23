@@ -89,7 +89,9 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [23] *Holmes, R. M.* and McDougall, T. J. (2020): [Diapycnal
    transport near a sloping bottom
    boundary](https://doi.org/10.1175/JPO-D-20-0066.1). **Journal of
-   Physical Oceanography**, 50 (11), 3253-3266.
+   Physical Oceanography**, 50 (11), 3253-3266. [`published manuscript
+  (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2020JPO_Diapycnal_Transport_BBL.pdf)
 
 * [22] Assene F., Morel, Y. ... *Holmes, R.M.* et al. (2020) [From
   mixing to the basin scale circulation: How the inverse cascade is
@@ -128,13 +130,17 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [17] *Holmes R. M.*, de Lavergne, C. and McDougall, T.J. (2019):
   [Tracer transport within abyssal mixing
   layers](https://doi.org/10.1175/JPO-D-19-0006.1). **Journal of
-  Physical Oceanography**, 49, 2669–2695. [Climate Extremes Research
+  Physical Oceanography**, 49, 2669–2695. [`published manuscript
+  (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2019JPO_Abyssal_Tracer_Transport.pdf) [Climate Extremes Research
   Brief](https://climateextremes.org.au/research-brief-how-passive-tracers-will-diffuse-on-the-abyssal-ocean-floor/)
 
 * [16] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019): [Reply to
   "Comments on `Diathermal heat transport in a global ocean
   model'"](https://doi.org/10.1175/JPO-D-19-0139.1). **Journal of
-  Physical Oceanography**. 49 (8), 2195-2197.
+  Physical Oceanography**. 49 (8), 2195-2197. [`published manuscript
+  (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2019JPO_Diathermal_Comment.pdf)
 
 * [15] Groeskamp S., de Lavergne, C., *Holmes R. M.*, Tamsitt, V.,
   Frenger, I., Chapman, C., Newsom, E. and Stanley, G. (2019):
@@ -147,7 +153,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [14] *Holmes R. M.*, Zika, J.D. and England, M.H. (2019):
   [Diathermal heat transport in a global ocean
   model](https://doi.org/10.1175/JPO-D-18-0098.1). **Journal of
-  Physical Oceanography**, 49 (1), 141-161. [Climate Extremes Research
+  Physical Oceanography**, 49 (1), 141-161. [`published manuscript
+  (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2019JPO_Diathermal_Heat_Transport.pdf)
+  [Climate Extremes Research
   Brief](https://climateextremes.org.au/how-the-ocean-moves-heat/)
 
 * [13] Webb, D., *Holmes R. M.*, Spence, P. and England, M.H. (2019):
@@ -173,7 +182,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   [Ridges, Seamounts, Troughs and Bowls: Topographic Control of the
   Dianeutral Circulation in the Abyssal
   Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of
-  Physical Oceanography**, 48, 861–882.
+  Physical Oceanography**, 48, 861–882. [`published manuscript (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2018JPO_Abyssal_Overturning_Topography.pdf)
  
 * [9] Warner, S. J., *R. M. Holmes*, E. H. McHugh Hawkins,
   M. Hoecker-Martinez, A. C. Savage and J. N. Moum (2018) [Buoyant
@@ -199,7 +209,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [6] *Holmes R. M.* and Thomas L. N. (2016), [Modulation of Tropical
   Instability Wave Intensity by Equatorial Kelvin
   Waves](http://dx.doi.org/10.1175/JPO-D-16-0064.1), **Journal of
-  Physical Oceanography** 46 (9), 2623-2643.
+  Physical Oceanography** 46 (9), 2623-2643. [`published manuscript (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2016JPO_TIWs_and_Kelvin_Waves.pdf)
  
 * [5] *Holmes R. M.*, Moum J. N. and Thomas L. N. (2016) [Evidence for
   Seafloor-Intensified Mixing by Surface-Generated Equatorial
@@ -212,12 +223,14 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [4] *Holmes R. M.* and Thomas L. N. (2015) [The Modulation of
   Equatorial Turbulence by Tropical Instability Waves in a Regional
   Ocean Model](http://dx.doi.org/10.1175/JPO-D-14-0209.1), **Journal
-  of Physical Oceanography** 45 (4), 1155–1173.
+  of Physical Oceanography** 45 (4), 1155–1173. [`published manuscript (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2015JPO_TIWs_and_Mixing.pdf)
  
 * [3] *Holmes R. M.*, Thomas L. N., Thompson L. and Darr D. (2014),
   [Potential Vorticity Dynamics of Tropical Instability
   Vortices](http://dx.doi.org/10.1175/JPO-D-13-0157.1), **Journal of
-  Physical Oceanography** 44 (3), 995–1011.
+  Physical Oceanography** 44 (3), 995–1011. [`published manuscript (PDF)`]({{
+  site.url}}/files/Accepted_articles/Holmes2014JPO_PV_Dynamics_of_TIVs.pdf)
  
 * [2] *Holmes R. M.* and Williams D. R. M. (2011), [Single chain
   asymmetric block copolymers in poor solvents. Candidates for patchy
