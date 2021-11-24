@@ -17,9 +17,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ### Articles submitted for publication
 
 * *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall, T.:
-  Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
-  Variable Neutral Diffusion. Submitted to the **Journal of Advances
-  in Modeling Earth Systems**.
+  [Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
+  Variable Neutral
+  Diffusion](https://www.essoar.org/doi/abs/10.1002/essoar.10508880.1). Submitted
+  to the **Journal of Advances in Modeling Earth Systems**.
 
 * Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
   Quantifying cross-shelf transport in the East Australian Current
