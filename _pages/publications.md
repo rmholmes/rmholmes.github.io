@@ -16,6 +16,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Mackallah, C. et al.: ACCESS Datasets for CMIP6: Methodology &
+  Idealised Experiments. Submitted to the **Journal of Southern
+  Hemisphere Earth Systems Science**.
+
 * *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall, T.:
   [Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
   Variable Neutral
