@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a physical oceanographer and climate scientist interested in
-ocean physics and modelling. My research focuses on how processes
-acting on small-scales, such as turbulent mixing and mesoscale eddies,
-influence the large-scale ocean circulation and its variability. I use
+I am a physical oceanographer interested in ocean physics, climate and
+modelling. My research focuses on how processes acting on
+small-scales, such as turbulent mixing and mesoscale eddies, influence
+the large-scale ocean circulation and its variability. I use
 theoretical techniques combined with a range of idealized and
 realistic ocean models (e.g. the regional model ROMS, the global model
 MOM5 and the spectral model Dedalus) and analysis of oceanographic
