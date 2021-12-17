@@ -21,7 +21,8 @@ urlcolor: blue
 
 ## Masters/honours/undergraduate students
 
-* Matt Pudig (2021-present), honours **in progress**, UNSW.
+* Matt Pudig (2021), **honours awarded** UNSW, 94/100. *The impact of
+  oscillatory forcing on ocean heat uptake*
 
 * Micheal Eabry (2020-present), Masters spin-off project **in
   progress**, UNSW. *The impact of Indonesian Throughflow
