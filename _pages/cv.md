@@ -118,6 +118,8 @@ See [`Students page`](/students)
 ___
 * 2022 __Commitee member__: University of Sydney, School of
   Geosciences research commitee.
+* 2021-present __Executive commitee member__: Consortium for Ocean and
+  Sea Ice Modelling in Australia (COSIMA)
 * 2021 __Working group member__: US CLIVAR working group on tropical
   Pacific decadal variability
 * 2019 __Session Convenor__: Tropical Oceanography Session, Australian
