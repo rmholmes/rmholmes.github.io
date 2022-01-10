@@ -47,9 +47,9 @@ ___
 * 2020 Consortium for Ocean and Sea Ice Modelling in Australia most
   selfless contribution award.
 * 2017 Nominated by the Australian Academy of Science to attend the
-Lindau Nobel Laureates Meeting in Lindau, Germany 2017.
+  Lindau Nobel Laureates Meeting in Lindau, Germany 2017.
 * 2016 Physical Oceanography Dissertation Symposium (PODS) Invited
-Participant, Hawaii.
+  Participant, Hawaii.
 * 2014 AGU Fall Meeting Outstanding Student Paper Award (OSPA) Winner
 * 2012-2015 Stanford University Graduate Fellowship Award
 * 2006-2010 Bachelor of Philosophy (Honours) Scholarship, Total AU$20,000
@@ -60,23 +60,23 @@ ___
 * 2021+ __ARC Discovery Early Career Research Award (DECRA) Fellow,
   University of Sydney__, School of Geosciences, Faculty of Science
 * 2018-2021  __Senior Research Associate, University of New South
-Wales__ School of Mathematics and Statistics and Climate Change
-Research Centre
+  Wales__ School of Mathematics and Statistics and Climate Change
+  Research Centre
 * 2016-2017 __Research Associate, University of New South
-Wales__ Physical mechanisms governing interannual and decadal
-variability in the tropical Pacific ocean. Ocean heat uptake, tropical
-overturning. Abyssal mixing and diapycnal upwelling. Supervisors:
-Professor's Matthew England and Trevor McDougall
+  Wales__ Physical mechanisms governing interannual and decadal
+  variability in the tropical Pacific ocean. Ocean heat uptake, tropical
+  overturning. Abyssal mixing and diapycnal upwelling. Supervisors:
+  Professor's Matthew England and Trevor McDougall
 * 2011-2016 __Graduate Researcher, Stanford University__ Submesoscale
-processes, equatorial dynamics, turbulent mixing, ocean modelling.
+  processes, equatorial dynamics, turbulent mixing, ocean modelling.
 * 2010-2011 __Research Assistant, Australian National
-University__ (6 months) Computational polymer physics, two published papers.
+  University__ (6 months) Computational polymer physics, two published papers.
 * 2010  __Research Intern, Australian National
-University__ (3 months) Experimental geophysical fluid dynamics; horizontal
-convection.
+  University__ (3 months) Experimental geophysical fluid dynamics; horizontal
+  convection.
 * 2006-2010 __Undergraduate Researcher, Australian National
-University__ Electron scattering experiment, seismology, nuclear
-physics, affine geometry.
+  University__ Electron scattering experiment, seismology, nuclear
+  physics, affine geometry.
 
 ## Teaching
 ___
@@ -85,59 +85,58 @@ ___
 * 2020 Foundations of University Learning and Teaching (FULT) UNSW
   teaching problem completed.
 * 2019 & 2020 __Lecturer__, MSCI2001-Introductory Marine Science, University
-of New South Wales. Taught first two weeks (6 hours of lectures) on an
-introduction to physical oceanography. Led a four day field trip
-project. Designed course assessment material.
+  of New South Wales. Taught first two weeks (6 hours of lectures) on an
+  introduction to physical oceanography. Led a four day field trip
+  project. Designed course assessment material.
 * 2018, 2019 & 2020 __Guest lecturer__, CLIM3001: Climate Systems
-Science, Climate Change Research Centre, University of New South
-Wales. One 2hr lecture (Earth's energy balance) and one 2hr tutorial
-(the El-Nino Southern Oscillation).
+  Science, Climate Change Research Centre, University of New South
+  Wales. One 2hr lecture (Earth's energy balance) and one 2hr tutorial
+  (the El-Nino Southern Oscillation).
 * 2019 __Guest lecturer__, CLIM2001: Fundamentals of Atmospheric
-Science, Climate Change Research Centre, University of New South
-Wales. One 30 min lecture on Ocean Circulation and Modelling.
+  Science, Climate Change Research Centre, University of New South
+  Wales. One 30 min lecture on Ocean Circulation and Modelling.
 * 2018 __Lecturer__, MATH5285-MATH3261-Fluids, Oceans & Climate,
-University of New South Wales. Two two-hour lectures on Rossby waves
-and baroclinic instability, one tutorial and office hours.
+  University of New South Wales. Two two-hour lectures on Rossby waves
+  and baroclinic instability, one tutorial and office hours.
 * 2014 __Teaching Assistant__, Stanford graduate course Atmosphere,
-Ocean, and Climate Dynamics: The Atmospheric Circulation, Stanford
-University.
+  Ocean, and Climate Dynamics: The Atmospheric Circulation, Stanford
+  University.
 
 ## Student supervision
 ___
-* 2019-present __Ph.D. project cosupervisor__, Maurice Huguenin-Virchaux,
-University of New South Wales
-* 2016-present __Ph.D. project cosupervisor__, David Webb, Propagation of
-coastal Kelvin waves and their impact on Antarctic climate, University
-of New South Wales
-* 2017-2018 __Masters project main supervisor__, Maurice
-Huguenin-Virchaux, Mechanisms driving ocean heat uptake and warm water
-volume variability over idealized ENSO events, University of New South
-Wales
-* 2017-2018 __Summer undergraduate research project supervisor__ ,
-Gideon Kwok, The propagation of Kelvin waves in a shallow water ocean
-(six week summer project), University of New South Wales
-* 2015 __Undergraduate research project supervisor__, David Webb,
-Scattering of coastal Kelvin waves at a sharp bend (two month summer
-project), University of New South Wales.
+
+1 succesful Ph.D. student completion, 1 successful Masters student
+completion, 1 successful honours student completion. Supervised 4
+completed undergraduate summer student projects.
+
+3 current Ph.D. students.
+
+See [`Students page`](/students)
+
 
 ## Service and Volunteering
 ___
-
+* 2022 __Commitee member__: University of Sydney, School of
+  Geosciences research commitee.
 * 2021 __Working group member__: US CLIVAR working group on tropical
   Pacific decadal variability
 * 2019 __Session Convenor__: Tropical Oceanography Session, Australian
-Meteorological and Oceanographic Society Annual Meeting, Darwin
+  Meteorological and Oceanographic Society Annual Meeting, Darwin
 * 2019 __Workshop co-organiser__: Water mass transformation for ocean
-physics and biogeochemistry. University of New South Wales, Sydney
+  physics and biogeochemistry. University of New South Wales, Sydney
 * 2019 __Summer School Co-organiser__: Advanced Ocean Modelling
-Summer School, Hobart, Tasmania
+  Summer School, Hobart, Tasmania
 * 2017+ __Chief Investigator on National Computational Infrastructure
   project e14__: Successful applications for large amounts of
   supercomputing resources (12MSU awarded for 2019). Data/SUs manager.
 * 2018 __Session Convenor__: Ocean General Session, Australian
-Meteorological and Oceanographic Society Annual Meeting, Sydney
+  Meteorological and Oceanographic Society Annual Meeting, Sydney
 * 2018-2019 Centre of Excellence for Climate Extremes __Early Career
-Research (ECR) commitee member__ and UNSW representative. Annual
-Meeting 2018 __ECR day main organiser__
+  Research (ECR) commitee member__ and UNSW representative. Annual
+  Meeting 2018 __ECR day main organiser__
 
+## Memberships
+* American Geophysical Union (AGU) 
+* European Geophysical Union (EGU)
+* Australian Meteorological and Oceanographic Society (AMOS)
 
