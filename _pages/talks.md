@@ -10,6 +10,10 @@ urlcolor: blue
 
 ### 2021
 
+* Adiabatic and diabatic signatures of ocean temperature variability
+  in ACCESS-CM2 (November 2021), **Centre of Excellence for Climate
+  Extremes (CLEX) Annual Workshop** poster presentation.
+
 * The ocean's role in climate and climate change: Challenges in
   modelling ocean circulation into the future (November 2021),
   **University of Sydney GEOS1003 student outreach talk**.

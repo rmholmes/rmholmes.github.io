@@ -15,14 +15,14 @@ redirect_from:
 ## Education
 ___
 * 2011-2016 __Doctor Of Philosophy, Stanford University__, Physical Oceanography, Department
-of Earth System Science, GPA: 4.084/4
+  of Earth System Science, GPA: 4.084/4
 * 2006-2010 __Bachelor of Philosophy (Honours), Australian
-National University__, Physics, First class honours 95/100 with
-*University medal*
+  National University__, Physics, First class honours 95/100 with
+  *University medal*
 * 2008-2009 __Study Abroad Program, University of California
-Santa Barbara__, Physics, GPA: 3.78/4
+  Santa Barbara__, Physics, GPA: 3.78/4
 * 2004-2005 Year 12 Certificate, Lake Ginninderra College, Canberra,
-Australia, University Admissions Index (UAI): 99.6/100
+  Australia, University Admissions Index (UAI): 99.6/100
 
 ## Funding
 ___
@@ -80,6 +80,9 @@ ___
 
 ## Teaching
 ___
+* 2021 Completion of University of Sydney *Foundations of Research
+  Supervision* course (12 hours + in-person session) and registry on
+  the Universities Supervisor Registry.
 * 2020 Associate Fellow of the Higher Education Academy (AdvanceHE,
   UK).
 * 2020 Foundations of University Learning and Teaching (FULT) UNSW
@@ -114,31 +117,46 @@ completed undergraduate summer student projects.
 See [`Students page`](/students)
 
 
-## Service and Volunteering
+## Academic Service and Outreach
 ___
+* 2022 __Session Convenor__: Low-Latitude Ocean Dynamics Session, AGU
+  Ocean Sciences Meeting 2022 (online).
 * 2022 __Commitee member__: University of Sydney, School of
   Geosciences research commitee.
 * 2021-present __Executive commitee member__: Consortium for Ocean and
   Sea Ice Modelling in Australia (COSIMA)
+* 2021 __Academic Mentor__: University of Sydney Faculty of Science
+  Mentoring program
+* 2021 __CMIP6 Contributor__: I performed the ACCESS-OM2-025
+  (1/4-degree, physics only, ocean sea-ice model) simulation that
+  comprised part of the Australian communities ACCESS contribution to
+  the Ocean Model Intercomparison Program (OMIP) component of CMIP6.
 * 2021 __Working group member__: US CLIVAR working group on tropical
   Pacific decadal variability
+* 2021 __Undergraduate outreach__: Research presentation to first year
+  Geophysics students GEOS1003, School of Geosciences, University of
+  Sydney.
+* 2017-2022 __Chief Investigator on National Computational
+  Infrastructure project e14__: Successful applications for large
+  amounts of supercomputing resources (12MSU awarded for 2019,
+  ). Data/SUs manager.
 * 2019 __Session Convenor__: Tropical Oceanography Session, Australian
   Meteorological and Oceanographic Society Annual Meeting, Darwin
 * 2019 __Workshop co-organiser__: Water mass transformation for ocean
   physics and biogeochemistry. University of New South Wales, Sydney
 * 2019 __Summer School Co-organiser__: Advanced Ocean Modelling
   Summer School, Hobart, Tasmania
-* 2017+ __Chief Investigator on National Computational Infrastructure
-  project e14__: Successful applications for large amounts of
-  supercomputing resources (12MSU awarded for 2019). Data/SUs manager.
 * 2018 __Session Convenor__: Ocean General Session, Australian
   Meteorological and Oceanographic Society Annual Meeting, Sydney
 * 2018-2019 Centre of Excellence for Climate Extremes __Early Career
   Research (ECR) commitee member__ and UNSW representative. Annual
   Meeting 2018 __ECR day main organiser__
+* 
 
-## Memberships
-* American Geophysical Union (AGU) 
-* European Geophysical Union (EGU)
-* Australian Meteorological and Oceanographic Society (AMOS)
+## Academic Societies/Memberships
+* [Consortium for Ocean Sea-Ice Modelling in Australia (COSIMA)](http://cosima.org.au/)
+* [University of Sydney Marine Studies Institute (MSI)](https://marine-science.sydney.edu.au/)
+* [American Geophysical Union (AGU)](https://www.agu.org/)
+* [European Geophysical Union (EGU)](https://www.egu.eu/)
+* [Australian Meteorological and Oceanographic Society (AMOS)](https://www.ametsoc.org/index.cfm/ams/)
 
