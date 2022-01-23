@@ -40,12 +40,14 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   of barotropic Kelvin waves around Antarctica.  Submitted to **Ocean
   Dynamics**.
 
-### 2021
+### 2022
 
-* [31] *Holmes, R.M.*, Sohail, T. and Zika, J. (2021): [Adiabatic and
+* [31] *Holmes, R.M.*, Sohail, T. and Zika, J. (2022): [Adiabatic and
   diabatic signatures of temperature
   variability](https://doi.org/10.1175/JCLI-D-21-0695.1). **Journal of
   Climate**, early online release.
+
+### 2021
 
 * [30] McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R.,
   Griffies, S. and Durack, P. (2021): [The interpretation of
