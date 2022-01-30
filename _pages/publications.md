@@ -316,6 +316,12 @@ Stanford University News, February 2016.
 
 ## Data Sets
 
+* Holmes, R. M., Sohail, T. and Zika, J. (2022): Adiabatic and
+  diabatic signatures of ocean temperature variability - ACCESS-CM2
+  processing/plotting code and processed data. Zenodo [data set +
+  code],
+  [https://doi.org/10.5281/zenodo.5728574](https://doi.org/10.5281/zenodo.5728574)
+
 * Holmes, R. M., McDougall, T.J., Barker, P.M., Pawlowicz, R.,
   Griffies, S.M. and Durack, P. (2021): The interpretation of
   temperature and salinity variables in numerical ocean model output
