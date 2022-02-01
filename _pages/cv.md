@@ -44,6 +44,7 @@ ___
 
 ## Honors and Awards
 ___
+* 2022 Invited keynote talk: European DRAKKAR ocean modelling meeting
 * 2020 Consortium for Ocean and Sea Ice Modelling in Australia most
   selfless contribution award.
 * 2017 Nominated by the Australian Academy of Science to attend the

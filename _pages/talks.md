@@ -8,6 +8,21 @@ urlcolor: blue
 
 {% include base_path %}
 
+### 2022
+
+* Adiabatic and diabatic signatures of ocean temperature
+  variability. **AGU Ocean Sciences Meeting Conference talk**, March
+  2022.
+
+* Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
+  Variable Neutral Diffusion. **International Conference on Southern
+  Hemisphere Meteorology and Oceanography (ICSHMO) Conference talk**,
+  February 2022.
+
+* **Invited keynote talk**, The geography of numerical mixing in a
+  suite of global ocean models, European DRAKKAR ocean modelling
+  meeting online talk, February 2022.
+
 ### 2021
 
 * Adiabatic and diabatic signatures of ocean temperature variability
