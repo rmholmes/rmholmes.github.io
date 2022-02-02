@@ -16,6 +16,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Eabry, M., *Holmes, R.M.* and Sen Gupta, A. The impact of Indonesian
+  Throughflow constrictions on eastern Pacific upwelling and
+  water-mass transformation. Submitted to the **Journal of Geophysical
+  Research: Oceans**
+  
 * Mackallah, C. et al.: ACCESS Datasets for CMIP6: Methodology &
   Idealised Experiments. Submitted to the **Journal of Southern
   Hemisphere Earth Systems Science**.
