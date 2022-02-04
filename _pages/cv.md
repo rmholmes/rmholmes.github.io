@@ -120,6 +120,13 @@ See [`Students page`](/students)
 
 ## Academic Service and Outreach
 ___
+* Ongoing __Proposal Reviewer__: Australian Research Council (ARC),
+  CSIRO Marine National Facility (MNF) and US National Science
+  Foundation (NSF) grant proposal reviewer
+* Ongoing __Paper Reviewer__: Journal article reviewer for 30+
+  articles in journals including Nature Climate Change, Geophysical
+  Research Letters, Journal of Physical Oceanography, Climate
+  Dynamics...
 * 2022 __Session Convenor__: Low-Latitude Ocean Dynamics Session, AGU
   Ocean Sciences Meeting 2022 (online).
 * 2022 __Commitee member__: University of Sydney, School of
