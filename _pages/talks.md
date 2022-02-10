@@ -12,12 +12,12 @@ urlcolor: blue
 
 * Adiabatic and diabatic signatures of ocean temperature
   variability. **AGU Ocean Sciences Meeting Conference talk**, March
-  2022.
+  2022. [Youtube video of talk](https://youtu.be/1hTRfS3rw-E)
 
 * Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
   Variable Neutral Diffusion. **International Conference on Southern
   Hemisphere Meteorology and Oceanography (ICSHMO) Conference talk**,
-  February 2022.
+  February 2022. [Youtube video of talk](https://youtu.be/35KdxrHyIGA)
 
 * **Invited keynote talk**, The geography of numerical mixing in a
   suite of global ocean models, European DRAKKAR ocean modelling
@@ -42,12 +42,12 @@ urlcolor: blue
   (online)**, Talk. [Youtube video](https://www.youtube.com/watch?v=VDSvNWo-8L0)
 
 * Adiabatic and diabatic signatures of ocean temperature variability
- (February 2021), **Australian Meteorological and Oceanographic
- Society Annual Conference (online)**, Talk.
+  (February 2021), **Australian Meteorological and Oceanographic
+  Society Annual Conference (online)**, Talk.
 
 * Long-term global ocean heat content change driven by sub-polar
- surface heat fluxes (February 2021), **Australian Meteorological and
- Oceanographic Society Annual Conference (online)**, Talk.
+  surface heat fluxes (February 2021), **Australian Meteorological and
+  Oceanographic Society Annual Conference (online)**, Talk.
 
 ### 2020
 

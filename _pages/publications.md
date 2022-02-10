@@ -42,16 +42,16 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   System: A budget-based approach. Submitted to the **Journal of
   Physical Oceanography**.
 
-* Whitt, D., Cherian, D., *Holmes, R.M.*, Bachman, S., Lien, R-C. and
-  Large, W.: Simulation and scaling of the vertical heat transport in
-  deep-cycle turbulence throughout the equatorial Pacific cold
-  tongue. Submitted to the **Journal of Physical Oceanography**.
-
 * Webb, D., *Holmes, R. M.*, Spence, P. and England, M.: Propagation
   of barotropic Kelvin waves around Antarctica.  Submitted to **Ocean
   Dynamics**.
 
 ### 2022
+
+* [32] Whitt, D., Cherian, D., *Holmes, R.M.*, Bachman, S., Lien,
+  R-C. and Large, W. (2022): Simulation and scaling of the vertical
+  heat transport in deep-cycle turbulence throughout the equatorial
+  Pacific cold tongue. **Journal of Physical Oceanography**, accepted.
 
 * [31] *Holmes, R.M.*, Sohail, T. and Zika, J. (2022): [Adiabatic and
   diabatic signatures of ocean temperature
