@@ -16,6 +16,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Huguenin-Virchaux, M., *Holmes, R. M.* and England, M.E. Drivers and
+  distribution of global ocean heat uptake over the last half
+  century. Submitted.
+
 * Eabry, M., *Holmes, R.M.* and Sen Gupta, A. The impact of Indonesian
   Throughflow constrictions on eastern Pacific upwelling and
   water-mass transformation. Submitted to the **Journal of Geophysical
@@ -29,7 +33,9 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   [Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
   Variable Neutral
   Diffusion](https://www.essoar.org/doi/abs/10.1002/essoar.10508880.1). Submitted
-  to the **Journal of Advances in Modeling Earth Systems**.
+  to the **Journal of Advances in Modeling Earth Systems**. [Youtube
+  video of talk given at the ICSHMO conference (2022) describing
+  study](https://youtu.be/35KdxrHyIGA)
 
 * Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
   Quantifying cross-shelf transport in the East Australian Current
@@ -48,9 +54,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ### 2022
 
 * [31] *Holmes, R.M.*, Sohail, T. and Zika, J. (2022): [Adiabatic and
-  diabatic signatures of temperature
+  diabatic signatures of ocean temperature
   variability](https://doi.org/10.1175/JCLI-D-21-0695.1). **Journal of
-  Climate**, early online release.
+  Climate**, 35 (5), 1459-1477. [Youtube video of talk given at the
+  Ocean Sciences Meeting (2022) describing
+  study](https://youtu.be/1hTRfS3rw-E)
 
 ### 2021
 
@@ -65,7 +73,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Kiss, A.E. and England, M.H. (2021): [The geography of numerical
   mixing in a suite of global ocean
   models](https://doi.org/10.1029/2020MS002333).  **Journal of
-  Advances in Modeling Earth Systems**, 13 (7), e2020MS002333.
+  Advances in Modeling Earth Systems**, 13 (7),
+  e2020MS002333. [Youtube video of talk given at the European
+  Geophysical Union Conference (2021) describing
+  study](https://youtu.be/VDSvNWo-8L0)
 
 * [28] Savita, A., Zika, J., Domingues, C., Marsland, S., Evans, G.,
   Dias, F., *Holmes, R.M.* and Hogg, A. (2021): [Super Residual
