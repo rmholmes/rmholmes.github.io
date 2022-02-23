@@ -46,7 +46,8 @@ ___
 ___
 * 2022 Invited keynote talk: European DRAKKAR ocean modelling meeting
 * 2020 Consortium for Ocean and Sea Ice Modelling in Australia most
-  selfless contribution award.
+  selfless contribution award. [`Award Image`]({{
+  site.url}}/files/PXL_20220216_022309207.jpg)
 * 2017 Nominated by the Australian Academy of Science to attend the
   Lindau Nobel Laureates Meeting in Lindau, Germany 2017.
 * 2016 Physical Oceanography Dissertation Symposium (PODS) Invited
