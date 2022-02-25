@@ -29,14 +29,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Idealised Experiments. Submitted to the **Journal of Southern
   Hemisphere Earth Systems Science**.
 
-* *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall, T.:
-  [Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
-  Variable Neutral
-  Diffusion](https://www.essoar.org/doi/abs/10.1002/essoar.10508880.1). Submitted
-  to the **Journal of Advances in Modeling Earth Systems**. [Youtube
-  video of talk given at the ICSHMO conference (2022) describing
-  study](https://youtu.be/35KdxrHyIGA)
-
 * Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
   Quantifying cross-shelf transport in the East Australian Current
   System: A budget-based approach. Submitted to the **Journal of
@@ -47,6 +39,14 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Dynamics**.
 
 ### 2022
+
+* [33] *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall, T.:
+  [Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
+  Variable Neutral
+  Diffusion](https://www.essoar.org/doi/abs/10.1002/essoar.10508880.1). **Journal
+  of Advances in Modeling Earth Systems**, accepted. [Youtube video of
+  talk given at the ICSHMO conference (2022) describing
+  study](https://youtu.be/35KdxrHyIGA)
 
 * [32] Whitt, D., Cherian, D., *Holmes, R.M.*, Bachman, S., Lien,
   R-C. and Large, W. (2022): [Simulation and scaling of the vertical
