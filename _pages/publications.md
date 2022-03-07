@@ -46,7 +46,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Diffusion](https://www.essoar.org/doi/abs/10.1002/essoar.10508880.1). **Journal
   of Advances in Modeling Earth Systems**, accepted. [Youtube video of
   talk given at the ICSHMO conference (2022) describing
-  study](https://youtu.be/35KdxrHyIGA)
+  study](https://youtu.be/35KdxrHyIGA), [Associated dataset
+  (Zenodo)](https://doi.org/10.5281/zenodo.6253779).
 
 * [32] Whitt, D., Cherian, D., *Holmes, R.M.*, Bachman, S., Lien,
   R-C. and Large, W. (2022): [Simulation and scaling of the vertical
@@ -333,6 +334,12 @@ Stanford University News, February 2016.
    Environmental Monitor, April 2016.
 
 ## Data Sets
+
+[33] *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall,
+  T. (2022): Sensitivity of a Coarse-Resolution Global Ocean Model to
+  Spatially Variable Neutral Diffusion - processing code and processed
+  data. Zenodo [data set +
+  code],[https://doi.org/10.5281/zenodo.6253779][https://doi.org/10.5281/zenodo.6253779]
 
 * Holmes, R. M., Sohail, T. and Zika, J. (2022): Adiabatic and
   diabatic signatures of ocean temperature variability - ACCESS-CM2
