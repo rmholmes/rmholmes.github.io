@@ -34,11 +34,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   System: A budget-based approach. Submitted to the **Journal of
   Physical Oceanography**.
 
-* Webb, D., *Holmes, R. M.*, Spence, P. and England, M.: Propagation
-  of barotropic Kelvin waves around Antarctica.  Submitted to **Ocean
-  Dynamics**.
-
 ### 2022
+
+* [34] Webb, D., *Holmes, R. M.*, Spence, P. and England, M.:
+  Propagation of barotropic Kelvin waves around Antarctica. **Ocean
+  Dynamics**, accepted.
 
 * [33] *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall, T.:
   [Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
