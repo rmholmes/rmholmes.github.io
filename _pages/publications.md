@@ -43,8 +43,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [33] *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall, T.:
   [Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
   Variable Neutral
-  Diffusion](https://www.essoar.org/doi/abs/10.1002/essoar.10508880.1). **Journal
-  of Advances in Modeling Earth Systems**, accepted. [Youtube video of
+  Diffusion](https://doi.org/10.1029/2021MS002914). **Journal of
+  Advances in Modeling Earth Systems**, accepted. [Youtube video of
   talk given at the ICSHMO conference (2022) describing
   study](https://youtu.be/35KdxrHyIGA), [Associated dataset
   (Zenodo)](https://doi.org/10.5281/zenodo.6253779).
