@@ -10,6 +10,10 @@ urlcolor: blue
 
 ### 2022
 
+* Challenges in modelling ocean circulation and climate into the
+  future, one hour research seminar to Marine Science Masters students
+  as part of MARS5009; Sydney Institute for Marine Science (SIMS).
+
 * Adiabatic and diabatic signatures of ocean temperature
   variability. **AGU Ocean Sciences Meeting Conference talk**, March
   2022. [Youtube video of talk](https://youtu.be/1hTRfS3rw-E)

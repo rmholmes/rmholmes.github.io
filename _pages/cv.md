@@ -121,6 +121,10 @@ See [`Students page`](/students)
 
 ## Academic Service and Outreach
 ___
+
+* 2021 __Undergraduate outreach__: One hour research seminar to Marine
+  Science Masters students as part of MARS5009; Sydney Institute for
+  Marine Science (SIMS).
 * Ongoing __Proposal Reviewer__: Australian Research Council (ARC),
   CSIRO Marine National Facility (MNF) and US National Science
   Foundation (NSF) grant proposal reviewer
