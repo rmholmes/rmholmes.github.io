@@ -44,8 +44,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   [Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
   Variable Neutral
   Diffusion](https://doi.org/10.1029/2021MS002914). **Journal of
-  Advances in Modeling Earth Systems**, accepted. [Youtube video of
-  talk given at the ICSHMO conference (2022) describing
+  Advances in Modeling Earth Systems**, 14, e2021MS002914. [Youtube
+  video of talk given at the ICSHMO conference (2022) describing
   study](https://youtu.be/35KdxrHyIGA), [Associated dataset
   (Zenodo)](https://doi.org/10.5281/zenodo.6253779).
 
