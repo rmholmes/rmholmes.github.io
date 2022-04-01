@@ -335,11 +335,11 @@ Stanford University News, February 2016.
 
 ## Data Sets
 
-[33] *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall,
+* [33] *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall,
   T. (2022): Sensitivity of a Coarse-Resolution Global Ocean Model to
   Spatially Variable Neutral Diffusion - processing code and processed
   data. Zenodo [data set +
-  code],[https://doi.org/10.5281/zenodo.6253779][https://doi.org/10.5281/zenodo.6253779]
+  code],[https://doi.org/10.5281/zenodo.6253779](https://doi.org/10.5281/zenodo.6253779)
 
 * Holmes, R. M., Sohail, T. and Zika, J. (2022): Adiabatic and
   diabatic signatures of ocean temperature variability - ACCESS-CM2
