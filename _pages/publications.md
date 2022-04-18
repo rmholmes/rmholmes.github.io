@@ -16,6 +16,9 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Pudig, M., Yung, C., Zika, J. and Holmes, R.: Rectified ocean heat
+  uptake from oscillatory surface forcing. Submitted.
+
 * Huguenin-Virchaux, M., *Holmes, R. M.* and England, M.E. Drivers and
   distribution of global ocean heat uptake over the last half
   century. Submitted.
