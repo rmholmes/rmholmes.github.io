@@ -23,11 +23,6 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   distribution of global ocean heat uptake over the last half
   century. Submitted.
 
-* Eabry, M., *Holmes, R.M.* and Sen Gupta, A. The impact of Indonesian
-  Throughflow constrictions on eastern Pacific upwelling and
-  water-mass transformation. Submitted to the **Journal of Geophysical
-  Research: Oceans**
-  
 * Mackallah, C. et al.: ACCESS Datasets for CMIP6: Methodology &
   Idealised Experiments. Submitted to the **Journal of Southern
   Hemisphere Earth Systems Science**.
@@ -39,6 +34,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2022
 
+* [35] Eabry, M., *Holmes, R.M.* and Sen Gupta, A. The impact of
+  Indonesian Throughflow constrictions on eastern Pacific upwelling
+  and water-mass transformation. **Journal of Geophysical Research:
+  Oceans**, accepted.
+  
 * [34] Webb, D., *Holmes, R. M.*, Spence, P. and England, M.:
   [Propagation of barotropic Kelvin waves around
   Antarctica](https://doi.org/10.1007/s10236-022-01506-y). **Ocean
