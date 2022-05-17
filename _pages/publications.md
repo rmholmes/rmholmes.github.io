@@ -38,10 +38,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2022
 
-* [35] Eabry, M., *Holmes, R.M.* and Sen Gupta, A. The impact of
+* [35] Eabry, M., *Holmes, R.M.* and Sen Gupta, A. [The impact of
   Indonesian Throughflow constrictions on eastern Pacific upwelling
-  and water-mass transformation. **Journal of Geophysical Research:
-  Oceans**, accepted.
+  and water-mass
+  transformation](https://doi.org/10.1029/2022JC018509). **Journal of
+  Geophysical Research: Oceans**, early online release.
   
 * [34] Webb, D., *Holmes, R. M.*, Spence, P. and England, M.:
   [Propagation of barotropic Kelvin waves around
@@ -62,7 +63,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   heat transport in deep-cycle turbulence throughout the equatorial
   Pacific cold
   tongue](https://doi.org/10.1175/JPO-D-21-0153.1). **Journal of
-  Physical Oceanography**, accepted.
+  Physical Oceanography**, 52 (5), 981-1014.
 
 * [31] *Holmes, R.M.*, Sohail, T. and Zika, J. (2022): [Adiabatic and
   diabatic signatures of ocean temperature
