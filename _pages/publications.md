@@ -43,7 +43,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Indonesian Throughflow constrictions on eastern Pacific upwelling
   and water-mass
   transformation](https://doi.org/10.1029/2022JC018509). **Journal of
-  Geophysical Research: Oceans**, early online release.
+  Geophysical Research: Oceans**, early online release. [Associated
+  dataset (Zenodo)](https://doi.org/10.5281/zenodo.6443022).
   
 * [34] Webb, D., *Holmes, R. M.*, Spence, P. and England, M.:
   [Propagation of barotropic Kelvin waves around
@@ -345,9 +346,14 @@ Stanford University News, February 2016.
 
 ## Data Sets
 
-* [33] *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall,
-  T. (2022): Sensitivity of a Coarse-Resolution Global Ocean Model to
-  Spatially Variable Neutral Diffusion - processing code and processed
+* Eabry, M., *Holmes, R.M.* and Sen Gupta, A. (2022): The impact of
+  Indonesian Throughflow constrictions on eastern Pacific upwelling
+  and water-mass transformation [Data set +
+  code]. Zenodo. [https://doi.org/10.5281/zenodo.6443022](https://doi.org/10.5281/zenodo.6443022).
+
+* *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall, T. (2022):
+  Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
+  Variable Neutral Diffusion - processing code and processed
   data. Zenodo [data set +
   code],[https://doi.org/10.5281/zenodo.6253779](https://doi.org/10.5281/zenodo.6253779)
 
