@@ -19,10 +19,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * Sohail, T., *Holmes, R.M.* and Zika, J.: [Watermass co-ordinates
   isolate the historical climate change
   signal](https://www.essoar.org/doi/abs/10.1002/essoar.10511385.1). Submitted
-  to J. Climate.
+  to the **Journal of Climate**.
 
-* Pudig, M., Yung, C., Zika, J. and Holmes, R.: Rectified ocean heat
-  uptake from oscillatory surface forcing. Submitted to J. Climate.
+* Pudig, M., Yung, C., Zika, J. and *Holmes, R.M.*: Rectified ocean
+  heat uptake from oscillatory surface forcing. Submitted to the
+  **Journal of Climate**.
 
 * Huguenin-Virchaux, M., *Holmes, R. M.* and England, M.E. Drivers and
   distribution of global ocean heat uptake over the last half
@@ -43,7 +44,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Indonesian Throughflow constrictions on eastern Pacific upwelling
   and water-mass
   transformation](https://doi.org/10.1029/2022JC018509). **Journal of
-  Geophysical Research: Oceans**, early online release. [Associated
+  Geophysical Research: Oceans**, 127, e2022JC018509. [Associated
   dataset (Zenodo)](https://doi.org/10.5281/zenodo.6443022).
   
 * [34] Webb, D., *Holmes, R. M.*, Spence, P. and England, M.:
