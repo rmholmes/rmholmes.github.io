@@ -29,16 +29,16 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   distribution of global ocean heat uptake over the last half
   century. Submitted.
 
-* Mackallah, C. et al.: ACCESS Datasets for CMIP6: Methodology &
-  Idealised Experiments. Submitted to the **Journal of Southern
-  Hemisphere Earth Systems Science**.
-
 * Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
   Quantifying cross-shelf transport in the East Australian Current
   System: A budget-based approach. Submitted to the **Journal of
   Physical Oceanography**.
 
 ### 2022
+
+* [36] Mackallah, C. et al. (2022): ACCESS Datasets for CMIP6:
+  Methodology & Idealised Experiments. **Journal of Southern
+  Hemisphere Earth Systems Science**, accepted.
 
 * [35] Eabry, M., *Holmes, R.M.* and Sen Gupta, A. [The impact of
   Indonesian Throughflow constrictions on eastern Pacific upwelling

@@ -12,13 +12,12 @@ modelling. My research focuses on how processes acting on
 small-scales, such as turbulent mixing and mesoscale eddies, influence
 the large-scale ocean circulation and its variability. I use
 theoretical techniques combined with a range of idealized and
-realistic ocean models (e.g. the regional model ROMS, the global model
-MOM5 and the spectral model Dedalus) and analysis of oceanographic
-data to better understand interactions across scales in the ocean in
-order to represent them properly in low-resolution models. I obtained
-my PhD in 2016 from [Stanford University](https://www.stanford.edu/),
-working with Professor Leif Thomas. I am currently an ARC Discovery
-Early Career Research Award (DECRA) Fellow at the [School of
+realistic ocean models and analysis of oceanographic data to better
+understand interactions across scales in the ocean in order to
+represent them properly in low-resolution models. I obtained my PhD in
+2016 from [Stanford University](https://www.stanford.edu/), working
+with Professor Leif Thomas. I am currently an ARC Discovery Early
+Career Research Award (DECRA) Fellow at the [School of
 Geosciences](https://www.sydney.edu.au/science/schools/school-of-geosciences.html)
 at the [University of Sydney](http://www.sydney.edu.au/).
 
@@ -42,12 +41,12 @@ Dynamics](https://doi.org/10.1007/s00382-018-4217-0)). I have also
 been collaborating with scientists at the National Centre for
 Atmospheric Research (NCAR, USA) to study variability of turbulent
 mixing at the Equator from observations and a hierarchy of
-high-resolution models. My recently funded ARC DECRA project *Mixing
-and air-sea coupling in the Pacific: Toward better El Nino forecasts*
-aims to further develop out understanding of air-sea interactions at
-the mesoscale in the tropical Pacific and feed that understanding into
-improvements in low-resolution models that are used to provide El Nino
-forecasts.
+high-resolution models. My recently funded **ARC DECRA** project
+*Mixing and air-sea coupling in the Pacific: Toward better El Nino
+forecasts* aims to further develop out understanding of air-sea
+interactions at the mesoscale in the tropical Pacific and feed that
+understanding into improvements in low-resolution models that are used
+to provide El Nino forecasts.
 
 * **Ocean heat transport in temperature space:** The ocean is warmed
 by air-sea heat fluxes at low-latitudes and warm temperatures and
