@@ -50,7 +50,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 * [34] Webb, D., *Holmes, R. M.*, Spence, P. and England, M.:
   [Propagation of barotropic Kelvin waves around
   Antarctica](https://doi.org/10.1007/s10236-022-01506-y). **Ocean
-  Dynamics**.
+  Dynamics**, 72 (6), 405-419.
 
 * [33] *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall, T.:
   [Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
