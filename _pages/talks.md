@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Conference Talks and Seminars"
 permalink: /talks/
 author_profile: true
@@ -15,8 +14,8 @@ urlcolor: blue
   as part of MARS5009; Sydney Institute for Marine Science (SIMS).
 
 * Adiabatic and diabatic signatures of ocean temperature
-  variability. **AGU Ocean Sciences Meeting Conference talk**, March
-  2022. [Youtube video of talk](https://youtu.be/1hTRfS3rw-E)
+  variability. **AGU Ocean Sciences Meeting Conference talk**,
+  March 2022. [Youtube video of talk](https://youtu.be/1hTRfS3rw-E)
 
 * Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially
   Variable Neutral Diffusion. **International Conference on Southern
