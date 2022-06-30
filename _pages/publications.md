@@ -29,12 +29,13 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   distribution of global ocean heat uptake over the last half
   century. Submitted.
 
-* Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
-  Quantifying cross-shelf transport in the East Australian Current
-  System: A budget-based approach. Submitted to the **Journal of
-  Physical Oceanography**.
 
 ### 2022
+
+* [37] Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
+  Quantifying cross-shelf transport in the East Australian Current
+  System: A budget-based approach. **Journal of Physical
+  Oceanography**, accepted.
 
 * [36] Mackallah, C. et al. (2022): ACCESS Datasets for CMIP6:
   Methodology & Idealised Experiments. **Journal of Southern
