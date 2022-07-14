@@ -37,9 +37,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   System: A budget-based approach. **Journal of Physical
   Oceanography**, accepted.
 
-* [36] Mackallah, C. et al. (2022): ACCESS Datasets for CMIP6:
-  Methodology & Idealised Experiments. **Journal of Southern
-  Hemisphere Earth Systems Science**, accepted.
+* [36] Mackallah, C. et al. (2022): [ACCESS Datasets for CMIP6:
+  Methodology & Idealised
+  Experiments](https://doi.org/10.1071/ES21031). **Journal of Southern
+  Hemisphere Earth Systems Science**.
 
 * [35] Eabry, M., *Holmes, R.M.* and Sen Gupta, A. [The impact of
   Indonesian Throughflow constrictions on eastern Pacific upwelling
