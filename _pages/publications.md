@@ -25,12 +25,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   heat uptake from oscillatory surface forcing. Submitted to the
   **Journal of Climate**.
 
-* Huguenin-Virchaux, M., *Holmes, R. M.* and England, M.E. Drivers and
-  distribution of global ocean heat uptake over the last half
-  century. Submitted.
-
-
 ### 2022
+
+* [38] Huguenin-Virchaux, M., *Holmes, R. M.* and England,
+  M.E. Drivers and distribution of global ocean heat uptake over the
+  last half century. **Nature Communications**, accepted.
 
 * [37] Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
   Quantifying cross-shelf transport in the East Australian Current
