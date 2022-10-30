@@ -122,7 +122,7 @@ See [`Students page`](/students)
 ## Academic Service and Outreach
 ___
 
-* 2021 __Undergraduate outreach__: One hour research seminar to Marine
+* 2021 __Research outreach__: One hour research seminar to Marine
   Science Masters students as part of MARS5009; Sydney Institute for
   Marine Science (SIMS).
 * Ongoing __Proposal Reviewer__: Australian Research Council (ARC),
