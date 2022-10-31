@@ -33,9 +33,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   Communications**, 13, 4921.
 
 * [37] Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
-  Quantifying cross-shelf transport in the East Australian Current
-  System: A budget-based approach. **Journal of Physical
-  Oceanography**, accepted.
+  [Quantifying cross-shelf transport in the East Australian Current
+  System: A budget-based
+  approach](https://doi.org/10.1175/JPO-D-21-0193.1). **Journal of
+  Physical Oceanography**, 52 (10), 2555-2572.
 
 * [36] Mackallah, C. et al. (2022): [ACCESS Datasets for CMIP6:
   Methodology & Idealised
