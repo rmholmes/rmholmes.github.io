@@ -15,10 +15,9 @@ theoretical techniques combined with a range of idealized and
 realistic ocean models and analysis of oceanographic data to better
 understand interactions across scales in the ocean in order to
 represent them properly in low-resolution models. I obtained my PhD in
-2016 from [Stanford University](https://www.stanford.edu/), working
-with Professor Leif Thomas. I held several postdoctoral positions at
-the [University of New South Wales](http://www.unsw.edu.au) in the
-[Climate Change Research
+2016 from [Stanford University](https://www.stanford.edu/). I held
+several postdoctoral positions at the [University of New South
+Wales](http://www.unsw.edu.au) in the [Climate Change Research
 Center](https://www.unsw.edu.au/research/ccrc) and the [School of
 Mathematics and
 Statistics](https://www.unsw.edu.au/science/our-schools/maths) between
