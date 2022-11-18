@@ -17,8 +17,12 @@ understand interactions across scales in the ocean in order to
 represent them properly in low-resolution models. I obtained my PhD in
 2016 from [Stanford University](https://www.stanford.edu/), working
 with Professor Leif Thomas. I held several postdoctoral positions at
-the University of New South Wales between 2016 and 2021 before joining
-the [School of
+the [University of New South Wales](http://www.unsw.edu.au) in the
+[Climate Change Research
+Center](https://www.unsw.edu.au/research/ccrc) and the [School of
+Mathematics and
+Statistics](https://www.unsw.edu.au/science/our-schools/maths) between
+2016 and 2021 before joining the [School of
 Geosciences](https://www.sydney.edu.au/science/schools/school-of-geosciences.html)
 at the [University of Sydney](http://www.sydney.edu.au/) as an ARC
 Discovery Early Career Research Award (DECRA) Fellow in late 2021.
