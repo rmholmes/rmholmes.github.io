@@ -16,10 +16,12 @@ realistic ocean models and analysis of oceanographic data to better
 understand interactions across scales in the ocean in order to
 represent them properly in low-resolution models. I obtained my PhD in
 2016 from [Stanford University](https://www.stanford.edu/), working
-with Professor Leif Thomas. I am currently an ARC Discovery Early
-Career Research Award (DECRA) Fellow at the [School of
+with Professor Leif Thomas. I held several postdoctoral positions at
+the University of New South Wales between 2016 and 2021 before joining
+the [School of
 Geosciences](https://www.sydney.edu.au/science/schools/school-of-geosciences.html)
-at the [University of Sydney](http://www.sydney.edu.au/).
+at the [University of Sydney](http://www.sydney.edu.au/) as an ARC
+Discovery Early Career Research Award (DECRA) Fellow in late 2021.
 
 ## Research Interests
 

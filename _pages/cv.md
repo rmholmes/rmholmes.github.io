@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[`Download 2-page CV`](/files/RyanHolmesCV_short.pdf)
+[`Download 2-page CV`](/files/RyanHolmesCV.pdf)
 
 ## Education
 ___

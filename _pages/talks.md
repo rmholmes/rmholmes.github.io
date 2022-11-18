@@ -11,8 +11,8 @@ urlcolor: blue
 
 * Challenges in modelling ocean circulation and climate into the
   future, one hour research seminar to Marine Science Masters students
-  as part of MARS5009; \textbf{Sydney Institute for Marine Science
-  (SIMS)}.
+  as part of Topics in Marine Science (TAMS)/MARS5009; **Sydney
+  Institute for Marine Science (SIMS)**.
 
 * Adiabatic and diabatic signatures of ocean temperature
   variability. **AGU Ocean Sciences Meeting Conference talk**,
