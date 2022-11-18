@@ -14,17 +14,19 @@ the large-scale ocean circulation and its variability. I use
 theoretical techniques combined with a range of idealized and
 realistic ocean models and analysis of oceanographic data to better
 understand interactions across scales in the ocean in order to
-represent them properly in low-resolution models. I obtained my PhD in
-2016 from [Stanford University](https://www.stanford.edu/). I held
+represent them properly in low-resolution models. 
+
+I obtained my PhD in 2016 from [Stanford
+University](https://www.stanford.edu/). Between 2016 and 2021 I held
 several postdoctoral positions at the [University of New South
 Wales](http://www.unsw.edu.au) in the [Climate Change Research
 Center](https://www.unsw.edu.au/research/ccrc) and the [School of
 Mathematics and
-Statistics](https://www.unsw.edu.au/science/our-schools/maths) between
-2016 and 2021 before joining the [School of
+Statistics](https://www.unsw.edu.au/science/our-schools/maths). I
+joined the [School of
 Geosciences](https://www.sydney.edu.au/science/schools/school-of-geosciences.html)
 at the [University of Sydney](http://www.sydney.edu.au/) as an ARC
-Discovery Early Career Research Award (DECRA) Fellow in late 2021.
+Discovery Early Career Researcher Award (DECRA) Fellow in late 2021.
 
 ## Research Interests
 
