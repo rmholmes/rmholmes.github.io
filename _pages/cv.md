@@ -30,8 +30,8 @@ ___
 * 2023 Holmes, R., __National Computational Merit Allocation Scheme__
   Mixing and air-sea coupling in the tropical Pacific: Toward improved
   El Nino forecasting. 4MSU. The University of Sydney Informatics Hub
-  further supported this project with an additional $1.2$MSU. 5.2MSU
-  corresponds to AU$56,000, valued at AU$0.01078/SU.
+  further supported this project with an additional $1.4$MSU. 5.4MSU
+  corresponds to AU$58,000, valued at AU$0.01078/SU.
 
 * 2021-2023 Holmes, R., __Australian Research Council Discovery Early
   Career Researcher Award (DECRA)__ DE21010004: Mixing and air-sea
