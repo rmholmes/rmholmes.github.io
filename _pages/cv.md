@@ -24,9 +24,13 @@ ___
 * 2004-2005 Year 12 Certificate, Lake Ginninderra College, Canberra,
   Australia, University Admissions Index (UAI): 99.6/100
 
-## Funding
+## Funding and Grants
 ___
 
+* 2023 Holmes, R., __National Computational Merit Allocation Scheme__
+  Mixing and air-sea coupling in the tropical Pacific: Toward improved
+  El Nino forecasting. $4$MSU - corresponding to AU$160,000, valued at
+  $0.04/SU.
 * 2021-2023 Holmes, R., __Australian Research Council Discovery Early
   Career Researcher Award (DECRA)__ DE21010004: Mixing and air-sea
   coupling in the Pacific: Toward better El Nino
@@ -41,7 +45,6 @@ ___
   models to facilitate observational process deployments in the
   Equatorial Pacific Cold Tongue. __NOAA/OAR Climate Variability and
   Predictability Program__ NOAA-OAR-CPO-2018-2005492, *USD$572,950*
-
 ## Honors and Awards
 ___
 * 2022 Invited keynote talk: European DRAKKAR ocean modelling meeting
