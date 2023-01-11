@@ -30,10 +30,9 @@ urlcolor: blue
 * Matt Pudig (2021), **honours awarded** UNSW, 94/100. *The impact of
   oscillatory forcing on ocean heat uptake*
 
-* Micheal Eabry (2020-present), Masters spin-off project **in
-  progress**, UNSW. *The impact of Indonesian Throughflow
-  constrictions on eastern Pacific upwelling and water-mass
-  transformation*
+* Micheal Eabry (2020-2022), Masters spin-off project, UNSW. *The
+  impact of Indonesian Throughflow constrictions on eastern Pacific
+  upwelling and water-mass transformation*
 
 * Claire Yung (2020-2021), 6-week summer undergraduate project,
   UNSW. *Assymetries in global ocean heat uptake.*
