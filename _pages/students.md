@@ -24,7 +24,7 @@ urlcolor: blue
 * Claire Yung (2022), 4-month Research Assistant (RA), University of
   Sydney.
 
-* Matt Pudig (2021), 1-month Research Assistant (RA), University of
+* Matt Pudig (2022), 1-month Research Assistant (RA), University of
   Sydney.
 
 * Matt Pudig (2021), **honours awarded** UNSW, 94/100. *The impact of
