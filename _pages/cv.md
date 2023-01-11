@@ -27,11 +27,12 @@ ___
 ## Funding and Grants
 ___
 
-* 2023 Holmes, R., __National Computational Merit Allocation Scheme__
-  Mixing and air-sea coupling in the tropical Pacific: Toward improved
-  El Nino forecasting. 4MSU. The University of Sydney Informatics Hub
-  further supported this project with an additional $1.4$MSU. 5.4MSU
-  corresponds to AU$58,000, valued at AU$0.01078/SU.
+* 2023 Holmes, R., Australian __National Computational Merit
+  Allocation Scheme (NCMAS)__ Mixing and air-sea coupling in the
+  tropical Pacific: Toward improved El Nino forecasting. 4MSU. The
+  University of Sydney Informatics Hub further supported this project
+  with an additional 1.4MSU. *5.4MSU* corresponds to *AU\$58,000*,
+  valued at AU\$0.01078/SU.
 
 * 2021-2023 Holmes, R., __Australian Research Council Discovery Early
   Career Researcher Award (DECRA)__ DE21010004: Mixing and air-sea
@@ -78,12 +79,6 @@ ___
   processes, equatorial dynamics, turbulent mixing, ocean modelling.
 * 2010-2011 __Research Assistant, Australian National
   University__ (6 months) Computational polymer physics, two published papers.
-* 2010  __Research Intern, Australian National
-  University__ (3 months) Experimental geophysical fluid dynamics; horizontal
-  convection.
-* 2006-2010 __Undergraduate Researcher, Australian National
-  University__ Electron scattering experiment, seismology, nuclear
-  physics, affine geometry.
 
 ## Teaching
 ___
@@ -115,7 +110,7 @@ ___
 ## Student supervision
 ___
 
-1 succesful Ph.D. student completion, 1 successful Masters student
+1 successful Ph.D. student completion, 1 successful Masters student
 completion, 1 successful honours student completion. Supervised 4
 completed undergraduate summer student projects.
 
@@ -139,9 +134,9 @@ ___
   Dynamics...
 * 2022 __Session Convenor__: Low-Latitude Ocean Dynamics Session, AGU
   Ocean Sciences Meeting 2022 (online).
-* 2022 __Commitee member__: University of Sydney, School of
-  Geosciences research commitee.
-* 2021-present __Executive commitee member__: Consortium for Ocean and
+* 2022 __Committee member__: University of Sydney, School of
+  Geosciences research committee.
+* 2021-present __Executive committee member__: Consortium for Ocean and
   Sea Ice Modelling in Australia (COSIMA)
 * 2021 __Academic Mentor__: University of Sydney Faculty of Science
   Mentoring program
@@ -167,9 +162,8 @@ ___
 * 2018 __Session Convenor__: Ocean General Session, Australian
   Meteorological and Oceanographic Society Annual Meeting, Sydney
 * 2018-2019 Centre of Excellence for Climate Extremes __Early Career
-  Research (ECR) commitee member__ and UNSW representative. Annual
+  Research (ECR) committee member__ and UNSW representative. Annual
   Meeting 2018 __ECR day main organiser__
-* 
 
 ## Academic Societies/Memberships
 * [Consortium for Ocean Sea-Ice Modelling in Australia (COSIMA)](http://cosima.org.au/)
