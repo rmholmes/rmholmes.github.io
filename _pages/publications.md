@@ -14,14 +14,16 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ## Journal Articles
 
-### Articles submitted for publication
+<!-- ### Articles submitted for publication -->
 
-* Sohail, T., *Holmes, R.M.* and Zika, J.: [Watermass co-ordinates
-  isolate the historical climate change
-  signal](https://www.essoar.org/doi/abs/10.1002/essoar.10511385.1). Submitted
-  to the **Journal of Climate**.
+<!-- *  -->
 
 ### 2023
+
+* [40] Sohail, T., *Holmes, R.M.* and Zika, J.: [Watermass
+  co-ordinates isolate the historical climate change
+  signal](https://www.essoar.org/doi/abs/10.1002/essoar.10511385.1). **Journal
+  of Climate**, accepted.
 
 * [39] Pudig, M., Yung, C., Zika, J. and *Holmes, R.M.*: Rectified
   ocean heat uptake from oscillatory surface forcing. **Journal of
