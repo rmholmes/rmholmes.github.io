@@ -25,9 +25,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   signal](https://www.essoar.org/doi/abs/10.1002/essoar.10511385.1). **Journal
   of Climate**, accepted.
 
-* [39] Pudig, M., Yung, C., Zika, J. and *Holmes, R.M.*: Rectified
-  ocean heat uptake from oscillatory surface forcing. **Journal of
-  Climate**, accepted.
+* [39] Pudig, M., Yung, C., Zika, J. and *Holmes, R.M.*: [Rectified
+  ocean heat uptake from oscillatory surface
+  forcing](https://doi.org/10.1175/JCLI-D-22-0267.1). **Journal of
+  Climate**, early online release.
 
 ### 2022
 
