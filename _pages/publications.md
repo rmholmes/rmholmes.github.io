@@ -24,8 +24,8 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 * [40] Sohail, T., *Holmes, R.M.* and Zika, J.: [Watermass
   co-ordinates isolate the historical climate change
-  signal](https://www.essoar.org/doi/abs/10.1002/essoar.10511385.1). **Journal
-  of Climate**, accepted.
+  signal](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0363.1/JCLI-D-22-0363.1.xml). **Journal
+  of Climate**, early online release.
 
 * [39] Pudig, M., Yung, C., Zika, J. and *Holmes, R.M.*: [Rectified
   ocean heat uptake from oscillatory surface
