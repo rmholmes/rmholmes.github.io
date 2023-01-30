@@ -14,9 +14,11 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ## Journal Articles
 
-<!-- ### Articles submitted for publication -->
+### Articles submitted for publication
 
-<!-- *  -->
+* Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. [Surface
+  heating steers planetary-scale ocean
+  circulation](https://arxiv.org/abs/2301.11474). Submitted.
 
 ### 2023
 
