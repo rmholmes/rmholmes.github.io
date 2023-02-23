@@ -114,7 +114,7 @@ ___
 completion, 1 successful honours student completion. Supervised 4
 completed undergraduate summer student projects.
 
-3 current Ph.D. students.
+4 current Ph.D. students.
 
 See [`Students page`](/students)
 

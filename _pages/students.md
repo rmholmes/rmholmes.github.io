@@ -10,11 +10,13 @@ urlcolor: blue
 
 ## Ph.D. students
 
+* Isabella Conde (2023-present), Ph.D. **in progress**, UNSW.
+
+* Dhruv Bhagtani (2020-present), Ph.D. **in progress**, ANU.
+
 * Maurice Huguenin-Virchaux (2019-present), Ph.D. **in progress**, UNSW.
 
 * Christopher Bladwell (2018-present), Ph.D. **in progress**, UNSW.
-
-* Dhruv Bhagtani (2020-present), Ph.D. **in progress**, ANU.
 
 * David Webb (2016-2020), Ph.D. **awarded**, UNSW. *Impacts of
   planetary ocean waves on Antarctic and North Atlantic climate.*
