@@ -22,11 +22,11 @@ several postdoctoral positions at the [University of New South
 Wales](http://www.unsw.edu.au) in the [Climate Change Research
 Center](https://www.unsw.edu.au/research/ccrc) and the [School of
 Mathematics and
-Statistics](https://www.unsw.edu.au/science/our-schools/maths). I
-joined the [School of
+Statistics](https://www.unsw.edu.au/science/our-schools/maths). I am
+currently an Australian Research Council (ARC) Discovery Early Career
+Researcher Award (DECRA) Fellow at the [School of
 Geosciences](https://www.sydney.edu.au/science/schools/school-of-geosciences.html)
-at the [University of Sydney](http://www.sydney.edu.au/) as an ARC
-Discovery Early Career Researcher Award (DECRA) Fellow in late 2021.
+at the [University of Sydney](http://www.sydney.edu.au/).
 
 ## Research Interests
 
