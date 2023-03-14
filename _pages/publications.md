@@ -16,9 +16,14 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Yung, C. and *Holmes R.* On the contribution of transient diabatic
+  processes to ocean heat transport and temperature
+  variability. Submitted to the **Journal of Physical Oceanography**.
+
 * Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. [Surface
   heating steers planetary-scale ocean
-  circulation](https://arxiv.org/abs/2301.11474). Submitted.
+  circulation](https://arxiv.org/abs/2301.11474). In review at the
+  **Journal of Physical Oceanography**
 
 ### 2023
 
