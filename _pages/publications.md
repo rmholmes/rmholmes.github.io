@@ -32,10 +32,10 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   signal](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0363.1/JCLI-D-22-0363.1.xml). **Journal
   of Climate**, early online release.
 
-* [39] Pudig, M., Yung, C., Zika, J. and *Holmes, R.M.*: [Rectified
-  ocean heat uptake from oscillatory surface
+* [39] Pudig, M., Yung, C., Zika, J. and *Holmes, R.M.* (2023):
+  [Rectified ocean heat uptake from oscillatory surface
   forcing](https://doi.org/10.1175/JCLI-D-22-0267.1). **Journal of
-  Climate**, early online release.
+  Climate**, 36 (8), 2663-2680.
 
 ### 2022
 
