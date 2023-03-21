@@ -33,7 +33,6 @@ ___
   University of Sydney Informatics Hub further supported this project
   with an additional 1.4MSU. *5.4MSU* corresponds to *AU\$58,000*,
   valued at AU\$0.01078/SU.
-
 * 2021-2023 Holmes, R., __Australian Research Council Discovery Early
   Career Researcher Award (DECRA)__ DE21010004: Mixing and air-sea
   coupling in the Pacific: Toward better El Nino
@@ -48,6 +47,7 @@ ___
   models to facilitate observational process deployments in the
   Equatorial Pacific Cold Tongue. __NOAA/OAR Climate Variability and
   Predictability Program__ NOAA-OAR-CPO-2018-2005492, *USD$572,950*
+
 ## Honors and Awards
 ___
 * 2022 Invited keynote talk: European DRAKKAR ocean modelling meeting
@@ -118,10 +118,15 @@ completed undergraduate summer student projects.
 
 See [`Students page`](/students)
 
-
 ## Academic Service and Outreach
 ___
 
+* 2023 __Workshop organiser__: Sole organiser for the University of
+  Sydney Oceanography Workshop, 21st of March 2023.
+* 2022 __Workshop organiser__: Co-organiser for the Gerringong
+  Geophysical Fluid Dynamics Retreat, May 2022, Gerringong NSW.
+* 2022-2023 __Weekly meeting convenor and working group co-chair__:
+  Consortium for Ocean and Sea Ice Modelling in Australia (COSIMA)
 * 2021 __Research outreach__: One hour research seminar to Marine
   Science Masters students as part of MARS5009; Sydney Institute for
   Marine Science (SIMS).
@@ -144,7 +149,7 @@ ___
   (1/4-degree, physics only, ocean sea-ice model) simulation that
   comprised part of the Australian communities ACCESS contribution to
   the Ocean Model Intercomparison Program (OMIP) component of CMIP6.
-* 2021 __Working group member__: US CLIVAR working group on tropical
+* 2021-2023 __Working group member__: US CLIVAR working group on tropical
   Pacific decadal variability
 * 2021 __Undergraduate outreach__: Research presentation to first year
   Geophysics students GEOS1003, School of Geosciences, University of
