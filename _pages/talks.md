@@ -7,6 +7,12 @@ urlcolor: blue
 
 {% include base_path %}
 
+### 2023
+
+* Rectification of small/fast processes and their role in ocean heat
+  transport and El Nino; **University of Sydney Oceanography
+  Workshop**, March 2023, University of Sydney School of Geosciences.
+
 ### 2022
 
 * Challenges in modelling ocean circulation and climate into the
