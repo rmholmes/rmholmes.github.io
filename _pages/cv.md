@@ -65,7 +65,9 @@ ___
 
 ## Academic Experience
 ___
-* 2021+ __ARC Discovery Early Career Research Award (DECRA) Fellow,
+* 2023+ __Climate Scientist__, Australian __Bureau of Meteorology__,
+  Sydney.
+* 2021-2023 __ARC Discovery Early Career Research Award (DECRA) Fellow,
   University of Sydney__, School of Geosciences, Faculty of Science
 * 2018-2021  __Senior Research Associate, University of New South
   Wales__ School of Mathematics and Statistics and Climate Change

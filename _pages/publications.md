@@ -16,6 +16,9 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Capotondi et al. Mechanisms of Tropical Pacific Decadal
+  Variability. Submitted to **Nature Reviews Earth & Environment**.
+
 * Yung, C. and *Holmes R.* On the contribution of transient diabatic
   processes to ocean heat transport and temperature
   variability. Submitted to the **Journal of Physical Oceanography**.
