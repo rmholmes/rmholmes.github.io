@@ -16,9 +16,13 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### Articles submitted for publication
 
+* Bennetts, L. et al. Closing the loops on Southern Ocean dynamics: From the 
+  circumpolar current to ice shelves and from bottom mixing to surface waves. 
+  Submitted to **Review of Geophysics**
+
 * Huguenin, M., *Holmes R.*, Spence, P. and England, M. Subsurface warming of the 
   West Antarctic continental shelf linked to El Nino-Southern Oscillation. Submitted 
-  to *Geophysical Research Letters*.
+  to **Geophysical Research Letters**.
 
 * Capotondi et al. Mechanisms of Tropical Pacific Decadal
   Variability. Submitted to **Nature Reviews Earth & Environment**.
