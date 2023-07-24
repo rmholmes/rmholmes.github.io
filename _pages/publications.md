@@ -31,14 +31,13 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   processes to ocean heat transport and temperature
   variability. Submitted to the **Journal of Physical Oceanography**.
 
-* Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. [Surface
-  heating steers planetary-scale ocean
-  circulation](https://arxiv.org/abs/2301.11474). In review at the
-  **Journal of Physical Oceanography**
-
 ### 2023
 
-* [40] Sohail, T., *Holmes, R.M.* and Zika, J.: [Watermass
+* [41] Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. (2023) [Surface
+  heating steers planetary-scale ocean circulation](https://arxiv.org/abs/2301.11474). 
+  **Journal of Physical Oceanography**, accepted.
+
+* [40] Sohail, T., *Holmes, R.M.* and Zika, J. (2023): [Watermass
   co-ordinates isolate the historical climate change
   signal](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0363.1/JCLI-D-22-0363.1.xml). **Journal
   of Climate**, 36 (9), 3063-3081.
