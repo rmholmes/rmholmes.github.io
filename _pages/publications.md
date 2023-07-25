@@ -34,7 +34,7 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 ### 2023
 
 * [41] Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. (2023) [Surface
-  heating steers planetary-scale ocean circulation](https://arxiv.org/abs/2301.11474). 
+  heating steers planetary-scale ocean circulation](https://doi.org/10.1175/JPO-D-23-0016.1). 
   **Journal of Physical Oceanography**, accepted.
 
 * [40] Sohail, T., *Holmes, R.M.* and Zika, J. (2023): [Watermass
