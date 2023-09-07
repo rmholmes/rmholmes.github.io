@@ -24,14 +24,13 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
   West Antarctic continental shelf linked to El Nino-Southern Oscillation. Submitted 
   to **Geophysical Research Letters**.
 
-* Capotondi et al. Mechanisms of Tropical Pacific Decadal
-  Variability. Submitted to **Nature Reviews Earth & Environment**.
-
 * Yung, C. and *Holmes R.* On the contribution of transient diabatic
   processes to ocean heat transport and temperature
   variability. Submitted to the **Journal of Physical Oceanography**.
 
 ### 2023
+
+* [42] Capotondi et al. Mechanisms of Tropical Pacific Decadal Variability. **Nature Reviews Earth & Environment**, accepted.
 
 * [41] Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. (2023) [Surface
   heating steers planetary-scale ocean circulation](https://doi.org/10.1175/JPO-D-23-0016.1). 
