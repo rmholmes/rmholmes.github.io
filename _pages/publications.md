@@ -30,46 +30,23 @@ profile](https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&hl=en)
 
 ### 2023
 
-* [42] Capotondi et al. Mechanisms of Tropical Pacific Decadal Variability. **Nature Reviews Earth & Environment**, accepted.
+* [42] Capotondi et al. (2023) [Mechanisms of Tropical Pacific Decadal Variability](https://doi.org/10.1038/s43017-023-00486-x). **Nature Reviews Earth & Environment**.
 
-* [41] Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. (2023) [Surface
-  heating steers planetary-scale ocean circulation](https://doi.org/10.1175/JPO-D-23-0016.1). 
-  **Journal of Physical Oceanography**, accepted.
+* [41] Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. (2023) [Surface heating steers planetary-scale ocean circulation](https://doi.org/10.1175/JPO-D-23-0016.1). **Journal of Physical Oceanography**, 53 (10), 2375-2391.
 
-* [40] Sohail, T., *Holmes, R.M.* and Zika, J. (2023): [Watermass
-  co-ordinates isolate the historical climate change
-  signal](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0363.1/JCLI-D-22-0363.1.xml). **Journal
-  of Climate**, 36 (9), 3063-3081.
+* [40] Sohail, T., *Holmes, R.M.* and Zika, J. (2023) [Watermass co-ordinates isolate the historical climate change signal](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0363.1/JCLI-D-22-0363.1.xml). **Journal of Climate**, 36 (9), 3063-3081.
 
-* [39] Pudig, M., Yung, C., Zika, J. and *Holmes, R.M.* (2023):
-  [Rectified ocean heat uptake from oscillatory surface
-  forcing](https://doi.org/10.1175/JCLI-D-22-0267.1). **Journal of
-  Climate**, 36 (8), 2663-2680.
+* [39] Pudig, M., Yung, C., Zika, J. and *Holmes, R.M.* (2023) [Rectified ocean heat uptake from oscillatory surface forcing](https://doi.org/10.1175/JCLI-D-22-0267.1). **Journal of Climate**, 36 (8), 2663-2680.
 
 ### 2022
 
-* [38] Huguenin-Virchaux, M., *Holmes, R. M.* and England, M.E. (2022)
-  [Drivers and distribution of global ocean heat uptake over the last
-  half century](https://doi.org/10.1038/s41467-022-32540-5). **Nature
-  Communications**, 13, 4921.
+* [38] Huguenin-Virchaux, M., *Holmes, R. M.* and England, M.E. (2022) [Drivers and distribution of global ocean heat uptake over the last half century](https://doi.org/10.1038/s41467-022-32540-5). **Nature Communications**, 13, 4921.
 
-* [37] Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.:
-  [Quantifying cross-shelf transport in the East Australian Current
-  System: A budget-based
-  approach](https://doi.org/10.1175/JPO-D-21-0193.1). **Journal of
-  Physical Oceanography**, 52 (10), 2555-2572.
+* [37] Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.: [Quantifying cross-shelf transport in the East Australian Current System: A budget-based approach](https://doi.org/10.1175/JPO-D-21-0193.1). **Journal of Physical Oceanography**, 52 (10), 2555-2572.
 
-* [36] Mackallah, C. et al. (2022): [ACCESS Datasets for CMIP6:
-  Methodology & Idealised
-  Experiments](https://doi.org/10.1071/ES21031). **Journal of Southern
-  Hemisphere Earth Systems Science**.
+* [36] Mackallah, C. et al. (2022): [ACCESS Datasets for CMIP6: Methodology & Idealised Experiments](https://doi.org/10.1071/ES21031). **Journal of Southern Hemisphere Earth Systems Science**.
 
-* [35] Eabry, M., *Holmes, R.M.* and Sen Gupta, A. [The impact of
-  Indonesian Throughflow constrictions on eastern Pacific upwelling
-  and water-mass
-  transformation](https://doi.org/10.1029/2022JC018509). **Journal of
-  Geophysical Research: Oceans**, 127, e2022JC018509. [Associated
-  dataset (Zenodo)](https://doi.org/10.5281/zenodo.6443022).
+* [35] Eabry, M., *Holmes, R.M.* and Sen Gupta, A. [The impact of Indonesian Throughflow constrictions on eastern Pacific upwelling and water-mass transformation](https://doi.org/10.1029/2022JC018509). **Journal of Geophysical Research: Oceans**, 127, e2022JC018509. [Associated  dataset (Zenodo)](https://doi.org/10.5281/zenodo.6443022).
   
 * [34] Webb, D., *Holmes, R. M.*, Spence, P. and England, M.:
   [Propagation of barotropic Kelvin waves around
