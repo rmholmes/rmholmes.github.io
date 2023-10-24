@@ -14,7 +14,7 @@ urlcolor: blue
 
 * Dhruv Bhagtani (2020-present), Ph.D. **in progress**, Australian National University. 1 published paper.
 
-* Maurice Huguenin-Virchaux (2019-present), Ph.D. **submitted**, University of New South Wales. 2 published papers, 1 submitted paper.
+* Maurice Huguenin-Virchaux (2019-present), Ph.D. **awarded**, University of New South Wales. 2 published papers, 1 submitted paper.
 
 * Christopher Bladwell (2018-present), Ph.D. **submitted**, University of New South Wales. 1 published paper.
 
