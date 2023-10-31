@@ -23,7 +23,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 * [42] Capotondi et al. (2023) [Mechanisms of Tropical Pacific Decadal Variability](https://doi.org/10.1038/s43017-023-00486-x). **Nature Reviews Earth & Environment**.
 
-* [41] Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. (2023) [Surface heating steers planetary-scale ocean circulation](https://doi.org/10.1175/JPO-D-23-0016.1). **Journal of Physical Oceanography**, 53 (10), 2375-2391.
+* [41] Bhagtani, D., Hogg, A., *Holmes R.* and Constantinou, N. (2023) [Surface heating steers planetary-scale ocean circulation](https://doi.org/10.1175/JPO-D-23-0016.1). **Journal of Physical Oceanography**, 53 (10), 2375-2391. [Associated dataset (Zenodo)](https://doi.org/10.5281/zenodo.8405009)
 
 * [40] Sohail, T., *Holmes, R.M.* and Zika, J. (2023) [Watermass co-ordinates isolate the historical climate change signal](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0363.1/JCLI-D-22-0363.1.xml). **Journal of Climate**, 36 (9), 3063-3081.
 
@@ -31,7 +31,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2022
 
-* [38] Huguenin-Virchaux, M., *Holmes, R. M.* and England, M.E. (2022) [Drivers and distribution of global ocean heat uptake over the last half century](https://doi.org/10.1038/s41467-022-32540-5). **Nature Communications**, 13, 4921.
+* [38] Huguenin-Virchaux, M., *Holmes, R. M.* and England, M.E. (2022) [Drivers and distribution of global ocean heat uptake over the last half century](https://doi.org/10.1038/s41467-022-32540-5). **Nature Communications**, 13, 4921. [Associated dataset (Zenodo)](https://zenodo.org/records/6873094)
 
 * [37] Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.: [Quantifying cross-shelf transport in the East Australian Current System: A budget-based approach](https://doi.org/10.1175/JPO-D-21-0193.1). **Journal of Physical Oceanography**, 52 (10), 2555-2572.
 
