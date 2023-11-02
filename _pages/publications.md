@@ -19,7 +19,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2023
 
-* [43] Yung, C. and *Holmes R.* (2023) [On the contribution of transient diabatic processes to ocean heat transport and temperature variability](https://doi.org/10.1175/JPO-D-23-0046.1). **Journal of Physical Oceanography**, early online release.
+* [43] Yung, C. and *Holmes R.* (2023) [On the contribution of transient diabatic processes to ocean heat transport and temperature variability](https://doi.org/10.1175/JPO-D-23-0046.1). **Journal of Physical Oceanography**, early online release. [Associated dataset (Zenodo)](https://zenodo.org/records/8213452)
 
 * [42] Capotondi et al. (2023) [Mechanisms of Tropical Pacific Decadal Variability](https://doi.org/10.1038/s43017-023-00486-x). **Nature Reviews Earth & Environment**.
 
@@ -45,14 +45,14 @@ Please see below for a publication list, including journal articles, theses, med
 
 * [32] Whitt, D., Cherian, D., *Holmes, R.M.*, Bachman, S., Lien, R-C. and Large, W. (2022): [Simulation and scaling of the vertical heat transport in deep-cycle turbulence throughout the equatorial Pacific cold tongue](https://doi.org/10.1175/JPO-D-21-0153.1). **Journal of Physical Oceanography**, 52 (5), 981-1014.
 
-* [31] *Holmes, R.M.*, Sohail, T. and Zika, J. (2022): [Adiabatic and diabatic signatures of ocean temperature variability](https://doi.org/10.1175/JCLI-D-21-0695.1). **Journal of Climate**, 35 (5), 1459-1477. [Youtube video of talk given at the Ocean Sciences Meeting (2022) describing study](https://youtu.be/1hTRfS3rw-E)
+* [31] *Holmes, R.M.*, Sohail, T. and Zika, J. (2022): [Adiabatic and diabatic signatures of ocean temperature variability](https://doi.org/10.1175/JCLI-D-21-0695.1). **Journal of Climate**, 35 (5), 1459-1477. [Youtube video of talk given at the Ocean Sciences Meeting (2022) describing study](https://youtu.be/1hTRfS3rw-E) [Associated dataset (Zenodo)](https://doi.org/10.5281/zenodo.5728574)
 
 ### 2021
 
-* [30] McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R., Griffies, S. and Durack, P. (2021): [The interpretation of temperature and salinity variables in numerical ocean model output, and the calculation of heat fluxes and heat content](https://doi.org/10.5194/gmd-14-6445-2021). **Geoscientific Model Development**, 14, 6445-6466.
+* [30] McDougall, T., J., Barker, P.M., *Holmes, R.M.*, Pawlowicz, R., Griffies, S. and Durack, P. (2021): [The interpretation of temperature and salinity variables in numerical ocean model output, and the calculation of heat fluxes and heat content](https://doi.org/10.5194/gmd-14-6445-2021). **Geoscientific Model Development**, 14, 6445-6466. [Associated dataset (Zenodo)](https://doi.org/10.5281/zenodo.5580343)
 
 * [29] *Holmes, R. M.*, Zika, J.D., Griffies, S.M., Hogg, A. McC., Kiss, A.E. and England, M.H. (2021): [The geography of numerical mixing in a suite of global ocean models](https://doi.org/10.1029/2020MS002333).  **Journal of Advances in Modeling Earth Systems**, 13 (7),
-  e2020MS002333. [Youtube video of talk given at the European Geophysical Union Conference (2021) describing study](https://youtu.be/VDSvNWo-8L0)
+  e2020MS002333. [Youtube video of talk given at the European Geophysical Union Conference (2021) describing study](https://youtu.be/VDSvNWo-8L0) [Associated dataset (Zenodo)](https://doi.org/10.5281/zenodo.4798380)
 
 * [28] Savita, A., Zika, J., Domingues, C., Marsland, S., Evans, G., Dias, F., *Holmes, R.M.* and Hogg, A. (2021): [Super Residual Circulation: a new perspective on ocean vertical heat transport](https://doi.org/10.1175/JPO-D-21-0008.1). **Journal of Physical Oceanography**, 51 (8), 2443-2462.
 
@@ -78,7 +78,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2019
 
-* [18] *Holmes, R. M.*, Zika, J.D., Ferrari, R., Thompson, A., Newsom, E. and England, M.H. (2019): [Atlantic ocean heat transport enabled by Indo-Pacific heat uptake and mixing](https://dx.doi.org/10.1029/2019GL085160). **Geophysical Research Letters**, 46, 13939-13949. [Climate Extremes Research Brief](https://climateextremes.org.au/research-brief-how-tropical-indo-pacific-processes-drive-ocean-heat-into-atlantic-meridional-circulation/), [`accepted manuscript (PDF)`]({{ site.url}}/files/Accepted_articles/Holmes2019GRL_accepted_manuscript.pdf)
+* [18] *Holmes, R. M.*, Zika, J.D., Ferrari, R., Thompson, A., Newsom, E. and England, M.H. (2019): [Atlantic ocean heat transport enabled by Indo-Pacific heat uptake and mixing](https://dx.doi.org/10.1029/2019GL085160). **Geophysical Research Letters**, 46, 13939-13949. [Climate Extremes Research Brief](https://climateextremes.org.au/research-brief-how-tropical-indo-pacific-processes-drive-ocean-heat-into-atlantic-meridional-circulation/), [`accepted manuscript (PDF)`]({{ site.url}}/files/Accepted_articles/Holmes2019GRL_accepted_manuscript.pdf) [Associated dataset (Research Data Australia)](https://doi.org/10.26190/5dc23d4b7e739)
 
 * [17] *Holmes R. M.*, de Lavergne, C. and McDougall, T.J. (2019): [Tracer transport within abyssal mixing layers](https://doi.org/10.1175/JPO-D-19-0006.1). **Journal of Physical Oceanography**, 49, 2669–2695. [`published manuscript (PDF)`]({{site.url}}/files/Accepted_articles/Holmes2019JPO_Abyssal_Tracer_Transport.pdf) [Climate Extremes Research Brief](https://climateextremes.org.au/research-brief-how-passive-tracers-will-diffuse-on-the-abyssal-ocean-floor/)
 
@@ -158,17 +158,7 @@ Holmes R. M. (2010) The Morphology of Single Chain Asymmetric Block Copolymers i
 
 ## Data Sets
 
-* Eabry, M., *Holmes, R.M.* and Sen Gupta, A. (2022): The impact of Indonesian Throughflow constrictions on eastern Pacific upwelling and water-mass transformation [Data set + code]. Zenodo. [https://doi.org/10.5281/zenodo.6443022](https://doi.org/10.5281/zenodo.6443022).
-
-* *Holmes, R.M.*, Groeskamp, S., Stewart, K. and McDougall, T. (2022): Sensitivity of a Coarse-Resolution Global Ocean Model to Spatially Variable Neutral Diffusion - processing code and processed data. Zenodo [data set + code],[https://doi.org/10.5281/zenodo.6253779](https://doi.org/10.5281/zenodo.6253779)
-
-* Holmes, R. M., Sohail, T. and Zika, J. (2022): Adiabatic and diabatic signatures of ocean temperature variability - ACCESS-CM2 processing/plotting code and processed data. Zenodo [data set + code], [https://doi.org/10.5281/zenodo.5728574](https://doi.org/10.5281/zenodo.5728574)
-
 * Holmes, R. M., McDougall, T.J., Barker, P.M., Pawlowicz, R., Griffies, S.M. and Durack, P. (2021): The interpretation of temperature and salinity variables in numerical ocean model output and the calculation of heat fluxes and heat content - ACCESS-CM2 data and code. Zenodo [data set + code], [https://doi.org/10.5281/zenodo.5580343](https://doi.org/10.5281/zenodo.5580343)
-
-* Holmes, R. M., Zika, J.D., Griffies, S.M., Hogg, A. McC., Kiss, A.E. and England, M.H. (2021): The geography of numerical mixing in a suite of global ocean models. Zenodo dataset, [https://doi.org/10.5281/zenodo.4798380](https://doi.org/10.5281/zenodo.4798380)
-
-* Holmes, R. M., Zika, J.D., Ferrari, R., Thompson, A., Newsom, E. and England, M.H. (2019): Atlantic ocean heat transport enabled by Indo-Pacific heat uptake and mixing. UNSW dataset, Research Data Australia [https://doi.org/10.26190/5dc23d4b7e739](https://doi.org/10.26190/5dc23d4b7e739)
 
 * de Lavergne, C., Madec, G., Roquet, F., Holmes, R. M. and McDougall, T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI Accession 0166518). Version 1.1. NOAA National Centers for Environmental Information. Dataset. [2017-09-13] [`LINK`](http://dx.doi.org/10.7289/V5833Q7K)
 
