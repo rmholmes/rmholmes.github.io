@@ -9,7 +9,11 @@ urlcolor: blue
 
 ### 2023
 
-* Seasonal sea level forecasts for the Australian Coastline; **Bureau of Meteorology Research and Development Workshop**, August 2023, Melbourne.
+* A prototype early warning system for high tide flooding in Australia; **Australian Climate Service Coastal Hazards Workshop**, 30 minute talk, October 2023, Melbourne.
+
+* Seasonal sea level forecasts for the Australian Coastline; **Bureau of Meteorology Research and Development Workshop**, Poster, August 2023, Melbourne.
+
+* Impact of mesoscale ocean processes on tropical Pacific circulation, model bias and ENSO; **Bureau of Meteorology Seasonal Prediction Meeting**, 30 minute talk, June 2023, online.
 
 * Rectification of small/fast processes and their role in ocean heat transport and El Nino; **University of Sydney Oceanography Workshop**, March 2023, University of Sydney School of Geosciences.
 
