@@ -22,7 +22,7 @@ urlcolor: blue
 
 ## Masters/honours/undergraduate students
 
-* Claire Yung (2022), 4-month Research Assistant (RA), University of Sydney. 1 submitted paper.
+* Claire Yung (2022), 4-month Research Assistant (RA), University of Sydney. Published paper; [On the contribution of transient diabatic processes to ocean heat transport and temperature variability](https://doi.org/10.1175/JPO-D-23-0046.1)
 
 * Matt Pudig (2022), 1-month Research Assistant (RA), University of Sydney.
 

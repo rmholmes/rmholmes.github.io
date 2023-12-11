@@ -28,8 +28,7 @@ Geosciences](https://www.sydney.edu.au/science/schools/school-of-geosciences.htm
 at the [University of Sydney](http://www.sydney.edu.au/) as an
 Australian Research Council (ARC) Discovery Early Career Researcher
 Award (DECRA) Fellow. In 2023 I joined the [Bureau of
-Meteorology](http://www.bom.gov.au/) as a Climate Scientist in the
-Seasonal and Marine Applications Team.
+Meteorology](http://www.bom.gov.au/) as a Climate Scientist working in research.
 
 ## Research Interests
 
