@@ -13,6 +13,8 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* *Holmes, R.*, Renault, L., Maillard, L. and Boucharel, J.: Air-sea coupling feedbacks over Tropical Instability Waves. Submitted to **Journal of Physical Oceanography**
+
 * Bennetts, L. et al. Closing the loops on Southern Ocean dynamics: From the  circumpolar current to ice shelves and from bottom mixing to surface waves. Submitted to **Review of Geophysics**
 
 * Huguenin, M., *Holmes R.*, Spence, P. and England, M. Subsurface warming of the West Antarctic continental shelf linked to El Nino-Southern Oscillation. Submitted to **Geophysical Research Letters**.
