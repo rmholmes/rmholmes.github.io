@@ -13,6 +13,8 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**
+
 * *Holmes, R.*, Renault, L., Maillard, L. and Boucharel, J.: Air-sea coupling feedbacks over Tropical Instability Waves. Submitted to **Journal of Physical Oceanography**
 
 * Bennetts, L. et al. Closing the loops on Southern Ocean dynamics: From the  circumpolar current to ice shelves and from bottom mixing to surface waves. Submitted to **Review of Geophysics**
