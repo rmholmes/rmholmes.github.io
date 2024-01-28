@@ -139,6 +139,8 @@ Holmes R. M. (2010) The Morphology of Single Chain Asymmetric Block Copolymers i
 
 ## Media Articles
 
+* Expert opinion in research briefing, [Pacific tropical instability waves have intensified since the 1990s](https://doi.org/10.1038/s41558-023-01916-w), January 2024, **Nature Climate Change**.
+
 * Huguenin, M., England, M. and *Holmes, R.* [The Southern Ocean absorbs more heat than any other ocean on Earth, and the impacts will be felt for generations](https://theconversation.com/the-southern-ocean-absorbs-more-heat-than-any-other-ocean-on-earth-and-the-impacts-will-be-felt-for-generations-189561), theconversation.com media article, September 2022. Also picked up by many other media companies (e.g. [The Guardian](https://www.theguardian.com/australia-news/2022/sep/08/the-southern-ocean-absorbs-more-heat-than-any-other-ocean-on-earth-and-the-impacts-will-be-felt-for-generations)).
 
 * *Holmes R. M.*, [Making the most of a CLEX postdoc in 2019 - An overview of my trips to North America and France](https://climateextremes.org.au/making-the-most-of-a-clex-postdoc-in-2019-an-overview-of-my-trips-to-north-america-and-france/), ARC Centre of Excellence for Climate Extremes newsletter article, November 2019
