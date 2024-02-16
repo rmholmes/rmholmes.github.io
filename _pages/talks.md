@@ -7,6 +7,14 @@ urlcolor: blue
 
 {% include base_path %}
 
+### 2024
+
+* Air-sea coupling over Tropical Instability Waves: Impacts on Pacific climate and model bias; **Australian Meteorological and Oceanographic Society Annual Conference**, 15 minute talk, February 2024, Canberra.
+
+* An early warning system for high tide flooding on the Australian coastline; **Australian Meteorological and Oceanographic Society Annual Conference**, 15 minute talk, February 2024, Canberra.
+
+* Equatorial ocean waves - interactions, role in ENSO and impact on abyssal ocean mixing; **Bureau of Meteorology Dynamics Forum**, 60 minute seminar, February 12th 2024, Sydney/Melbourne online.
+
 ### 2023
 
 * A prototype early warning system for high tide flooding in Australia; **Australian Climate Service Coastal Hazards Workshop**, 30 minute talk, October 2023, Melbourne.

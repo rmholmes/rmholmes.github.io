@@ -11,79 +11,40 @@ accessible descriptions of the range of projects that I am currently
 working on or have completed. Please follow the links for more
 detailed subpages and/or the published articles.
 
-## Current Projects
+## Current and Past Projects
+
+### Development of subseasonal to seasonal coastal sea level forecasts and coastal flooding early warning system
+
+As part of my role in the research section of the [Bureau of Meteorology](http://www.bom.gov.au/) working under the [Australian Climate Service](https://www.acs.gov.au/), I am developing coastal sea level forecasts on subseasonal to seasonal timescales using the Bureau's seasonal prediction system, ACCESS-S2.
+By combining this seasonal information with tide predictions, sea level rise information and the statistics of storm surges, I am developing an early-warning system for coastal flooding risk along the Australian coastline.
+This system will feed into a range of coastal hazard forecast and warning products as well as further research on coastal sea level variability, predictability and future projections.
 
 ### Diathermal Heat Transport in a Global Ocean Model
 
-With Jan Zika, Matthew England and a number of other collaborators
-national and international collaborators I am looking at how heat is
-transported between different temperature layers within a series of
-global ocean models. We have developed a novel set of heat budget
-diagnostics within the MOM5 global ocean model in which we can
-robustly diagnose heat transport across isotherms and in
-three-dimensional space and its various contributing processes.
+With Jan Zika, Matthew England and a number of other collaboratorsnational and international collaborators I am looking at how heat is transported between different temperature layers within a series of global ocean models. 
+We have developed a novel set of heat budget diagnostics within the MOM5 global ocean model in which we can robustly diagnose heat transport across isotherms and in three-dimensional space and its various contributing processes.  
 
-The first part of this project focused on the temperature and seasonal
-structure of the various mixing processes that contribute to the
-ocean's globally-integrated diathermal heat transport ([Holmes et
-al. 2019, Diathermal heat transport in a global ocean model,
-J. Phys. Oceanogr.](https://doi.org/10.1175/JPO-D-18-0098.1)).
+The first part of this project focused on the temperature and seasonal structure of the various mixing processes that contribute to the ocean's globally-integrated diathermal heat transport ([Holmes et al. 2019, Diathermal heat transport in a global ocean model, J. Phys. Oceanogr.](https://doi.org/10.1175/JPO-D-18-0098.1)). 
 
-In collaboration with Raffaele Ferrari (MIT), Andrew Thompson
-(CalTech) and Emily Newsom (Oxford), we have published a follow-up
-study that shows the critical role that turbulent mixing and air-sea
-heat fluxes in the tropical Pacific ocean play for the global ocean
-heat transport ([Holmes et al. 2019, Atlantic ocean heat transport
-enabled by Indo-Pacific heat uptake and mixing, Geophysical Research
-Letters](https://dx.doi.org/10.1029/2019GL085160)). Specifically, this
-study showed that mixing drives heat out of the shallow wind-driven
-circulation in the Indo-Pacific basins to the deep cold overturning
-circulation in the Atlantic allowing heat to be transfered northward
-in the Atlantic.
+In collaboration with Raffaele Ferrari (MIT), Andrew Thompson (CalTech) and Emily Newsom (Oxford), we have published a follow-up study that shows the critical role that turbulent mixing and air-sea heat fluxes in the tropical Pacific ocean play for the global ocean heat transport ([Holmes et al. 2019, Atlantic ocean heat transport enabled by Indo-Pacific heat uptake and mixing, Geophysical Research Letters](https://dx.doi.org/10.1029/2019GL085160)). 
+Specifically, this study showed that mixing drives heat out of the shallow wind-driven circulation in the Indo-Pacific basins to the deep cold overturning circulation in the Atlantic allowing heat to be transfered northward in the Atlantic.
 
-Finally, this project has also given us a method in which to
-accurately and robustly quantify the spatial and temporal structure of
-numerical mixing. Numerical `spurious' mixing arrises from the model's
-discretization of the tracer advection scheme. We are currently
-applying this method to quantify and compare the levels of numerical
-mixing across a suite of global ACCESS-OM2 simulations with varying
-horizontal and vertical resolutions, and varying explicit mixing
-parameterizations.
+Finally, this project has also given us a method in which to accurately and robustly quantify the spatial and temporal structure of numerical mixing. Numerical `spurious' mixing arrises from the model's discretization of the tracer advection scheme. We are currently applying this method to quantify and compare the levels of numerical mixing across a suite of global ACCESS-OM2 simulations with varying horizontal and vertical resolutions, and varying explicit mixing parameterizations.
 
 ### Tracer Transport near Abyssal Sloping Topography
 
-With Casimir de Lavergne and Trevor McDougall I have studied the
-behavoir of tracers released near the abyssal seafloor where turbulent
-mixing is bottom intensified ([Holmes et al. 2019, Tracer transport
-within abyssal mixing layers, J. Phys
-Oceanogr.](https://doi.org/10.1175/JPO-D-19-0006.1)). Using
-one-dimensional boundary layer theory and the statisical moment method
-we have shown that the presence of the bottom boundary can in many
-cases reduce the rate at which tracers are transported across
-isopycnals. This work should help in the analysis of future tracer
-release experiments performed in the field (such as the planned
-Rockall Trough experiment).
+With Casimir de Lavergne and Trevor McDougall I have studied the behavoir of tracers released near the abyssal seafloor where turbulent mixing is bottom intensified ([Holmes et al. 2019, Tracer transport within abyssal mixing layers, J. Phys Oceanogr.](https://doi.org/10.1175/JPO-D-19-0006.1)). Using one-dimensional boundary layer theory and the statisical moment method we have shown that the presence of the bottom boundary can in many cases reduce the rate at which tracers are transported across isopycnals. This work should help in the analysis of future tracer release experiments performed in the field (such as the planned Rockall Trough experiment).
 
 ### Contribution of Stochastic Oceanic Variability to ENSO
 
 
-Holmes R. M., S. McGregor, A. Santoso and M.H. England (2018)
-[Contribution of Tropical Instability Waves to ENSO
-Irregularity](https://doi.org/10.1007/s00382-018-4217-0), **Climate
-Dynamics**
+Holmes R. M., S. McGregor, A. Santoso and M.H. England (2018) [Contribution of Tropical Instability Waves to ENSO Irregularity](https://doi.org/10.1007/s00382-018-4217-0), **Climate Dynamics**
  
 ### The Influence of Topography on Dianeutral Transport in the Abyssal Ocean
 
-Holmes R. M., C. de Lavergne and T. J. McDougall (2018) [Ridges,
-Seamounts, Troughs and Bowls: Topographic Control of the Dianeutral
-Circulation in the Abyssal
-Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of Physical
-Oceanography**, 48, 861–882. (Description coming...)
+Holmes R. M., C. de Lavergne and T. J. McDougall (2018) [Ridges, Seamounts, Troughs and Bowls: Topographic Control of the Dianeutral Circulation in the Abyssal Ocean](https://doi.org/10.1175/JPO-D-17-0141.1), **Journal of Physical Oceanography**, 48, 861–882. (Description coming...)
 
-de Lavergne, C., G. Madec, F. Roquet, *R. M. Holmes* and
-T. J. McDougall (2017) [Abyssal ocean overturning shaped by seafloor
-distribution](http://dx.doi.org/10.1038/nature24472), **Nature**,
-551,181–186.
+de Lavergne, C., G. Madec, F. Roquet, *R. M. Holmes* and T. J. McDougall (2017) [Abyssal ocean overturning shaped by seafloor distribution](http://dx.doi.org/10.1038/nature24472), **Nature**, 551,181–186.
 
 ### Coastal Antarctic subsurface warming and ice sheet melt
 
