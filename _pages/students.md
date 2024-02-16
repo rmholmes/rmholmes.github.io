@@ -10,15 +10,15 @@ urlcolor: blue
 
 ## Ph.D. students
 
-* Isabella Conde (2023-present), Ph.D. **in progress**, University of New South Wales.
+* [5] Isabella Conde (2023-present), Ph.D. **in progress**, University of New South Wales.
 
-* Dhruv Bhagtani (2020-present), Ph.D. **in progress**, Australian National University. 1 published paper, 1 submitted paper.
+* [4] Dhruv Bhagtani (2020-present), Ph.D. **in progress**, Australian National University. 1 published paper, 1 submitted paper.
 
-* Maurice Huguenin-Virchaux (2019-present), Ph.D. **awarded**, University of New South Wales. *Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability*. 2 published papers, 1 submitted paper.
+* [3] Maurice Huguenin-Virchaux (2019-present), Ph.D. **awarded**, University of New South Wales. *Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability*. 2 published papers, 1 submitted paper.
 
-* Christopher Bladwell (2018-present), Ph.D. **awarded**, University of New South Wales. *Water mass and time-averaging budget methods for understanding ocean salinity and temperature change*. 1 published paper.
+* [2] Christopher Bladwell (2018-present), Ph.D. **awarded**, University of New South Wales. *Water mass and time-averaging budget methods for understanding ocean salinity and temperature change*. 1 published paper.
 
-* David Webb (2016-2020), Ph.D. **awarded**, University of New South Wales. *Impacts of planetary ocean waves on Antarctic and North Atlantic climate*. 3 published papers.
+* [1] David Webb (2016-2020), Ph.D. **awarded**, University of New South Wales. *Impacts of planetary ocean waves on Antarctic and North Atlantic climate*. 3 published papers.
 
 ## Masters/honours/undergraduate students
 
