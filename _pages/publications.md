@@ -23,7 +23,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2023
 
-* [43] Yung, C. and *Holmes R.* (2023) [On the contribution of transient diabatic processes to ocean heat transport and temperature variability](https://doi.org/10.1175/JPO-D-23-0046.1). **Journal of Physical Oceanography**, early online release. [Associated dataset (Zenodo)](https://zenodo.org/records/8213452)
+* [43] Yung, C. and *Holmes R.* (2023) [On the contribution of transient diabatic processes to ocean heat transport and temperature variability](https://doi.org/10.1175/JPO-D-23-0046.1). **Journal of Physical Oceanography**, 53 (12), 2933-2951. [Associated dataset (Zenodo)](https://zenodo.org/records/8213452)
 
 * [42] Capotondi et al. (2023) [Mechanisms of Tropical Pacific Decadal Variability](https://doi.org/10.1038/s43017-023-00486-x). **Nature Reviews Earth & Environment**.
 
@@ -137,30 +137,32 @@ Holmes R. M. (2016) Tropical Instability Waves and Mixing in the Equatorial Paci
 Holmes R. M. (2010) The Morphology of Single Chain Asymmetric Block Copolymers in Poor Solvents, *Australian National University*, Supervisor: Professor David R. M. Williams. [`PDF Link`]({{site.url}}/files/Ryan_Holmes_Honours_Thesis.pdf)
 
 
-## Media Articles
+## Media Articles / non-peer reviewed
 
 * Expert opinion in research briefing, [Pacific tropical instability waves have intensified since the 1990s](https://doi.org/10.1038/s41558-023-01916-w), January 2024, **Nature Climate Change**.
 
-* Huguenin, M., England, M. and *Holmes, R.* [The Southern Ocean absorbs more heat than any other ocean on Earth, and the impacts will be felt for generations](https://theconversation.com/the-southern-ocean-absorbs-more-heat-than-any-other-ocean-on-earth-and-the-impacts-will-be-felt-for-generations-189561), theconversation.com media article, September 2022. Also picked up by many other media companies (e.g. [The Guardian](https://www.theguardian.com/australia-news/2022/sep/08/the-southern-ocean-absorbs-more-heat-than-any-other-ocean-on-earth-and-the-impacts-will-be-felt-for-generations)).
+* Chen et al. (2023) [Evaluation of the GloSea-GC5 seasonal hindcasts](https://info.metoffice.gov.uk/1XRP-8GBO8-04D090674D088059WZLDFOC88521BA8737268B/cr.aspx), **UM/Momentum Users Newsletter article**.
 
-* *Holmes R. M.*, [Making the most of a CLEX postdoc in 2019 - An overview of my trips to North America and France](https://climateextremes.org.au/making-the-most-of-a-clex-postdoc-in-2019-an-overview-of-my-trips-to-north-america-and-france/), ARC Centre of Excellence for Climate Extremes newsletter article, November 2019
+* Huguenin, M., England, M. and *Holmes, R.* [The Southern Ocean absorbs more heat than any other ocean on Earth, and the impacts will be felt for generations](https://theconversation.com/the-southern-ocean-absorbs-more-heat-than-any-other-ocean-on-earth-and-the-impacts-will-be-felt-for-generations-189561), **theconversation.com media article**, September 2022. Also picked up by many other media companies (e.g. [The Guardian](https://www.theguardian.com/australia-news/2022/sep/08/the-southern-ocean-absorbs-more-heat-than-any-other-ocean-on-earth-and-the-impacts-will-be-felt-for-generations)).
 
-* *Holmes R. M.*, Groeskamp S. and de Lavergne, C. [Climate Recorded in Seawater: A Workshop on Water-Mass Transformation Analysis for Ocean and Climate Studies](https://climateextremes.org.au/climate-recorded-in-seawater-a-workshop-on-water-mass-transformation-analysis-for-ocean-and-climate-studies/) ARC Centre of Excellence for Climate Extremes newsletter workshop report, August 2019.
+* *Holmes R. M.*, [Making the most of a CLEX postdoc in 2019 - An overview of my trips to North America and France](https://climateextremes.org.au/making-the-most-of-a-clex-postdoc-in-2019-an-overview-of-my-trips-to-north-america-and-france/), **ARC Centre of Excellence for Climate Extremes newsletter article**, November 2019
 
-* [How the ocean moves heat](https://climateextremes.org.au/how-the-ocean-moves-heat/) ARC Centre of Excellence for Climate Extremes Research Brief, January 2019
+* *Holmes R. M.*, Groeskamp S. and de Lavergne, C. [Climate Recorded in Seawater: A Workshop on Water-Mass Transformation Analysis for Ocean and Climate Studies](https://climateextremes.org.au/climate-recorded-in-seawater-a-workshop-on-water-mass-transformation-analysis-for-ocean-and-climate-studies/) **ARC Centre of Excellence for Climate Extremes newsletter workshop report**, August 2019.
+
+* [How the ocean moves heat](https://climateextremes.org.au/how-the-ocean-moves-heat/) **ARC Centre of Excellence for Climate Extremes Research Brief**, January 2019
 
 
-* [Answers to the world's 'oldest water' found in the deep blue north Pacific](http://www.smh.com.au/environment/answers-to-the-worlds-oldest-water-found-in-the-deep-blue-north-pacific-20171110-gzj2er.html) Sydney Morning Herald, 12th November 2017.
+* [Answers to the world's 'oldest water' found in the deep blue north Pacific](http://www.smh.com.au/environment/answers-to-the-worlds-oldest-water-found-in-the-deep-blue-north-pacific-20171110-gzj2er.html) **Sydney Morning Herald**, 12th November 2017.
 
-* [How the “shadow zone” traps the world’s oldest ocean water](https://www.climatescience.org.au/content/1181-how-%E2%80%9Cshadow-zone%E2%80%9D-traps-world%E2%80%99s-oldest-ocean-water) ARC Centre of Excellence for Climate System Science Media Release, November 2017
+* [How the “shadow zone” traps the world’s oldest ocean water](https://www.climatescience.org.au/content/1181-how-%E2%80%9Cshadow-zone%E2%80%9D-traps-world%E2%80%99s-oldest-ocean-water) **ARC Centre of Excellence for Climate System Science Media Release**, November 2017
 
-* [Stronger winds heat up West Antarctic Ice Melt](https://www.climatescience.org.au/content/1165-stronger-winds-heat-west-antarctic-ice-melt) ARC Centre of Excellence for Climate System Science Media Release, July 2017.
+* [Stronger winds heat up West Antarctic Ice Melt](https://www.climatescience.org.au/content/1165-stronger-winds-heat-west-antarctic-ice-melt) **ARC Centre of Excellence for Climate System Science Media Release**, July 2017.
 
-* [How Kelvin waves convert East Antarctic winds to West Antarctic ice melt](https://cosmosmagazine.com/climate/how-kelvin-waves-convert-east-antarctic-winds-to-west-antarctic-ice-melt) Cosmos, July 2017.
+* [How Kelvin waves convert East Antarctic winds to West Antarctic ice melt](https://cosmosmagazine.com/climate/how-kelvin-waves-convert-east-antarctic-winds-to-west-antarctic-ice-melt) **Cosmos**, July 2017.
 
-* [Intense ocean turbulence discovered near sea floor in equatorial Pacific, Stanford scientists say](https://earth.stanford.edu/news/intense-deep-ocean-turbulence-equatorial-pacific-could-help-drive-global-circulation) Stanford University News, February 2016.
+* [Intense ocean turbulence discovered near sea floor in equatorial Pacific, Stanford scientists say](https://earth.stanford.edu/news/intense-deep-ocean-turbulence-equatorial-pacific-could-help-drive-global-circulation) **Stanford University News**, February 2016.
 
-* [Study Of Deep Turbulence Reveals Ocean Currents Insights](http://www.fondriest.com/news/study-deep-turbulence-reveals-ocean-currents-insights.htm) Environmental Monitor, April 2016.
+* [Study Of Deep Turbulence Reveals Ocean Currents Insights](http://www.fondriest.com/news/study-deep-turbulence-reveals-ocean-currents-insights.htm) **Environmental Monitor**, April 2016.
 
 ## Data Sets
 
