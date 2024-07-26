@@ -15,11 +15,11 @@ Please see below for a publication list, including journal articles, theses, med
 
 * Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**
 
-* *Holmes, R.*, Renault, L., Maillard, L. and Boucharel, J.: Air-sea coupling feedbacks over Tropical Instability Waves. Submitted to **Journal of Physical Oceanography**
-
 ### 2024
 
-* *Holmes R.* (2024) [Deep-sea dye confirms turbulent-mixing theory — with implications for climate](https://doi.org/10.1038/d41586-024-01647-8). **Nature** (News and Views, not peer reviewed), 630, 824-825.
+* [47] *Holmes, R.*, Renault, L., Maillard, L. and Boucharel, J.: Air-sea coupling feedbacks over Tropical Instability Waves. **Journal of Physical Oceanography**, accepted.
+
+* [46] *Holmes R.* (2024) [Deep-sea dye confirms turbulent-mixing theory — with implications for climate](https://doi.org/10.1038/d41586-024-01647-8). **Nature** (News and Views, not peer reviewed), 630, 824-825.
 
 * [45] Bennetts, L. et al. Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves. **Review of Geophysics**, accepted.
 
