@@ -21,7 +21,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 * [46] *Holmes R.* (2024) [Deep-sea dye confirms turbulent-mixing theory — with implications for climate](https://doi.org/10.1038/d41586-024-01647-8). **Nature** (News and Views, not peer reviewed), 630, 824-825.
 
-* [45] Bennetts, L. et al. Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves. **Review of Geophysics**, accepted.
+* [45] Bennetts, L. et al. [Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves](https://doi.org/10.1029/2022RG000781). **Review of Geophysics**, 62, e2022RG000781.
 
 * [44] Huguenin, M., *Holmes R.*, Spence, P. and England, M. [Subsurface warming of the West Antarctic continental shelf linked to El Nino-Southern Oscillation](https://doi.org/10.1029/2023GL104518). **Geophysical Research Letters**, 51, e2023GL104518.
 
