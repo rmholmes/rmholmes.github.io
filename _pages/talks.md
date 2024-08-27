@@ -9,6 +9,16 @@ urlcolor: blue
 
 ### 2024
 
+* An early warning system for Australian coastal sea level extremes; **ACCESS-NRI Community Workshop**, Poster presentation, September 2024, Canberra.
+
+* Forecasting coastal hazards at S2S time-scales: An early warning system for high tide flooding; **COSPac Pacific meteorological services training workshop**, 30 minute presentation, August 2024, online.
+
+* Comparing NEMO and ACCESS-OM2: biases, strengths and weaknesses; **Ocean Observations and Modelling Workshop (COSIMA/ACOMO/IMOS)**, Poster presentation, July 2024, Canberra.
+
+* An early warning system for Australian coastal sea level extremes; **Ocean Observations and Modelling Workshop (COSIMA/ACOMO/IMOS)**, Poster presentation, July 2024, Canberra.
+
+* An early warning system for high tide flooding on the Australian coastline - tidal analysis issues; **Bureau of Meteorology Tides Workshop**, 10 minute talk, March 2024, Melbourne.
+
 * Air-sea coupling over Tropical Instability Waves: Impacts on Pacific climate and model bias; **Australian Meteorological and Oceanographic Society Annual Conference**, 15 minute talk, February 2024, Canberra.
 
 * An early warning system for high tide flooding on the Australian coastline; **Australian Meteorological and Oceanographic Society Annual Conference**, 15 minute talk, February 2024, Canberra.
