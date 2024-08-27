@@ -22,7 +22,9 @@ urlcolor: blue
 
 ## Masters/honours/undergraduate students
 
-* Claire Yung (2022), 4-month Research Assistant (RA), University of Sydney. Published paper; [On the contribution of transient diabatic processes to ocean heat transport and temperature variability](https://doi.org/10.1175/JPO-D-23-0046.1)
+* Yuna Le Perron (2024), 10-week internship (MeteoFrance internship program), Bureau of Meteorology. *Understanding the drivers and predictability of coastal sea level variability*
+
+* Claire Yung (2022), 4-month Research Assistant (RA), University of Sydney. Published paper; Yung and Holmes (2023) [On the contribution of transient diabatic processes to ocean heat transport and temperature variability](https://doi.org/10.1175/JPO-D-23-0046.1), J. Phys. Oceanogr.
 
 * Matt Pudig (2022), 1-month Research Assistant (RA), University of Sydney.
 
