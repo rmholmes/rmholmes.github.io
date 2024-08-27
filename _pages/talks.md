@@ -13,6 +13,8 @@ urlcolor: blue
 
 * Forecasting coastal hazards at S2S time-scales: An early warning system for high tide flooding; **COSPac Pacific meteorological services training workshop**, 30 minute presentation, August 2024, online.
 
+* Tidal constituents' evolution and its implications for tide prediction around Australia using ANCHORS tide gauge dataset; **Ocean Observations and Modelling Workshop (COSIMA/ACOMO/IMOS)**, 15 minute talk, July 2024, Canberra.
+
 * Comparing NEMO and ACCESS-OM2: biases, strengths and weaknesses; **Ocean Observations and Modelling Workshop (COSIMA/ACOMO/IMOS)**, Poster presentation, July 2024, Canberra.
 
 * An early warning system for Australian coastal sea level extremes; **Ocean Observations and Modelling Workshop (COSIMA/ACOMO/IMOS)**, Poster presentation, July 2024, Canberra.
