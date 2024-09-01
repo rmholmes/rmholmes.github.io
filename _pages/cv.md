@@ -70,6 +70,7 @@ See [`Students page`](/students)
 ## Service and Outreach
 ___
 
+* 2024+ __Working group co-chair__: ACCESS-NRI Machine Learning for Weather and Climate Working Group.
 * 2023-2024 __Monthly state of the ocean briefings__: Provide monthly briefings on the current state of the ocean during the Bureau of Meteorology's monthly seasonal climate outlooks meetings.
 * 2023-2024 __Seminar organiser__: Science Conversations Bureau of Meteorology-wide short talks seminar series, bi-monthly.
 * 2023 __Workshop organiser__: Sole organiser for the University of Sydney Oceanography Workshop, 21st of March 2023.
@@ -93,6 +94,7 @@ ___
 * 2018-2019 Centre of Excellence for Climate Extremes __Early Career Research (ECR) committee member__ and UNSW representative. Annual Meeting 2018 __ECR day main organiser__
 
 ## Academic Societies/Memberships
+* [ACCESS-NRI (working group co-chair)](https://www.access-nri.org.au/)
 * [Consortium for Ocean Sea-Ice Modelling in Australia (COSIMA)](http://cosima.org.au/)
 * [University of Sydney Marine Studies Institute (MSI)](https://marine-science.sydney.edu.au/)
 * [American Geophysical Union (AGU)](https://www.agu.org/)
