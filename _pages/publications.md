@@ -13,6 +13,8 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* *Holmes, R.*, Smith, G. and Spillman, C.: Seasonal sea level forecasts for the Australian coast. Submitted to **Frontiers of Marine Science**.
+
 * Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**
 
 ### 2024
