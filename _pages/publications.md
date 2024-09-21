@@ -13,13 +13,15 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* McDougall, T., *Holmes, R.* and Gunn, K.: What sets the stratification in the abyss?. Submitted to **Journal of Physical Oceanography**.
+
 * *Holmes, R.*, Smith, G. and Spillman, C.: Seasonal sea level forecasts for the Australian coast. Submitted to **Frontiers of Marine Science**.
 
-* Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**
+* Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**.
 
 ### 2024
 
-* [47] *Holmes, R.*, Renault, L., Maillard, L. and Boucharel, J.: [Air-sea coupling feedbacks over Tropical Instability Waves](https://doi.org/10.1175/JPO-D-24-0010.1). **Journal of Physical Oceanography**, accepted.
+* [47] *Holmes, R.*, Renault, L., Maillard, L. and Boucharel, J.: [Air-sea coupling feedbacks over Tropical Instability Waves](https://doi.org/10.1175/JPO-D-24-0010.1). **Journal of Physical Oceanography**, accepted. [Associated dataset (Zenodo)](https://dx.doi.org/10.5281/zenodo.13788242)
 
 * [46] *Holmes R.* (2024) [Deep-sea dye confirms turbulent-mixing theory — with implications for climate](https://doi.org/10.1038/d41586-024-01647-8). **Nature** (News and Views, not peer reviewed), 630, 824-825.
 
