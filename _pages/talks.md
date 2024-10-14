@@ -9,6 +9,12 @@ urlcolor: blue
 
 ### 2024
 
+* Air-sea coupling over Tropical Instability Waves: Impacts on Pacific climate and model bias; **OASIS Air-sea flux community webinar**, 45 minute talk, October 2024, online/international.
+
+* What is a tide prediction a prediction of? **Australian Climate Service Coastal Hazards Working Package Workshop**, 5 minute talk, October 2024, Hobart.
+
+* An early warning system for Australian coastal sea level extremes; **Australian Marine Science Association Annual Conference**, 6 minute talk, September 2024, Hobart.
+
 * An early warning system for Australian coastal sea level extremes; **ACCESS-NRI Community Workshop**, Poster presentation, September 2024, Canberra.
 
 * Forecasting coastal hazards at S2S time-scales: An early warning system for high tide flooding; **COSPac Pacific meteorological services training workshop**, 30 minute presentation, August 2024, online.
