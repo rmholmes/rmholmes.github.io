@@ -13,9 +13,12 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
-* McDougall, T., *Holmes, R.* and Gunn, K.: What sets the stratification in the abyss?. Submitted to **Journal of Physical Oceanography**.
-
 * *Holmes, R.*, Smith, G. and Spillman, C.: Seasonal sea level forecasts for the Australian coast. Submitted to **Journal of Southern Hemisphere Earth System Science**.
+
+* Bhagtani, D., Hogg, A., *Holmes, R.*, Constantinou, N. and Khatri, H.: [Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres](
+https://doi.org/10.48550/arXiv.2410.17089). Submitted to the **Journal of Geophysical Research - Oceans**.
+
+* McDougall, T., *Holmes, R.* and Gunn, K.: What sets the stratification in the abyss?. Submitted to **Journal of Physical Oceanography**.
 
 * Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**.
 
