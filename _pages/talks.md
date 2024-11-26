@@ -9,7 +9,7 @@ urlcolor: blue
 
 ### 2024
 
-* Air-sea coupling over Tropical Instability Waves: Impacts on Pacific climate and model bias; **OASIS Air-sea flux community webinar**, 45 minute talk, October 2024, online.
+* Air-sea coupling over Tropical Instability Waves: Impacts on Pacific climate and model bias; **OASIS Air-sea flux community webinar**, 45 minute talk, October 2024, online. [Youtube video of talk](https://www.youtube.com/watch?v=Oz0QVzYHfsA&list=PL7lEVqN7cilyJ-i63tMPGy5CefTMTvBx2&index=76).
 
 * What is a tide prediction a prediction of? **Australian Climate Service Coastal Hazards Working Package Workshop**, 5 minute talk, October 2024, Hobart.
 
