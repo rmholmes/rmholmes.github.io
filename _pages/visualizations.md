@@ -35,11 +35,8 @@ Equatorial Waves](http://dx.doi.org/10.1002/2015GL066472))
   text-align:center"/>
 </p>
 
-The above animation shows SST (top) and vertical velocity at 50m
-(bottom) from a 1/20-degree ROMS simulation of the eastern equatorial
-Pacific. This simulation was performed in collaboration with Daniel
-Whitt at NCAR as part of a project to investigate the dynamics of
-mixing and upwelling in the Pacific cold tongue.
+The above animation shows SST (top) and vertical velocity at 50m (bottom) from a 1/20-degree ROMS simulation of the eastern equatorial Pacific. 
+This simulation was performed in collaboration with Daniel Whitt at NCAR as part of a project to investigate the dynamics of mixing and upwelling in the Pacific cold tongue.
 
 # Tracer transport in Abyssal Mixing Layers
 
