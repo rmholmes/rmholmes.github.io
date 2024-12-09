@@ -9,6 +9,10 @@ urlcolor: blue
 
 ### 2024
 
+* Seasonal outlooks for coastal high-tide flooding and low-water droughts, aka, How to improve tide predictions by 30% with one simple trick!; **Bureau seasonal prediction meeting**, 30 minute talk, December 2024, Melbourne.
+
+* Developing an early warning system for coastal high-tide flooding risk around Australia under sea level rise; **ACS Science Day**, 15 minute talk, December 2024, Melbourne.
+
 * Air-sea coupling over Tropical Instability Waves: Impacts on Pacific climate and model bias; **OASIS Air-sea flux community webinar**, 45 minute talk, October 2024, online. [Youtube video of talk](https://www.youtube.com/watch?v=Oz0QVzYHfsA&list=PL7lEVqN7cilyJ-i63tMPGy5CefTMTvBx2&index=76).
 
 * What is a tide prediction a prediction of? **Australian Climate Service Coastal Hazards Working Package Workshop**, 5 minute talk, October 2024, Hobart.
