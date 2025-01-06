@@ -12,7 +12,7 @@ urlcolor: blue
 
 * [5] Isabella Conde (2023-present), Ph.D. **in progress**, University of New South Wales.
 
-* [4] Dhruv Bhagtani (2020-present), Ph.D. **in progress**, Australian National University. 1 published paper, 1 submitted paper.
+* [4] Dhruv Bhagtani (2020-present), Ph.D. **submitted**, Australian National University. *Ocean Gyres Driven By Wind Stress and Surface Buoyancy Forcing*. 1 published paper, 2 papers in review.
 
 * [3] Maurice Huguenin-Virchaux (2019-2023), Ph.D. **awarded**, University of New South Wales. *Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability*. 3 published papers.
 
