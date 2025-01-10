@@ -50,7 +50,7 @@ https://doi.org/10.48550/arXiv.2410.17089). Submitted to the **Journal of Geophy
 
 * [37] Malan, N., Roughan, M., Stanley, G., *Holmes, R.M.* and Li, J.: [Quantifying cross-shelf transport in the East Australian Current System: A budget-based approach](https://doi.org/10.1175/JPO-D-21-0193.1). **Journal of Physical Oceanography**, 52 (10), 2555-2572.
 
-* [36] Mackallah, C. et al. (2022): [ACCESS Datasets for CMIP6: Methodology & Idealised Experiments](https://doi.org/10.1071/ES21031). **Journal of Southern Hemisphere Earth Systems Science**.
+* [36] Mackallah, C. et al. (2022): [ACCESS Datasets for CMIP6: Methodology & Idealised Experiments](https://doi.org/10.1071/ES21031). **Journal of Southern Hemisphere Earth Systems Science**. Associated dataset for the ACCESS-OM2-025 ocean model simulation that I led: *Holmes, R.M.* et. al. (2021) [CSIRO-COSIMA ACCESS-OM2-025 model output prepared for CMIP6 OMIP](https://doi.org/10.22033/ESGF/CMIP6.14663), Earth System Grid Federation. 
 
 * [35] Eabry, M., *Holmes, R.M.* and Sen Gupta, A. [The impact of Indonesian Throughflow constrictions on eastern Pacific upwelling and water-mass transformation](https://doi.org/10.1029/2022JC018509). **Journal of Geophysical Research: Oceans**, 127, e2022JC018509. [Associated  dataset (Zenodo)](https://doi.org/10.5281/zenodo.6443022).
   
@@ -139,6 +139,14 @@ https://doi.org/10.48550/arXiv.2410.17089). Submitted to the **Journal of Geophy
  
 * [1] *Holmes R. M.* and Williams D. R. M. (2011): [Popout transitions in weakly stretched single-chain multi-block copolymers in poor solvents](https://doi.org/10.1209/0295-5075/95/63004) **Europhysics** 95, 63004. [`pre-print (PDF)`]({{site.url}}/files/Accepted_articles/Holmes2011EPL_pre-print.pdf)
 
+## Data Sets
+
+* *Holmes, R.M.* et. al. (2021) [CSIRO-COSIMA ACCESS-OM2-025 model output prepared for CMIP6 OMIP](https://doi.org/10.22033/ESGF/CMIP6.14663), Earth System Grid Federation.
+
+* *Holmes, R. M.*, McDougall, T.J., Barker, P.M., Pawlowicz, R., Griffies, S.M. and Durack, P. (2021): The interpretation of temperature and salinity variables in numerical ocean model output and the calculation of heat fluxes and heat content - ACCESS-CM2 data and code. Zenodo [data set + code], [https://doi.org/10.5281/zenodo.5580343](https://doi.org/10.5281/zenodo.5580343)
+
+* de Lavergne, C., Madec, G., Roquet, F., *Holmes, R. M.* and McDougall, T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI Accession 0166518). Version 1.1. NOAA National Centers for Environmental Information. Dataset. [2017-09-13] [`LINK`](http://dx.doi.org/10.7289/V5833Q7K)
+
 ## Theses
 
 ### Ph.D. Thesis
@@ -147,10 +155,9 @@ Holmes R. M. (2016) Tropical Instability Waves and Mixing in the Equatorial Paci
 ### Honours Thesis
 Holmes R. M. (2010) The Morphology of Single Chain Asymmetric Block Copolymers in Poor Solvents, *Australian National University*, Supervisor: Professor David R. M. Williams. [`PDF Link`]({{site.url}}/files/Ryan_Holmes_Honours_Thesis.pdf)
 
-
 ## Media Articles / non-peer reviewed
 
-* Expert opinion in research briefing, [Pacific tropical instability waves have intensified since the 1990s](https://doi.org/10.1038/s41558-023-01916-w), January 2024, **Nature Climate Change**.
+* *R. Holmes* (2024) [Pacific tropical instability waves have intensified since the 1990s](https://doi.org/10.1038/s41558-023-01916-w), **Nature Climate Change**, expert opinion in research briefing.
 
 * Chen et al. (2023) [Evaluation of the GloSea-GC5 seasonal hindcasts](https://info.metoffice.gov.uk/1XRP-8GBO8-04D090674D088059WZLDFOC88521BA8737268B/cr.aspx), **UM/Momentum Users Newsletter article**.
 
@@ -160,7 +167,7 @@ Holmes R. M. (2010) The Morphology of Single Chain Asymmetric Block Copolymers i
 
 * *Holmes R. M.*, Groeskamp S. and de Lavergne, C. [Climate Recorded in Seawater: A Workshop on Water-Mass Transformation Analysis for Ocean and Climate Studies](https://climateextremes.org.au/climate-recorded-in-seawater-a-workshop-on-water-mass-transformation-analysis-for-ocean-and-climate-studies/) **ARC Centre of Excellence for Climate Extremes newsletter workshop report**, August 2019.
 
-* [How the ocean moves heat](https://climateextremes.org.au/how-the-ocean-moves-heat/) **ARC Centre of Excellence for Climate Extremes Research Brief**, January 2019
+* *Holmes R.M.* [How the ocean moves heat](https://climateextremes.org.au/how-the-ocean-moves-heat/) **ARC Centre of Excellence for Climate Extremes Research Brief**, January 2019
 
 
 * [Answers to the world's 'oldest water' found in the deep blue north Pacific](http://www.smh.com.au/environment/answers-to-the-worlds-oldest-water-found-in-the-deep-blue-north-pacific-20171110-gzj2er.html) **Sydney Morning Herald**, 12th November 2017.
@@ -175,9 +182,4 @@ Holmes R. M. (2010) The Morphology of Single Chain Asymmetric Block Copolymers i
 
 * [Study Of Deep Turbulence Reveals Ocean Currents Insights](http://www.fondriest.com/news/study-deep-turbulence-reveals-ocean-currents-insights.htm) **Environmental Monitor**, April 2016.
 
-## Data Sets
-
-* Holmes, R. M., McDougall, T.J., Barker, P.M., Pawlowicz, R., Griffies, S.M. and Durack, P. (2021): The interpretation of temperature and salinity variables in numerical ocean model output and the calculation of heat fluxes and heat content - ACCESS-CM2 data and code. Zenodo [data set + code], [https://doi.org/10.5281/zenodo.5580343](https://doi.org/10.5281/zenodo.5580343)
-
-* de Lavergne, C., Madec, G., Roquet, F., Holmes, R. M. and McDougall, T. J. (2017). Neutrally Averaged Radiocarbon Climatology (NCEI Accession 0166518). Version 1.1. NOAA National Centers for Environmental Information. Dataset. [2017-09-13] [`LINK`](http://dx.doi.org/10.7289/V5833Q7K)
 
