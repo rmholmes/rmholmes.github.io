@@ -13,6 +13,8 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: Seasonal outlooks for coastal high tide flooding. Submitted to **Natural Hazards**.
+
 * *Holmes, R.*, Smith, G. and Spillman, C.: Seasonal sea level forecasts for the Australian coast. Submitted to **Journal of Southern Hemisphere Earth System Science**.
 
 * Bhagtani, D., Hogg, A., *Holmes, R.*, Constantinou, N. and Khatri, H.: [Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres](
