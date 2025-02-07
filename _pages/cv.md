@@ -49,6 +49,7 @@ ___
 
 ## Teaching
 ___
+* 2022 & 2023 __Lecturer__, GEOS2115: Oceans, coasts and climate change, University of Sydney. Taught 1/3rd of course on introduction to physical oceanography, including course and assessment design.
 * 2021 Completion of University of Sydney *Foundations of Research Supervision* course (12 hours + in-person session) and registry on the Universities Supervisor Registry.
 * 2020 Associate Fellow of the Higher Education Academy (AdvanceHE, UK).
 * 2020 Foundations of University Learning and Teaching (FULT) UNSW teaching problem completed.
