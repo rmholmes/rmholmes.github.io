@@ -13,7 +13,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
-* Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: What makes a good tide prediction? Application to the Australian coastline, Submitted to **Journal of Geophysical Research - Oceans**.
+* Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: What makes a good tide prediction? Application to the Australian coastline, Submitted to **Journal of Operational Oceanography**.
 
 * *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: Seasonal outlooks for coastal high tide flooding. Submitted to **Natural Hazards**.
 
