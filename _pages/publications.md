@@ -13,11 +13,11 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* Hobbs, W., *Holmes, R.* and Kiss, A.: Ocean constraints on winter Antarctic sea ice extent. Submitted to the **Journal of Geophysical Research, Oceans**. 
+
 * Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: What makes a good tide prediction? Application to the Australian coastline, Submitted to **Journal of Operational Oceanography**.
 
 * *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: Seasonal outlooks for coastal high tide flooding. Submitted to **Natural Hazards**.
-
-* *Holmes, R.*, Smith, G. and Spillman, C.: Seasonal sea level forecasts for the Australian coast. Submitted to **Journal of Southern Hemisphere Earth System Science**.
 
 * Bhagtani, D., Hogg, A., *Holmes, R.*, Constantinou, N. and Khatri, H.: [Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres](
 https://doi.org/10.48550/arXiv.2410.17089). Submitted to the **Journal of Geophysical Research - Oceans**.
@@ -25,6 +25,10 @@ https://doi.org/10.48550/arXiv.2410.17089). Submitted to the **Journal of Geophy
 * McDougall, T., *Holmes, R.* and Gunn, K.: What sets the stratification in the abyss?. Submitted to **Journal of Physical Oceanography**.
 
 * Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**.
+
+### 2025
+
+* [48] *Holmes, R.*, Smith, G. and Spillman, C.: Seasonal sea level forecasts for the Australian coast. **Journal of Southern Hemisphere Earth System Science**, accepted.
 
 ### 2024
 
