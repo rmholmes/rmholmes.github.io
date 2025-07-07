@@ -21,16 +21,16 @@ Please see below for a publication list, including journal articles, theses, med
 
 * *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: Seasonal outlooks for coastal high tide flooding. Submitted to **Natural Hazards**.
 
-* Bhagtani, D., Hogg, A., *Holmes, R.*, Constantinou, N. and Khatri, H.: [Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres](
-https://doi.org/10.48550/arXiv.2410.17089). Submitted to the **Journal of Geophysical Research - Oceans**.
-
 * McDougall, T., *Holmes, R.* and Gunn, K.: What sets the stratification in the abyss?. Submitted to **Journal of Physical Oceanography**.
 
 * Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**.
 
 ### 2025
 
-* [48] *Holmes, R.*, Smith, G. and Spillman, C.: Seasonal sea level forecasts for the Australian coast. **Journal of Southern Hemisphere Earth System Science**, accepted.
+* [49] *Holmes, R.*, Smith, G. and Spillman, C.: [Seasonal sea level forecasts for the Australian coast](https://www.publish.csiro.au/ES/justaccepted/ES24047). **Journal of Southern Hemisphere Earth System Science**, accepted.
+
+* [48] Bhagtani, D., Hogg, A., *Holmes, R.*, Constantinou, N. and Khatri, H.: [Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres](
+https://doi.org/10.1029/2024JC021997).**Journal of Geophysical Research - Oceans**, 130 (6), e2024JC021997. 
 
 ### 2024
 
