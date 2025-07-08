@@ -27,7 +27,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2025
 
-* [50] *Holmes, R.*, Smith, G. and Spillman, C.: [Seasonal sea level forecasts for the Australian coast](https://www.publish.csiro.au/ES/justaccepted/ES24047). **Journal of Southern Hemisphere Earth System Science**, accepted.
+* [50] *Holmes, R.*, Smith, G. and Spillman, C.: [Seasonal sea level forecasts for the Australian coast](https://doi.org/10.1071/ES24047). **Journal of Southern Hemisphere Earth System Science**, 75, ES24047.
 
 * [49] England, M., Li, Z., Huguenin, M., Kiss, A., Sen Gupta, A. *Holmes, R.* and Rahmstorf, S.: [Drivers of the extreme North Atlantic marine heatwave during 2023](https://doi.org/10.1038/s41586-025-08903-5). **Nature**, 642, 636-643.
 
