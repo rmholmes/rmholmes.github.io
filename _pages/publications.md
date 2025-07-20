@@ -19,13 +19,13 @@ Please see below for a publication list, including journal articles, theses, med
 
 * Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: What makes a good tide prediction? Application to the Australian coastline, Submitted to **Journal of Operational Oceanography**.
 
-* *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: Seasonal outlooks for coastal high tide flooding. Submitted to **Natural Hazards**.
-
 * McDougall, T., *Holmes, R.* and Gunn, K.: What sets the stratification in the abyss?. Submitted to **Journal of Physical Oceanography**.
 
 * Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**.
 
 ### 2025
+
+* [51] *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: Seasonal outlooks for coastal high tide flooding. **Natural Hazards**, accepted.
 
 * [50] *Holmes, R.*, Smith, G. and Spillman, C.: [Seasonal sea level forecasts for the Australian coast](https://doi.org/10.1071/ES24047). **Journal of Southern Hemisphere Earth System Science**, 75, ES24047.
 
