@@ -13,8 +13,6 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
-* Conde, I., Zika, J., *Holmes, R.* and Ramesh, N.: Observed increase in tropical Pacific surface cold-warm contrast is well outside model simulated range. Submitted to **Geophysical Research Letters**.
-  
 * Hobbs, W., *Holmes, R.* and Kiss, A.: Ocean constraints on winter Antarctic sea ice extent. Submitted to the **Journal of Geophysical Research, Oceans**. 
 
 * Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: What makes a good tide prediction? Application to the Australian coastline, Submitted to **Journal of Operational Oceanography**.
@@ -25,6 +23,8 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2025
 
+* [52] Conde, I., Zika, J., *Holmes, R.* and Ramesh, N.: Observed increase in tropical Pacific surface cold-warm contrast is well outside model simulated range. **Geophysical Research Letters**, accepted.
+  
 * [51] *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: Seasonal outlooks for coastal high tide flooding. **Natural Hazards**, accepted.
 
 * [50] *Holmes, R.*, Smith, G. and Spillman, C.: [Seasonal sea level forecasts for the Australian coast](https://doi.org/10.1071/ES24047). **Journal of Southern Hemisphere Earth System Science**, 75, ES24047.
