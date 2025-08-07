@@ -25,7 +25,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 * [52] Conde, I., Zika, J., *Holmes, R.* and Ramesh, N.: Observed increase in tropical Pacific surface cold-warm contrast is well outside model simulated range. **Geophysical Research Letters**, accepted.
   
-* [51] *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: Seasonal outlooks for coastal high tide flooding. **Natural Hazards**, accepted.
+* [51] *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: [Seasonal outlooks for coastal high tide flooding](https://doi.org/10.1007/s11069-025-07548-x). **Natural Hazards**.
 
 * [50] *Holmes, R.*, Smith, G. and Spillman, C.: [Seasonal sea level forecasts for the Australian coast](https://doi.org/10.1071/ES24047). **Journal of Southern Hemisphere Earth System Science**, 75, ES24047.
 
