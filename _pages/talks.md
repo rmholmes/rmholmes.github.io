@@ -9,6 +9,9 @@ urlcolor: blue
 
 ### 2025
 
+* Accurate mixed layer tracer budget diagnosis in ACCESS-OM2; **COSIMA Weekly Meeting**, 45-minute talk, August 2025, Online.
+
+
 * Blended coastal sea level forecasts on subseasonal-to-seasonal time-scales: applications to chronic coastal flooding; **Bluelink Science Meeting**, 15 minute talk, March 2025, Online.
 
 ### 2024
