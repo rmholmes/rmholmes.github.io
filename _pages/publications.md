@@ -17,11 +17,11 @@ Please see below for a publication list, including journal articles, theses, med
 
 * Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: What makes a good tide prediction? Application to the Australian coastline, Submitted to **Journal of Operational Oceanography**.
 
-* McDougall, T., *Holmes, R.* and Gunn, K.: What sets the stratification in the abyss?. Submitted to **Journal of Physical Oceanography**.
-
 * Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**.
 
 ### 2025
+
+* [53] McDougall, T., *Holmes, R.* and Gunn, K.: What sets the stratification in the abyss?. **Journal of Physical Oceanography**, accepted.
 
 * [52] Conde, I., Zika, J., *Holmes, R.* and Ramesh, N.: Observed increase in tropical Pacific surface cold-warm contrast is well outside model simulated range. **Geophysical Research Letters**, accepted.
   
