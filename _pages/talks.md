@@ -9,6 +9,8 @@ urlcolor: blue
 
 ### 2025
 
+* Long range forecasts for the renewable energy industry in South East Asia (+ a new internal ACCESS-S2 skill webpage); **Bureau of Meteorology Seasonal Prediction Meeting**, 30-minute talk, October 2025, Online.
+
 * Accurate mixed layer tracer budget diagnosis in ACCESS-OM2; **COSIMA Weekly Meeting**, 45-minute talk, August 2025, Online.
 
 
