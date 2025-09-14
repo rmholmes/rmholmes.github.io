@@ -9,6 +9,12 @@ urlcolor: blue
 
 ### 2025
 
+* Seasonal Outlooks for Coastal Sea Level and High Tide Flooding (SOHTF); **Australiasian Young Coastal Scientists & Engineers Conference**, 5-minute talk, October 2025, Sydney and online.
+
+* Seasonal Outlooks for Coastal Sea Level and High Tide Flooding (SOHTF); **ACCESS-NRI Community Workshop 2025**, Poster and Lightning talk, September 2025, Melbourne.
+
+* Accurately diagnosing mixed layer temperature budgets in ACCESS-OM2; **ACCESS-NRI Community Workshop 2025**, Poster and Lightning talk, September 2025, Melbourne.
+
 * Long range forecasts for the renewable energy industry in South East Asia (+ a new internal ACCESS-S2 skill webpage); **Bureau of Meteorology Seasonal Prediction Meeting**, 30-minute talk, September 2025, Online.
 
 * Accurate mixed layer tracer budget diagnosis in ACCESS-OM2; **COSIMA Weekly Meeting**, 45-minute talk, August 2025, Online.
