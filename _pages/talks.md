@@ -17,7 +17,7 @@ urlcolor: blue
 
 * Long range forecasts for the renewable energy industry in South East Asia (+ a new internal ACCESS-S2 skill webpage); **Bureau of Meteorology Seasonal Prediction Meeting**, 30-minute talk, September 2025, Online.
 
-* Accurate mixed layer tracer budget diagnosis in ACCESS-OM2; **COSIMA Weekly Meeting**, 45-minute talk, August 2025, Online.
+* Accurate mixed layer tracer budget diagnosis in ACCESS-OM2; **COSIMA Weekly Meeting**, 45-minute talk, August 2025, Online [recording](https://youtu.be/newyHzCFxOE).
 
 * Blended coastal sea level forecasts on subseasonal-to-seasonal time-scales: applications to chronic coastal flooding; **Bluelink Science Meeting**, 15 minute talk, March 2025, Online.
 
