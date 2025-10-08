@@ -9,6 +9,8 @@ urlcolor: blue
 
 ### 2025
 
+* Can we use ML to downscale coastal sea level? **ACS Work Package 3 on Coastal Hazards quarterly workshop**, 5-minute talk, October 2025, Melbourne.
+
 * Seasonal Outlooks for Coastal Sea Level and High Tide Flooding (SOHTF); **Australiasian Young Coastal Scientists & Engineers Conference**, 5-minute talk, October 2025, Sydney and online.
 
 * Seasonal Outlooks for Coastal Sea Level and High Tide Flooding (SOHTF); **ACCESS-NRI Community Workshop 2025**, Poster and Lightning talk, September 2025, Melbourne.
