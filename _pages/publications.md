@@ -21,7 +21,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2025
 
-* [53] McDougall, T., *Holmes, R.* and Gunn, K.: [What sets the stratification in the abyss?](https://doi.org/10.1175/JPO-D-24-0180.1). **Journal of Physical Oceanography**, accepted.
+* [53] McDougall, T., *Holmes, R.* and Gunn, K.: [What sets the stratification in the abyss?](https://doi.org/10.1175/JPO-D-24-0180.1). **Journal of Physical Oceanography**, 55 (11), 2079-2095.
 
 * [52] Conde, I., Zika, J., *Holmes, R.* and Ramesh, N.: [Observed increase in tropical Pacific surface cold-warm contrast is well outside model simulated range](https://doi.org/10.1029/2025GL116409). **Geophysical Research Letters**, 52,
 e2025GL116409.
