@@ -9,6 +9,8 @@ urlcolor: blue
 
 ### 2025
 
+* Seasonal forecasts of solar radiation and wind speed to support the energy transition in South-East Asia. **Weather for the Energy Transition in SE Asia (WETSA) Bureau mission to BMKG (Indonesia) and TMD (Thailand)**, multiple talks, November 2025, Jakarta Indonesia and Bangkok Thailand.
+
 * Can we use ML to downscale coastal sea level? **ACS Work Package 3 on Coastal Hazards quarterly workshop**, 5-minute talk, October 2025, Melbourne.
 
 * Seasonal Outlooks for Coastal Sea Level and High Tide Flooding (SOHTF); **Australiasian Young Coastal Scientists & Engineers Conference**, 5-minute talk, October 2025, Sydney and online.
