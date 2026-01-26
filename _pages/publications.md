@@ -21,7 +21,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2026
 
-* [54] Hobbs, W., *Holmes, R.* and Kiss, A.: Ocean constraints on winter Antarctic sea ice extent. **Journal of Geophysical Research, Oceans**, accepted.
+* [54] Hobbs, W., *Holmes, R.* and Kiss, A.: [Ocean constraints on winter Antarctic sea ice extent](https://doi.org/10.1029/2025JC022716). **Journal of Geophysical Research, Oceans**, 131, e2025JC022716.
 
 ### 2025
 
