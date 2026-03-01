@@ -15,11 +15,11 @@ Please see below for a publication list, including journal articles, theses, med
 
 * Danabasoglu, G. and others: Simulated and Observed Transport Estimates Across the Overturning in the Subpolar North Atlantic Program (OSNAP) Section. Submitted to **Geoscientific Model Development**.
 
-* Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: What makes a good tide prediction? Application to the Australian coastline, Submitted to **Journal of Operational Oceanography**.
-
 * Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**
 
 ### 2026
+
+* [55] Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: [What makes a good tide prediction? Application to the Australian coastline](https://www.tandfonline.com/doi/full/10.1080/1755876X.2026.2631282), **Journal of Operational Oceanography**, 1-19.
 
 * [54] Hobbs, W., *Holmes, R.* and Kiss, A.: [Ocean constraints on winter Antarctic sea ice extent](https://doi.org/10.1029/2025JC022716). **Journal of Geophysical Research, Oceans**, 131, e2025JC022716.
 
