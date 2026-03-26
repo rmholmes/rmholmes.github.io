@@ -7,6 +7,16 @@ urlcolor: blue
 
 {% include base_path %}
 
+### 2026
+
+* Uplifting the Bureau's National Storm Surge prediction system. **Bluelink meeting**, 15-min talk, Melbourne, March 2026.
+
+* Long range forecasts of solar and wind speed for the renewable energy industry in Australia – ACCESS-S2 verification, **WETSA meeting**, 1-hour talk, February 2026.
+
+* Global seasonal outlooks for coastal high tide flooding, **UH-BoM collaboration meeting**, 1-hour talk, February 2026.
+
+* Seasonal outlooks for coastal high tide flooding - **COSPPac Fiji meeting**, 15-minute talk, online, February 2026.
+
 ### 2025
 
 * Seasonal forecasts of solar radiation and wind speed to support the energy transition in South-East Asia. **Weather for the Energy Transition in SE Asia (WETSA) Bureau mission to BMKG (Indonesia) and TMD (Thailand)**, multiple talks, November 2025, Jakarta Indonesia and Bangkok Thailand.
