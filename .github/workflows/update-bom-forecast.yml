@@ -2,7 +2,8 @@ name: Update BOM Forecast
 
 on:
   schedule:
-    - cron: '0 2,8,14,20 * * *'
+    # Run 30 mins after BOM forecast updates (17:00, 23:00, 05:00, 11:00 UTC)
+    - cron: '30 5,11,17,23 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,6 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add images/bom_forecast_*.png files/forecast_metadata.json files/forecast_timestamp.txt
+          git add images/bom_forecast_*.png files/forecast_metadata.json
           git commit -m "Update BOM forecast plots" --allow-empty
           git push
