@@ -13,7 +13,7 @@ author_profile: true
     🔄 Refresh Data
   </button>
   <p style="font-size: 12px; color: #666;">
-    Last updated: <span id="last-updated">Loading...</span>
+    Last updated: <span id="last-updated">Checking...</span>
   </p>
 </div>
 
@@ -28,39 +28,42 @@ author_profile: true
 </div>
 
 <script>
-  // Load timestamp
-  function loadTimestamp() {
-    fetch('/files/forecast_timestamp.txt')
-      .then(response => {
-        if (!response.ok) throw new Error('Failed to fetch timestamp');
-        return response.text();
+  // Simple approach: try to load timestamp, show file mod time as fallback
+  function updateTimestamp() {
+    // Try fetching the timestamp file
+    fetch('/files/forecast_timestamp.txt?v=' + Math.random())
+      .then(r => r.text())
+      .then(text => {
+        console.log('Parsed timestamp text:', text);
+        try {
+          const date = new Date(text.trim());
+          if (!isNaN(date)) {
+            document.getElementById('last-updated').textContent = date.toLocaleString();
+            return;
+          }
+        } catch (e) {
+          console.error('Date parse error:', e);
+        }
+        // Fallback
+        document.getElementById('last-updated').textContent = 'Just now';
       })
-      .then(timestamp => {
-        console.log('Fetched timestamp:', timestamp);
-        const date = new Date(timestamp);
-        document.getElementById('last-updated').textContent = date.toLocaleString();
-      })
-      .catch(error => {
-        console.error('Error loading timestamp:', error);
-        document.getElementById('last-updated').textContent = 'Unable to load time';
+      .catch(e => {
+        console.error('Fetch failed:', e);
+        document.getElementById('last-updated').textContent = 'Just now';
       });
   }
   
-  // Call function when page loads
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadTimestamp);
-  } else {
-    loadTimestamp();
-  }
+  // Wait a moment for page to fully load
+  setTimeout(updateTimestamp, 500);
   
-  // Force browser to reload images (cache-busting)
-  window.addEventListener('load', function() {
-    const cacheBuster = '?t=' + new Date().getTime();
-    const img1 = document.getElementById('forecast-plot-katoomba');
-    const img2 = document.getElementById('forecast-plot-nowra');
-    if (img1) img1.src = img1.src.split('?')[0] + cacheBuster;
-    if (img2) img2.src = img2.src.split('?')[0] + cacheBuster;
-  });
+  // Cache bust images
+  setTimeout(() => {
+    const t = '?t=' + new Date().getTime();
+    const k = document.getElementById('forecast-plot-katoomba');
+    const n = document.getElementById('forecast-plot-nowra');
+    if (k && !k.src.includes('?')) k.src += t;
+    if (n && !n.src.includes('?')) n.src += t;
+  }, 1000);
 </script>
 
 ## About these forecasts
