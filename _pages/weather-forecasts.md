@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-7-day detailed weather forecast for Katoomba, NSW with temperature, wind, and rainfall predictions.
+7-day detailed weather forecasts for climbing locations in NSW with temperature, wind, and rainfall predictions.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <button onclick="location.reload();" style="padding: 10px 20px; font-size: 16px; background-color: #008cba; color: white; border: none; border-radius: 4px; cursor: pointer;">
@@ -17,31 +17,38 @@ author_profile: true
   </p>
 </div>
 
+<h2>Katoomba</h2>
 <div style="text-align: center;">
-  <img id="forecast-plot" src="/images/bom_forecast_katoomba.png" alt="BOM Forecast for Katoomba" style="width: 100%; max-width: 900px; height: auto;">
+  <img id="forecast-plot-katoomba" src="/images/bom_forecast_katoomba.png" alt="BOM Forecast for Katoomba" style="width: 100%; max-width: 900px; height: auto;">
+</div>
+
+<h2>Nowra</h2>
+<div style="text-align: center;">
+  <img id="forecast-plot-nowra" src="/images/bom_forecast_nowra.png" alt="BOM Forecast for Nowra" style="width: 100%; max-width: 900px; height: auto;">
 </div>
 
 <script>
-  // Try to get the last commit time for this image
-  fetch('https://api.github.com/repos/rmholmes/rmholmes.github.io/commits?path=images/bom_forecast_katoomba.png&per_page=1')
+  // Load metadata with timestamp
+  fetch('/files/forecast_metadata.json')
     .then(response => response.json())
     .then(data => {
-      if (data.length > 0) {
-        const timestamp = new Date(data[0].commit.committer.date);
-        document.getElementById('last-updated').textContent = timestamp.toLocaleString();
-      }
+      const timestamp = new Date(data.timestamp);
+      document.getElementById('last-updated').textContent = timestamp.toLocaleString();
+      
+      // Force browser to reload images (cache-busting)
+      const cacheBuster = '?t=' + new Date().getTime();
+      document.getElementById('forecast-plot-katoomba').src += cacheBuster;
+      document.getElementById('forecast-plot-nowra').src += cacheBuster;
     })
     .catch(error => {
+      console.error('Error loading forecast metadata:', error);
       document.getElementById('last-updated').textContent = 'Unable to fetch update time';
     });
-  
-  // Add a cache-busting query parameter to force browser to reload the image
-  document.getElementById('forecast-plot').src += '?t=' + new Date().getTime();
 </script>
 
-## About this forecast
+## About these forecasts
 
-This is a detailed 3-hourly forecast for **Katoomba, NSW** scraped directly from the [Bureau of Meteorology](https://bom.gov.au) forecast page. The forecast updates automatically several times per day as new data becomes available.
+These are detailed 3-hourly forecasts for popular climbing locations in NSW, scraped directly from the [Bureau of Meteorology](https://bom.gov.au) forecast pages. The forecasts update automatically several times per day as new data becomes available.
 
 ### What you're seeing:
 

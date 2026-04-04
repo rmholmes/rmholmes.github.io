@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-04-05T08:56:19.969324",
+  "locations": {
+    "katoomba": {
+      "name": "Katoomba",
+      "image": "images/bom_forecast_katoomba.png",
+      "status": "success"
+    },
+    "nowra": {
+      "name": "Nowra",
+      "image": "images/bom_forecast_nowra.png",
+      "status": "success"
+    }
+  }
+}
