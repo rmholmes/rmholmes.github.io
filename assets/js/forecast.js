@@ -6,7 +6,17 @@ fetch('/files/forecast_metadata.json')
       const d = new Date(data.timestamp);
       if (isFinite(d)) {
         const el = document.getElementById('last-updated');
-        if (el) el.textContent = d.toLocaleString();
+        if (el) {
+          // Convert to Australian East Coast time (Sydney)
+          el.textContent = d.toLocaleString('en-AU', { 
+            timeZone: 'Australia/Sydney',
+            year: 'numeric',
+            month: 'numeric',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
+          });
+        }
       }
     }
   })
