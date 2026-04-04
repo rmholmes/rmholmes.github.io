@@ -28,33 +28,44 @@ author_profile: true
 </div>
 
 <script>
-  // Simple approach: try to load timestamp, show file mod time as fallback
+  // Simple approach: load and display timestamp
   function updateTimestamp() {
-    // Try fetching the timestamp file
+    console.log('updateTimestamp called');
+    
     fetch('/files/forecast_timestamp.txt?v=' + Math.random())
-      .then(r => r.text())
+      .then(r => {
+        console.log('Fetch response status:', r.status);
+        return r.text();
+      })
       .then(text => {
-        console.log('Parsed timestamp text:', text);
-        try {
-          const date = new Date(text.trim());
-          if (!isNaN(date)) {
-            document.getElementById('last-updated').textContent = date.toLocaleString();
-            return;
-          }
-        } catch (e) {
-          console.error('Date parse error:', e);
+        console.log('Raw text received:', JSON.stringify(text));
+        console.log('Text length:', text.length);
+        console.log('Text trimmed:', JSON.stringify(text.trim()));
+        
+        const trimmed = text.trim();
+        console.log('Attempting to parse as date:', trimmed);
+        
+        const date = new Date(trimmed);
+        console.log('Parsed date:', date);
+        console.log('Date is valid:', !isNaN(date.getTime()));
+        
+        if (!isNaN(date.getTime())) {
+          const formatted = date.toLocaleString();
+          console.log('Formatted date:', formatted);
+          document.getElementById('last-updated').textContent = formatted;
+        } else {
+          console.log('Date invalid, showing fallback');
+          document.getElementById('last-updated').textContent = 'Recently updated';
         }
-        // Fallback
-        document.getElementById('last-updated').textContent = 'Just now';
       })
       .catch(e => {
-        console.error('Fetch failed:', e);
-        document.getElementById('last-updated').textContent = 'Just now';
+        console.error('Caught error:', e);
+        document.getElementById('last-updated').textContent = 'Recently updated';
       });
   }
   
-  // Wait a moment for page to fully load
-  setTimeout(updateTimestamp, 500);
+  console.log('Script loaded, calling updateTimestamp in 1 second');
+  setTimeout(updateTimestamp, 1000);
   
   // Cache bust images
   setTimeout(() => {
@@ -63,7 +74,7 @@ author_profile: true
     const n = document.getElementById('forecast-plot-nowra');
     if (k && !k.src.includes('?')) k.src += t;
     if (n && !n.src.includes('?')) n.src += t;
-  }, 1000);
+  }, 2000);
 </script>
 
 ## About these forecasts
