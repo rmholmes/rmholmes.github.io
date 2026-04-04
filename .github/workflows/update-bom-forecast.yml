@@ -33,6 +33,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add images/bom_forecast_*.png files/forecast_metadata.json
+          git add images/bom_forecast_*.png files/forecast_metadata.json files/forecast_timestamp.txt
           git commit -m "Update BOM forecast plots" --allow-empty
           git push

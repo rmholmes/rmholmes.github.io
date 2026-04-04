@@ -28,29 +28,37 @@ author_profile: true
 </div>
 
 <script>
-  // Load metadata with timestamp
-  fetch('{{ site.baseurl }}/files/forecast_metadata.json')
+  // Try multiple approaches to load the timestamp
+  
+  // Approach 1: Use plain text file for simpler access
+  fetch('{{ site.baseurl }}/files/forecast_timestamp.txt')
     .then(response => {
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      return response.json();
+      if (!response.ok) throw new Error('timestamp.txt not found');
+      return response.text();
     })
-    .then(data => {
-      if (data.timestamp) {
-        const timestamp = new Date(data.timestamp);
-        document.getElementById('last-updated').textContent = timestamp.toLocaleString();
-      }
-      
-      // Force browser to reload images (cache-busting)
-      const cacheBuster = '?t=' + new Date().getTime();
-      document.getElementById('forecast-plot-katoomba').src += cacheBuster;
-      document.getElementById('forecast-plot-nowra').src += cacheBuster;
+    .then(timestamp => {
+      const date = new Date(timestamp);
+      document.getElementById('last-updated').textContent = date.toLocaleString();
     })
-    .catch(error => {
-      console.error('Error loading forecast metadata:', error);
-      document.getElementById('last-updated').textContent = 'Unable to load update time';
+    .catch(err1 => {
+      console.log('Timestamp fetch failed:', err1);
+      // Fallback: try JSON
+      return fetch('{{ site.baseurl }}/files/forecast_metadata.json')
+        .then(response => response.json())
+        .then(data => {
+          const date = new Date(data.timestamp);
+          document.getElementById('last-updated').textContent = date.toLocaleString();
+        })
+        .catch(err2 => {
+          console.error('Both timestamp methods failed:', err1, err2);
+          document.getElementById('last-updated').textContent = 'Unable to load update time';
+        });
     });
+  
+  // Force browser to reload images (cache-busting)
+  const cacheBuster = '?t=' + new Date().getTime();
+  document.getElementById('forecast-plot-katoomba').src += cacheBuster;
+  document.getElementById('forecast-plot-nowra').src += cacheBuster;
 </script>
 
 ## About these forecasts
