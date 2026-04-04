@@ -28,37 +28,39 @@ author_profile: true
 </div>
 
 <script>
-  // Try multiple approaches to load the timestamp
+  // Load timestamp
+  function loadTimestamp() {
+    fetch('/files/forecast_timestamp.txt')
+      .then(response => {
+        if (!response.ok) throw new Error('Failed to fetch timestamp');
+        return response.text();
+      })
+      .then(timestamp => {
+        console.log('Fetched timestamp:', timestamp);
+        const date = new Date(timestamp);
+        document.getElementById('last-updated').textContent = date.toLocaleString();
+      })
+      .catch(error => {
+        console.error('Error loading timestamp:', error);
+        document.getElementById('last-updated').textContent = 'Unable to load time';
+      });
+  }
   
-  // Approach 1: Use plain text file for simpler access
-  fetch('{{ site.baseurl }}/files/forecast_timestamp.txt')
-    .then(response => {
-      if (!response.ok) throw new Error('timestamp.txt not found');
-      return response.text();
-    })
-    .then(timestamp => {
-      const date = new Date(timestamp);
-      document.getElementById('last-updated').textContent = date.toLocaleString();
-    })
-    .catch(err1 => {
-      console.log('Timestamp fetch failed:', err1);
-      // Fallback: try JSON
-      return fetch('{{ site.baseurl }}/files/forecast_metadata.json')
-        .then(response => response.json())
-        .then(data => {
-          const date = new Date(data.timestamp);
-          document.getElementById('last-updated').textContent = date.toLocaleString();
-        })
-        .catch(err2 => {
-          console.error('Both timestamp methods failed:', err1, err2);
-          document.getElementById('last-updated').textContent = 'Unable to load update time';
-        });
-    });
+  // Call function when page loads
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadTimestamp);
+  } else {
+    loadTimestamp();
+  }
   
   // Force browser to reload images (cache-busting)
-  const cacheBuster = '?t=' + new Date().getTime();
-  document.getElementById('forecast-plot-katoomba').src += cacheBuster;
-  document.getElementById('forecast-plot-nowra').src += cacheBuster;
+  window.addEventListener('load', function() {
+    const cacheBuster = '?t=' + new Date().getTime();
+    const img1 = document.getElementById('forecast-plot-katoomba');
+    const img2 = document.getElementById('forecast-plot-nowra');
+    if (img1) img1.src = img1.src.split('?')[0] + cacheBuster;
+    if (img2) img2.src = img2.src.split('?')[0] + cacheBuster;
+  });
 </script>
 
 ## About these forecasts
