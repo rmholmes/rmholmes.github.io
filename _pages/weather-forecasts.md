@@ -13,7 +13,7 @@ author_profile: true
     🔄 Refresh Data
   </button>
   <p style="font-size: 12px; color: #666;">
-    Last updated: <span id="last-updated">—</span>
+    Last updated: <span id="last-updated">loading</span>
   </p>
 </div>
 
@@ -27,31 +27,7 @@ author_profile: true
   <img id="forecast-plot-nowra" src="/images/bom_forecast_nowra.png" alt="BOM Forecast for Nowra" style="width: 100%; max-width: 900px; height: auto;">
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Load timestamp from JSON file
-  fetch('/files/forecast_metadata.json')
-    .then(response => response.json())
-    .then(data => {
-      if (data && data.timestamp) {
-        const date = new Date(data.timestamp);
-        if (isFinite(date)) {
-          document.getElementById('last-updated').textContent = date.toLocaleString();
-        }
-      }
-    })
-    .catch(err => {
-      console.error('Error loading timestamp:', err);
-    });
-  
-  // Force refresh images with cache buster
-  const now = new Date().getTime();
-  const img1 = document.getElementById('forecast-plot-katoomba');
-  const img2 = document.getElementById('forecast-plot-nowra');
-  if (img1) img1.src = img1.src.split('?')[0] + '?t=' + now;
-  if (img2) img2.src = img2.src.split('?')[0] + '?t=' + now;
-});
-</script>
+<script src="/assets/js/forecast.js" defer></script>
 
 ## About these forecasts
 
