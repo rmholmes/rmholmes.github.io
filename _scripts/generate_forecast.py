@@ -204,15 +204,9 @@ def generate_all_forecasts():
     metadata_dir = Path('files')
     metadata_dir.mkdir(exist_ok=True)
     metadata_file = metadata_dir / 'forecast_metadata.json'
-    timestamp_str = metadata['timestamp']
     
     with open(metadata_file, 'w') as f:
         json.dump(metadata, f, indent=2)
-    
-    # Also save a simple text file with just the timestamp for easy access
-    timestamp_file = metadata_dir / 'forecast_timestamp.txt'
-    with open(timestamp_file, 'w') as f:
-        f.write(timestamp_str)
     
     print(f"\n✓ Metadata saved to {metadata_file}")
     print(f"  Timestamp: {metadata['timestamp']}")
