@@ -1,15 +1,20 @@
 #!/usr/bin/env python
 """
-Generate BOM forecast plot for Katoomba.
+Generate BOM forecast plots for multiple locations.
 
 Usage:
     python _scripts/generate_forecast.py
 
-Generates: images/bom_forecast_katoomba.png
+Generates:
+    - images/bom_forecast_katoomba.png
+    - images/bom_forecast_nowra.png
+    - _data/forecast_metadata.json (timestamp)
 """
 
 import sys
+import json
 from pathlib import Path
+from datetime import datetime
 
 # Add _scripts to path so we can import bom_scraper
 sys.path.insert(0, str(Path(__file__).parent))
@@ -25,7 +30,7 @@ from bom_scraper import (
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib.ticker import FuncFormatter
-from datetime import datetime, timedelta
+from datetime import timedelta
 
 
 def generate_forecast_plot(location='katoomba', location_name='Katoomba', output_path='images/bom_forecast_katoomba.png'):
@@ -160,9 +165,66 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     print(f"✓ Forecast plot saved to {output_path}")
 
 
+def generate_all_forecasts():
+    """
+    Generate forecast plots for all configured locations.
+    Also saves metadata with timestamp.
+    """
+    locations = [
+        {'slug': 'katoomba', 'name': 'Katoomba', 'output': 'images/bom_forecast_katoomba.png'},
+        {'slug': 'nowra', 'name': 'Nowra', 'output': 'images/bom_forecast_nowra.png'},
+    ]
+    
+    metadata = {
+        'timestamp': datetime.now().isoformat(),
+        'locations': {}
+    }
+    
+    for loc in locations:
+        try:
+            print(f"\n{'='*60}")
+            print(f"Generating forecast for {loc['name']}...")
+            print('='*60)
+            generate_forecast_plot(loc['slug'], loc['name'], loc['output'])
+            metadata['locations'][loc['slug']] = {
+                'name': loc['name'],
+                'image': loc['output'],
+                'status': 'success'
+            }
+        except Exception as e:
+            print(f"✗ Error generating {loc['name']}: {e}")
+            metadata['locations'][loc['slug']] = {
+                'name': loc['name'],
+                'image': loc['output'],
+                'status': 'error',
+                'error': str(e)
+            }
+    
+    # Save metadata to files/ directory so it's accessible via /files/
+    metadata_dir = Path('files')
+    metadata_dir.mkdir(exist_ok=True)
+    metadata_file = metadata_dir / 'forecast_metadata.json'
+    
+    with open(metadata_file, 'w') as f:
+        json.dump(metadata, f, indent=2)
+    
+    print(f"\n✓ Metadata saved to {metadata_file}")
+    print(f"  Timestamp: {metadata['timestamp']}")
+    
+    # Check if all succeeded
+    statuses = [loc['status'] for loc in metadata['locations'].values()]
+    if 'error' in statuses:
+        print("\n⚠ Some forecasts failed to generate")
+        return False
+    
+    print("\n✓ All forecasts generated successfully!")
+    return True
+
+
 if __name__ == '__main__':
     try:
-        generate_forecast_plot()
+        success = generate_all_forecasts()
+        sys.exit(0 if success else 1)
     except Exception as e:
-        print(f"✗ Error: {e}")
+        print(f"✗ Fatal error: {e}")
         sys.exit(1)
