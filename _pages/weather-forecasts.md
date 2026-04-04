@@ -29,11 +29,18 @@ author_profile: true
 
 <script>
   // Load metadata with timestamp
-  fetch('/files/forecast_metadata.json')
-    .then(response => response.json())
+  fetch('{{ site.baseurl }}/files/forecast_metadata.json')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
     .then(data => {
-      const timestamp = new Date(data.timestamp);
-      document.getElementById('last-updated').textContent = timestamp.toLocaleString();
+      if (data.timestamp) {
+        const timestamp = new Date(data.timestamp);
+        document.getElementById('last-updated').textContent = timestamp.toLocaleString();
+      }
       
       // Force browser to reload images (cache-busting)
       const cacheBuster = '?t=' + new Date().getTime();
@@ -42,7 +49,7 @@ author_profile: true
     })
     .catch(error => {
       console.error('Error loading forecast metadata:', error);
-      document.getElementById('last-updated').textContent = 'Unable to fetch update time';
+      document.getElementById('last-updated').textContent = 'Unable to load update time';
     });
 </script>
 
