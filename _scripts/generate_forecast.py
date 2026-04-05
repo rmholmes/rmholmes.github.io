@@ -59,7 +59,7 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     
     print("Generating plot...")
     # Create figure with 3 subplots
-    fig, axes = plt.subplots(3, 1, figsize=(11, 8))
+    fig, axes = plt.subplots(3, 1, figsize=(8.5, 8))
     fig.suptitle(f'7-Day Forecast for {location_name}', fontsize=16, fontweight='bold')
     
     df_valid = df.dropna(subset=['DateTime', 'Temperature_C'])
@@ -129,7 +129,7 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
         dt = mdates.num2date(x)
         if dt.hour != 12:
             return ''
-        return f"{dt.strftime('%A')} {dt.month}/{dt.day}\n12pm"
+        return f"{dt.strftime('%A')}\n{dt.day}/{dt.month}"
     
     date_range = df['DateTime'].dropna()
     if len(date_range) > 0:
@@ -155,7 +155,7 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
         if i == len(axes) - 1:
             ax.xaxis.set_major_formatter(FuncFormatter(date_formatter))
             plt.setp(ax.xaxis.get_majorticklabels(), rotation=0, ha='center')
-            ax.set_xlabel('Date')
+            ax.set_xlabel('')
         else:
             ax.xaxis.set_ticklabels([])
             ax.set_xlabel('')
