@@ -8,7 +8,7 @@ fetch('/files/forecast_metadata.json')
         const el = document.getElementById('last-updated');
         if (el) {
           // Convert to Australian East Coast time (Sydney)
-          el.textContent = d.toLocaleString('en-AU', { 
+          const formatted = d.toLocaleString('en-AU', { 
             timeZone: 'Australia/Sydney',
             year: 'numeric',
             month: 'numeric',
@@ -16,6 +16,8 @@ fetch('/files/forecast_metadata.json')
             hour: '2-digit',
             minute: '2-digit'
           });
+          const tz = data.timezone ? data.timezone.split('/')[1] : 'AEST';
+          el.textContent = formatted + ' ' + tz;
         }
       }
     }
