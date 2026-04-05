@@ -17,4 +17,7 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Weather Forecasts"
+    url: /weather-forecasts/
     
