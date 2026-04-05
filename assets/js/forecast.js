@@ -16,8 +16,14 @@ fetch('/files/forecast_metadata.json')
             hour: '2-digit',
             minute: '2-digit'
           });
-          const tz = data.timezone ? data.timezone.split('/')[1] : 'AEST';
-          el.textContent = formatted + ' ' + tz;
+          
+          // Get timezone abbreviation (AEST or AEDT)
+          const tzName = d.toLocaleString('en-AU', { 
+            timeZone: 'Australia/Sydney',
+            timeZoneName: 'short'
+          }).split(' ').pop();
+          
+          el.textContent = formatted + ' ' + tzName;
         }
       }
     }
