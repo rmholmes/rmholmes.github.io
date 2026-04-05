@@ -46,7 +46,7 @@ Forecasts are updated automatically 30 minutes after each BOM forecast issue tim
 
 ### What you're seeing:
 
-- **Temperature & Dew Point**: Red line shows air temperature, blue line shows dew point. Low dew point temperatures indicate low humidity. Dew point temperature is generally better to look at that the relative humidity (in percentage) because the relative humidity is strongly dependent on air temperature. I.e. the relative humidity generally decreases in the afternoon when the air temperature increases, but this does not actually indicate that there is less water in the air.
+- **Temperature & Dew Point**: Red line shows air temperature, blue line shows dew point. Low dew point temperatures indicate low humidity. Dew point temperature is generally better to look at than the relative humidity (in percentage) because the relative humidity is strongly dependent on air temperature. I.e. the relative humidity generally decreases in the afternoon when the air temperature increases, but this does not actually indicate that there is less water in the air.
 
 - **Wind Speed & Direction**: Arrow symbols show wind direction, with colors indicating speed (red = very light winds less than 5 knots, orange = light winds between 5 and 10 knots, green = moderate winds greater than 10 knots). Higher wind speeds generally lead to better climbing conditions, but this depends on the relative exposure of the cliff you're climbing at compared to the wind direction.
 
