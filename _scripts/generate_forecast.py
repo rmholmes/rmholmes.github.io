@@ -14,7 +14,8 @@ Generates:
 import sys
 import json
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 # Add _scripts to path so we can import bom_scraper
 sys.path.insert(0, str(Path(__file__).parent))
@@ -176,7 +177,8 @@ def generate_all_forecasts():
     ]
     
     metadata = {
-        'timestamp': datetime.now().isoformat(),
+        'timestamp': datetime.now(ZoneInfo('Australia/Sydney')).isoformat(),
+        'timezone': 'Australia/Sydney',
         'locations': {}
     }
     
