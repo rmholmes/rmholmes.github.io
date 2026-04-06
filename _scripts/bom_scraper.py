@@ -82,9 +82,27 @@ def extract_forecast_data(soup):
         temp_table = tables[day_idx + 1]
         wind_humidity_table = tables[day_idx + 4]
         
-        # Extract day name from rainfall table summary
-        rainfall_summary = rainfall_table.get('summary', '')
-        day_name = rainfall_summary.split('for ')[-1] if 'for' in rainfall_summary else 'Unknown'
+        # Extract day name and date from previous sibling elements
+        # The date appears as a sibling text node like "Monday 6 April"
+        # (not in the table summary which only says "3 Hourly Rainfall Forecast for Monday")
+        date_string = ''
+        day_name = 'Unknown'
+        
+        # Look for previous text siblings to find the date (format: "Day Date Month")
+        for prev_elem in rainfall_table.find_previous_siblings():
+            text = prev_elem.get_text(strip=True) if hasattr(prev_elem, 'get_text') else str(prev_elem).strip()
+            # Check if this looks like a date (starts with day name and contains month name)
+            if any(day in text for day in ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']):
+                if any(month in text for month in ['January', 'February', 'March', 'April', 'May', 'June', 
+                                                     'July', 'August', 'September', 'October', 'November', 'December']):
+                    date_string = text
+                    day_name = text.split()[0] if ' ' in text else text
+                    break
+        
+        # Fallback: extract day name from table summary if we couldn't find the date string
+        if not date_string:
+            rainfall_summary = rainfall_table.get('summary', '')
+            day_name = rainfall_summary.split('for ')[-1] if 'for' in rainfall_summary else 'Unknown'
         
         # Get table rows
         temp_rows = temp_table.find_all('tr')
@@ -146,6 +164,7 @@ def extract_forecast_data(soup):
         for i, time in enumerate(times):
             record = {
                 'Day': day_name,
+                'Date_String': date_string,
                 'Time': time,
                 'Temperature_C': temps[i] if i < len(temps) else '',
                 'Wind_Speed_kmh': wind_speeds_kmh[i] if i < len(wind_speeds_kmh) else '',
@@ -184,7 +203,7 @@ def prepare_forecast_data(df, base_date=None):
     
     Args:
         df (pd.DataFrame): Raw forecast DataFrame from extract_forecast_data()
-        base_date (datetime): Start date for forecast (default: today)
+        base_date (datetime): Start date for forecast (default: today) - IGNORED if Date_String is available
     
     Returns:
         pd.DataFrame: Prepared DataFrame with numeric columns, DateTime index, sorted by time
@@ -198,25 +217,56 @@ def prepare_forecast_data(df, base_date=None):
     for col in ['Temperature_C', 'Dew_Point_C', 'Wind_Speed_kmh', 'Humidity_Percent', 'Rain_Chance_Percent']:
         df[col] = df[col].apply(to_numeric)
     
-    # Create DateTime index combining Day and Time columns
-    if base_date is None:
-        base_date = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
-    
-    days_list = df['Day'].unique()
-    day_to_date = {day: base_date + timedelta(days=i) for i, day in enumerate(days_list)}
-    
-    def create_datetime(row):
-        day_date = day_to_date.get(row['Day'], base_date)
-        try:
-            time_obj = datetime.strptime(row['Time'], '%I:%M %p')
-            return day_date.replace(hour=time_obj.hour, minute=time_obj.minute)
-        except:
-            return None
+    # Create DateTime index combining Date_String (if available) or Day, and Time columns
+    if 'Date_String' not in df.columns:
+        # Fallback to old behavior if Date_String not present
+        if base_date is None:
+            base_date = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+        
+        days_list = df['Day'].unique()
+        day_to_date = {day: base_date + timedelta(days=i) for i, day in enumerate(days_list)}
+        
+        def create_datetime(row):
+            day_date = day_to_date.get(row['Day'], base_date)
+            try:
+                time_obj = datetime.strptime(row['Time'], '%I:%M %p')
+                return day_date.replace(hour=time_obj.hour, minute=time_obj.minute)
+            except:
+                return None
+    else:
+        # Use Date_String to extract actual calendar dates
+        # Date_String format: e.g., "Friday 4 April 2025" or "Friday 4 April"
+        date_to_date = {}
+        for date_string in df['Date_String'].unique():
+            try:
+                # Try parsing with year first
+                date_obj = datetime.strptime(date_string.strip(), '%A %d %B %Y').date()
+                date_to_date[date_string] = date_obj
+            except ValueError:
+                try:
+                    # Try parsing without year (add current year)
+                    date_string_with_year = f"{date_string.strip()} {datetime.now().year}"
+                    date_obj = datetime.strptime(date_string_with_year, '%A %d %B %Y').date()
+                    date_to_date[date_string] = date_obj
+                except ValueError:
+                    # If parsing fails, fall back to None
+                    date_to_date[date_string] = None
+        
+        def create_datetime(row):
+            day_date = date_to_date.get(row['Date_String'])
+            if day_date is None:
+                return None
+            try:
+                time_obj = datetime.strptime(row['Time'], '%I:%M %p')
+                return datetime.combine(day_date, time_obj.time())
+            except:
+                return None
     
     df['DateTime'] = df.apply(create_datetime, axis=1)
     df = df.sort_values('DateTime')
     
     return df
+
 
 
 def get_arrow_for_direction(direction):
