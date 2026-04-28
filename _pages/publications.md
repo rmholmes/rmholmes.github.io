@@ -19,31 +19,31 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2026
 
-* [55] Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: [What makes a good tide prediction? Application to the Australian coastline](https://www.tandfonline.com/doi/full/10.1080/1755876X.2026.2631282), **Journal of Operational Oceanography**, 1-19.
+* [54] Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: [What makes a good tide prediction? Application to the Australian coastline](https://www.tandfonline.com/doi/full/10.1080/1755876X.2026.2631282), **Journal of Operational Oceanography**, 1-19.
 
-* [54] Hobbs, W., *Holmes, R.* and Kiss, A.: [Ocean constraints on winter Antarctic sea ice extent](https://doi.org/10.1029/2025JC022716). **Journal of Geophysical Research, Oceans**, 131, e2025JC022716.
+* [53] Hobbs, W., *Holmes, R.* and Kiss, A.: [Ocean constraints on winter Antarctic sea ice extent](https://doi.org/10.1029/2025JC022716). **Journal of Geophysical Research, Oceans**, 131, e2025JC022716.
 
 ### 2025
 
-* [53] McDougall, T., *Holmes, R.* and Gunn, K.: [What sets the stratification in the abyss?](https://doi.org/10.1175/JPO-D-24-0180.1). **Journal of Physical Oceanography**, 55 (11), 2079-2095.
+* [52] McDougall, T., *Holmes, R.* and Gunn, K.: [What sets the stratification in the abyss?](https://doi.org/10.1175/JPO-D-24-0180.1). **Journal of Physical Oceanography**, 55 (11), 2079-2095.
 
-* [52] Conde, I., Zika, J., *Holmes, R.* and Ramesh, N.: [Observed increase in tropical Pacific surface cold-warm contrast is well outside model simulated range](https://doi.org/10.1029/2025GL116409). **Geophysical Research Letters**, 52,
+* [51] Conde, I., Zika, J., *Holmes, R.* and Ramesh, N.: [Observed increase in tropical Pacific surface cold-warm contrast is well outside model simulated range](https://doi.org/10.1029/2025GL116409). **Geophysical Research Letters**, 52,
 e2025GL116409.
   
-* [51] *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: [Seasonal outlooks for coastal high tide flooding](https://doi.org/10.1007/s11069-025-07548-x). **Natural Hazards**.
+* [50] *Holmes, R.*, Richet, O., Hague, B., Smith, G. and Spillman, C.: [Seasonal outlooks for coastal high tide flooding](https://doi.org/10.1007/s11069-025-07548-x). **Natural Hazards**.
 
-* [50] *Holmes, R.*, Smith, G. and Spillman, C.: [Seasonal sea level forecasts for the Australian coast](https://doi.org/10.1071/ES24047). **Journal of Southern Hemisphere Earth System Science**, 75, ES24047.
+* [49] *Holmes, R.*, Smith, G. and Spillman, C.: [Seasonal sea level forecasts for the Australian coast](https://doi.org/10.1071/ES24047). **Journal of Southern Hemisphere Earth System Science**, 75, ES24047.
 
-* [49] England, M., Li, Z., Huguenin, M., Kiss, A., Sen Gupta, A. *Holmes, R.* and Rahmstorf, S.: [Drivers of the extreme North Atlantic marine heatwave during 2023](https://doi.org/10.1038/s41586-025-08903-5). **Nature**, 642, 636-643.
+* [48] England, M., Li, Z., Huguenin, M., Kiss, A., Sen Gupta, A. *Holmes, R.* and Rahmstorf, S.: [Drivers of the extreme North Atlantic marine heatwave during 2023](https://doi.org/10.1038/s41586-025-08903-5). **Nature**, 642, 636-643.
 
-* [48] Bhagtani, D., Hogg, A., *Holmes, R.*, Constantinou, N. and Khatri, H.: [Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres](
+* [47] Bhagtani, D., Hogg, A., *Holmes, R.*, Constantinou, N. and Khatri, H.: [Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres](
 https://doi.org/10.1029/2024JC021997).**Journal of Geophysical Research - Oceans**, 130 (6), e2024JC021997. 
 
 ### 2024
 
-* [47] *Holmes, R.*, Renault, L., Maillard, L. and Boucharel, J.: [Air-sea coupling feedbacks over Tropical Instability Waves](https://doi.org/10.1175/JPO-D-24-0010.1). **Journal of Physical Oceanography**, 54, 2165-2184. [Associated dataset (Zenodo)](https://dx.doi.org/10.5281/zenodo.13788242)
+* [46] *Holmes, R.*, Renault, L., Maillard, L. and Boucharel, J.: [Air-sea coupling feedbacks over Tropical Instability Waves](https://doi.org/10.1175/JPO-D-24-0010.1). **Journal of Physical Oceanography**, 54, 2165-2184. [Associated dataset (Zenodo)](https://dx.doi.org/10.5281/zenodo.13788242)
 
-* [46] *Holmes R.* (2024) [Deep-sea dye confirms turbulent-mixing theory — with implications for climate](https://doi.org/10.1038/d41586-024-01647-8). **Nature** (News and Views, not peer reviewed), 630, 824-825.
+* [-] *Holmes R.* (2024) [Deep-sea dye confirms turbulent-mixing theory — with implications for climate](https://doi.org/10.1038/d41586-024-01647-8). **Nature** (News and Views, not peer reviewed), 630, 824-825.
 
 * [45] Bennetts, L. et al. [Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves](https://doi.org/10.1029/2022RG000781). **Review of Geophysics**, 62, e2022RG000781.
 
