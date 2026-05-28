@@ -13,8 +13,6 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
-* Bhagtani, D., Hogg, A., *Holmes, R.* and Constantinou, N.: Unraveling how winds and surface heat fluxes control the Atlantic Ocean’s meridional heat transport. Submitted to **Geophysical Research Letters**
-
 ### 2026
 
 * [55] Danabasoglu, G. and others: Simulated and Observed Transport Estimates Across the Overturning in the Subpolar North Atlantic Program (OSNAP) Section. **Geoscientific Model Development**, accepted.
