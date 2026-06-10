@@ -11,7 +11,7 @@ urlcolor: blue
 
 * Coastal hazards research developments in SIG and ACS: 10-minute talk, Community Services Group Coastal Hazards planning meeting. June 2026, Melbourne.
 
-* ACCESS-S2 forecast verification: Overview, renewable, energy applications and a prototype forecast value evaluation tool. 1-hour seminar. BoM Verification Community of Practice, May 2026 (online).
+* ACCESS-S2 forecast verification: Overview, renewable energy applications and a prototype forecast value evaluation tool. 1-hour seminar. BoM Verification Community of Practice, May 2026 (online).
 
 * Uplifting the Bureau's National Storm Surge prediction system. **Bluelink meeting**, 15-min talk, Melbourne, March 2026.
 

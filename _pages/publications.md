@@ -13,6 +13,8 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* Holmes, R. and Malan, N.: Accurately diagnosing mixed layer tracer budgets and marine heatwave drivers in ocean models. Submitted to the **Journal of Advances in Modeling Earth Systems**.
+
 ### 2026
 
 * [55] Danabasoglu, G. and others: Simulated and Observed Transport Estimates Across the Overturning in the Subpolar North Atlantic Program (OSNAP) Section. **Geoscientific Model Development**, accepted.
