@@ -17,7 +17,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### 2026
 
-* [55] Danabasoglu, G. and others: [Simulated and Observed Transport Estimates Across the Overturning in the Subpolar North Atlantic Program (OSNAP) Section](https://doi.org/10.5194/gmd-19-5071-2026). **Geoscientific Model Development**, accepted.
+* [55] Danabasoglu, G. and others: [Simulated and Observed Transport Estimates Across the Overturning in the Subpolar North Atlantic Program (OSNAP) Section](https://doi.org/10.5194/gmd-19-5071-2026). **Geoscientific Model Development**.
 
 * [54] Richet, O., *Holmes, R.*, Chittleborough, J., Spillman, C. and Smith, G.: [What makes a good tide prediction? Application to the Australian coastline](https://www.tandfonline.com/doi/full/10.1080/1755876X.2026.2631282), **Journal of Operational Oceanography**, 1-19.
 
