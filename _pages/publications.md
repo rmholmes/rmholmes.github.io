@@ -13,7 +13,9 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
-* Holmes, R. and Malan, N.: Accurately diagnosing mixed layer tracer budgets and marine heatwave drivers in ocean models. Submitted to the **Journal of Advances in Modeling Earth Systems**.
+* Bladwell, C., Holmes, R., Zika, J., Griffies, S. and Kiss, A.: Time averaging for tendency budget analysis. Submitted to *Geoscientific Model Development*.
+
+* Holmes, R. and Malan, N.: [Accurately diagnosing mixed layer tracer budgets and marine heatwave drivers in ocean models](https://doi.org/10.22541/essoar.15005159/v1). Submitted to the **Journal of Advances in Modeling Earth Systems**.
 
 ### 2026
 
