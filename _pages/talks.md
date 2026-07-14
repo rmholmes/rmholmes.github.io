@@ -9,6 +9,10 @@ urlcolor: blue
 
 ### 2026
 
+* Accurately diagnosing mixed layer temperature budgets and marine heatwave drivers in ocean models, Australian marine heatwave science community, 1-hour seminar. July 2026.
+
+* Diagnosing tracer budgets in ocean models for marine heatwave and water mass transformation studies: Weather of the 21st century Circulation theme, 1-hour seminar. July 2026.
+
 * Coastal hazards research developments in SIG and ACS: 10-minute talk, Community Services Group Coastal Hazards planning meeting. June 2026, Melbourne.
 
 * ACCESS-S2 forecast verification: Overview, renewable energy applications and a prototype forecast value evaluation tool. 1-hour seminar. BoM Verification Community of Practice, May 2026 (online).
