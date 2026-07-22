@@ -15,7 +15,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 * *Holmes, R.*, Griffiths, M., Spillman, C. and Wheeler, M.: Skill of subseasonal-to-seasonal wind and solar radiation forecasts over South-East Asia and Australia for renewable energy applications. Submitted to the AMS **Journal of Applied Meteorology and Climatology**. 
 
-* Bladwell, C., *Holmes, R.*, Zika, J., Griffies, S. and Kiss, A.: Time averaging for tendency budget analysis. Submitted to **Geoscientific Model Development**.
+* Bladwell, C., *Holmes, R.*, Zika, J., Griffies, S. and Kiss, A.: [Time averaging for tendency budget analysis](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3672/). Submitted to **Geoscientific Model Development**.
 
 * *Holmes, R.* and Malan, N.: [Accurately diagnosing mixed layer tracer budgets and marine heatwave drivers in ocean models](https://doi.org/10.22541/essoar.15005159/v1). Submitted to the **Journal of Advances in Modeling Earth Systems**.
 
