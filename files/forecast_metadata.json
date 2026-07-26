@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-09-06T05:09:39.237200+10:00",
+  "timezone": "Australia/Sydney",
+  "locations": {
+    "katoomba": {
+      "name": "Katoomba",
+      "image": "images/bom_forecast_katoomba.png",
+      "status": "success"
+    },
+    "nowra": {
+      "name": "Nowra",
+      "image": "images/bom_forecast_nowra.png",
+      "status": "success"
+    },
+    "campbelltown": {
+      "name": "Campbelltown (Sydney)",
+      "image": "images/bom_forecast_campbelltown.png",
+      "status": "success"
+    }
+  }
+}
