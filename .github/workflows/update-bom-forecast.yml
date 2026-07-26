@@ -6,12 +6,25 @@ on:
     - cron: '30 5,11,17,23 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-forecast:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repository (master)
+        uses: actions/checkout@v4
+        with:
+          path: main
+          fetch-depth: 1
+
+      - name: Checkout forecast-data branch
+        uses: actions/checkout@v4
+        with:
+          ref: bom-forecast-data
+          path: bom-data
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -19,17 +32,27 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
+        working-directory: main
         run: |
           pip install --upgrade pip
           pip install requests beautifulsoup4 pandas matplotlib numpy
 
       - name: Generate forecast plots
+        working-directory: main
         run: python _scripts/generate_forecast.py
 
-      - name: Commit and push changes
+      # bom-forecast-data is kept to a single commit (amended + force-pushed each
+      # run) so the generated plots never accumulate history bloat on the repo.
+      - name: Publish forecast data
         run: |
+          mkdir -p bom-data/images bom-data/files
+          cp main/images/bom_forecast_katoomba.png bom-data/images/bom_forecast_katoomba.png
+          cp main/images/bom_forecast_nowra.png bom-data/images/bom_forecast_nowra.png
+          cp main/files/forecast_metadata.json bom-data/files/forecast_metadata.json
+
+          cd bom-data
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add images/bom_forecast_*.png files/forecast_metadata.json
-          git commit -m "Update BOM forecast plots" --allow-empty
-          git push
+          git add images/bom_forecast_katoomba.png images/bom_forecast_nowra.png files/forecast_metadata.json
+          git commit --amend -m "Update BOM forecast data" --allow-empty
+          git push --force origin HEAD:bom-forecast-data

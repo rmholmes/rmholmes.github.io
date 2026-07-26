@@ -19,7 +19,7 @@ author_profile: true
   <a href="https://www.bom.gov.au/places/nsw/katoomba/forecast/detailed/" target="_blank">View on BOM website</a>
 </p>
 <div style="text-align: center;">
-  <img id="forecast-plot-katoomba" src="/images/bom_forecast_katoomba.png" alt="BOM Forecast for Katoomba" style="width: 100%; max-width: 900px; height: auto;">
+  <img id="forecast-plot-katoomba" src="https://raw.githubusercontent.com/rmholmes/rmholmes.github.io/bom-forecast-data/images/bom_forecast_katoomba.png" alt="BOM Forecast for Katoomba" style="width: 100%; max-width: 900px; height: auto;">
 </div>
 
 <h2>Nowra</h2>
@@ -27,7 +27,7 @@ author_profile: true
   <a href="https://www.bom.gov.au/places/nsw/nowra/forecast/detailed/" target="_blank">View on BOM website</a>
 </p>
 <div style="text-align: center;">
-  <img id="forecast-plot-nowra" src="/images/bom_forecast_nowra.png" alt="BOM Forecast for Nowra" style="width: 100%; max-width: 900px; height: auto;">
+  <img id="forecast-plot-nowra" src="https://raw.githubusercontent.com/rmholmes/rmholmes.github.io/bom-forecast-data/images/bom_forecast_nowra.png" alt="BOM Forecast for Nowra" style="width: 100%; max-width: 900px; height: auto;">
 </div>
 
 <script src="/assets/js/forecast.js" defer></script>

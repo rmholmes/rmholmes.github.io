@@ -1,5 +1,7 @@
 // Load timestamp and refresh images
-fetch('/files/forecast_metadata.json')
+const FORECAST_DATA_BASE = 'https://raw.githubusercontent.com/rmholmes/rmholmes.github.io/bom-forecast-data';
+
+fetch(FORECAST_DATA_BASE + '/files/forecast_metadata.json?t=' + new Date().getTime())
   .then(r => r.json())
   .then(data => {
     if (data && data.timestamp) {
