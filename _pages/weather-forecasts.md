@@ -32,7 +32,7 @@ author_profile: true
 
 <h2>Campbelltown (Sydney)</h2>
 <p style="font-size: 12px; color: #666;">
-  <a href="https://www.bom.gov.au/location/australia/new-south-wales/metropolitan/bnsw_pt026-campbelltown" target="_blank">View on BOM website</a>
+  <a href="https://reg.bom.gov.au/places/nsw/campbelltown/forecast/detailed/" target="_blank">View on BOM website</a>
 </p>
 <div style="text-align: center;">
   <img id="forecast-plot-campbelltown" src="https://raw.githubusercontent.com/rmholmes/rmholmes.github.io/bom-forecast-data/images/bom_forecast_campbelltown.png" alt="BOM Forecast for Campbelltown (Sydney)" style="width: 100%; max-width: 900px; height: auto;">
