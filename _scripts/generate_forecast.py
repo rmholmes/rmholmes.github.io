@@ -8,7 +8,8 @@ Usage:
 Generates:
     - images/bom_forecast_katoomba.png
     - images/bom_forecast_nowra.png
-    - _data/forecast_metadata.json (timestamp)
+    - images/bom_forecast_campbelltown.png
+    - files/forecast_metadata.json (timestamp)
 """
 
 import sys
@@ -174,6 +175,7 @@ def generate_all_forecasts():
     locations = [
         {'slug': 'katoomba', 'name': 'Katoomba', 'output': 'images/bom_forecast_katoomba.png'},
         {'slug': 'nowra', 'name': 'Nowra', 'output': 'images/bom_forecast_nowra.png'},
+        {'slug': 'campbelltown', 'name': 'Campbelltown (Sydney)', 'output': 'images/bom_forecast_campbelltown.png'},
     ]
     
     metadata = {

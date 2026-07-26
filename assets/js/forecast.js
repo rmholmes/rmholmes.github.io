@@ -35,7 +35,7 @@ fetch(FORECAST_DATA_BASE + '/files/forecast_metadata.json?t=' + new Date().getTi
 // Cache bust images on load
 window.addEventListener('load', function() {
   const t = new Date().getTime();
-  const imgs = ['forecast-plot-katoomba', 'forecast-plot-nowra'];
+  const imgs = ['forecast-plot-katoomba', 'forecast-plot-nowra', 'forecast-plot-campbelltown'];
   imgs.forEach(id => {
     const img = document.getElementById(id);
     if (img) {

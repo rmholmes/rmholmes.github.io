@@ -6,4 +6,5 @@ __pycache__/
 # branch instead (see .github/workflows/update-bom-forecast.yml)
 /images/bom_forecast_katoomba.png
 /images/bom_forecast_nowra.png
+/images/bom_forecast_campbelltown.png
 /files/forecast_metadata.json

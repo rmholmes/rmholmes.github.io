@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-7-day detailed weather forecasts for climbing locations in NSW with temperature, wind, and rainfall predictions.
+7-day detailed weather forecasts for climbing locations in NSW with temperature, wind, and rainfall predictions. [About these forecasts](#about-these-forecasts)
 
 <div style="text-align: center; margin-bottom: 20px;">
   <p style="font-size: 12px; color: #666;">
@@ -28,6 +28,14 @@ author_profile: true
 </p>
 <div style="text-align: center;">
   <img id="forecast-plot-nowra" src="https://raw.githubusercontent.com/rmholmes/rmholmes.github.io/bom-forecast-data/images/bom_forecast_nowra.png" alt="BOM Forecast for Nowra" style="width: 100%; max-width: 900px; height: auto;">
+</div>
+
+<h2>Campbelltown (Sydney)</h2>
+<p style="font-size: 12px; color: #666;">
+  <a href="https://www.bom.gov.au/location/australia/new-south-wales/metropolitan/bnsw_pt026-campbelltown" target="_blank">View on BOM website</a>
+</p>
+<div style="text-align: center;">
+  <img id="forecast-plot-campbelltown" src="https://raw.githubusercontent.com/rmholmes/rmholmes.github.io/bom-forecast-data/images/bom_forecast_campbelltown.png" alt="BOM Forecast for Campbelltown (Sydney)" style="width: 100%; max-width: 900px; height: auto;">
 </div>
 
 <script src="/assets/js/forecast.js" defer></script>
