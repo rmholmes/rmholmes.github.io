@@ -13,6 +13,8 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* Richet, O.; *Holmes, R.*; Kirezci, E.; Spillman, C.: Mind the gap: providing coastal tide information for the Australian coast. Submitted to the **Journal of Southern Hemisphere Earth System Science**.
+
 * *Holmes, R.*, Griffiths, M., Spillman, C. and Wheeler, M.: Skill of subseasonal-to-seasonal wind and solar radiation forecasts over South-East Asia and Australia for renewable energy applications. Submitted to the AMS **Journal of Applied Meteorology and Climatology**. 
 
 * Bladwell, C., *Holmes, R.*, Zika, J., Griffies, S. and Kiss, A.: [Time averaging for tendency budget analysis](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3672/). Submitted to **Geoscientific Model Development**.
