@@ -13,6 +13,8 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* McDougall, T.; *Holmes, R.* and Gunn, K.: Ocean models need to parameterise the detrainment from bottom water plumes. Submitted to **Ocean Science Letters**.
+
 * Richet, O.; *Holmes, R.*; Kirezci, E.; Spillman, C.: Mind the gap: providing coastal tide information for the Australian coast. Submitted to the **Journal of Southern Hemisphere Earth System Science**.
 
 * *Holmes, R.*, Griffiths, M., Spillman, C. and Wheeler, M.: Skill of subseasonal-to-seasonal wind and solar radiation forecasts over South-East Asia and Australia for renewable energy applications. Submitted to the AMS **Journal of Applied Meteorology and Climatology**. 
