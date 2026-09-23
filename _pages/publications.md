@@ -13,6 +13,8 @@ Please see below for a publication list, including journal articles, theses, med
 
 ### Articles submitted for publication
 
+* Schmaltz, T.; Sen Gupta, A.; England, M.; *Holmes, R.* and Malan, N.: The drivers of summertime Weddell Sea marine heatwaves. Submitted to **Geophysical Research Letters**.
+
 * McDougall, T.; *Holmes, R.* and Gunn, K.: Ocean models need to parameterise the detrainment from bottom water plumes. Submitted to **Ocean Science Letters**.
 
 * Richet, O.; *Holmes, R.*; Kirezci, E.; Spillman, C.: Mind the gap: providing coastal tide information for the Australian coast. Submitted to the **Journal of Southern Hemisphere Earth System Science**.
