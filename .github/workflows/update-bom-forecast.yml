@@ -11,23 +11,23 @@ permissions:
 
 jobs:
   update-forecast:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository (master)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: main
           fetch-depth: 1
 
       - name: Checkout forecast-data branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: bom-forecast-data
           path: bom-data
           fetch-depth: 1
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
           python-version: '3.9'
 
