@@ -14,7 +14,9 @@ Generates:
 
 import sys
 import json
+import argparse
 from pathlib import Path
+import pandas as pd
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -26,7 +28,9 @@ from bom_scraper import (
     extract_forecast_data,
     prepare_forecast_data,
     get_arrow_for_direction,
-    get_arrow_color
+    get_arrow_color,
+    scrape_bom_observations,
+    prepare_bom_observations
 )
 
 import matplotlib.pyplot as plt
@@ -58,33 +62,49 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     
     print(f"Preparing data ({len(df_raw)} records)...")
     df = prepare_forecast_data(df_raw)
+
+    observations = pd.DataFrame()
+    if location == 'katoomba':
+        observations = prepare_bom_observations(scrape_bom_observations())
+        if observations.empty:
+            print('Warning: no complete Mt Boyce observation bins are available')
     
     print("Generating plot...")
     # Create figure with 3 subplots
     fig, axes = plt.subplots(3, 1, figsize=(8.5, 8))
-    fig.suptitle(f'7-Day Forecast for {location_name}', fontsize=16, fontweight='bold')
+    title = f'7-Day Forecast for {location_name}'
+    if not observations.empty:
+        title = f'2-Day Observations + 7-Day Forecast for {location_name}'
+    fig.suptitle(title, fontsize=16, fontweight='bold')
     
     df_valid = df.dropna(subset=['DateTime', 'Temperature_C'])
     
     # Plot 1: Temperature and Dew Point
     ax1 = axes[0]
-    ax1.set_title('Temperature & Dew Point Forecast')
+    ax1.set_title('Temperature & Dew Point: Observed + Forecast')
     ax1.set_ylabel('Temperature (°C)')
     
     df_temp_dew = df_valid.dropna(subset=['Dew_Point_C'])
     line1 = ax1.plot(df_temp_dew['DateTime'], df_temp_dew['Temperature_C'],
-                     color='tab:red', marker='o', linewidth=2, label='Air Temperature', markersize=5)
+                     color='tab:red', marker='o', linewidth=2, label='Forecast air temperature', markersize=5)
     line2 = ax1.plot(df_temp_dew['DateTime'], df_temp_dew['Dew_Point_C'],
-                     color='tab:blue', marker='s', linewidth=2, label='Dew Point', markersize=5, alpha=0.8)
+                     color='tab:blue', marker='s', linewidth=2, label='Forecast dew point', markersize=5, alpha=0.8)
+    if not observations.empty:
+        observed_temperature = observations.dropna(subset=['Air_Temperature_C'])
+        observed_dew_point = observations.dropna(subset=['Dew_Point_C'])
+        ax1.plot(observed_temperature['DateTime'], observed_temperature['Air_Temperature_C'],
+                 color='tab:red', marker='.', linestyle='--', linewidth=1.5,
+                 label='Observed air temperature (3-hour mean)', markersize=5)
+        ax1.plot(observed_dew_point['DateTime'], observed_dew_point['Dew_Point_C'],
+                 color='tab:blue', marker='s', linestyle='--', linewidth=1.5,
+                 label='Observed dew point (3-hour mean)', markersize=4, alpha=0.8)
     ax1.grid(True, alpha=0.3)
     
-    lines = line1 + line2
-    labels = [l.get_label() for l in lines]
-    ax1.legend(lines, labels, loc='best')
+    ax1.legend(loc='upper left', fontsize='x-small', ncol=2)
     
     # Plot 2: Wind Speed and Direction
     ax2 = axes[1]
-    ax2.set_title('Wind Speed & Direction Forecast')
+    ax2.set_title('Wind Speed & Direction: Observed + Forecast')
     
     df_wind = df_valid[df_valid['Wind_Direction'] != '–'].copy()
     df_wind = df_wind.dropna(subset=['Wind_Speed_kmh'])
@@ -111,20 +131,50 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     else:
         ax2.text(0.5, 0.5, 'No wind data', ha='center', va='center',
                 transform=ax2.transAxes)
+
+    if not observations.empty:
+        observed_wind = observations.dropna(subset=['Wind_Speed_kt'])
+        if not observed_wind.empty:
+            ax2.plot(observed_wind['DateTime'], observed_wind['Wind_Speed_kt'],
+                     color='tab:purple', marker='s', linestyle='--', linewidth=1.5,
+                     label='Observed mean wind speed', markersize=4)
+            for _, row in observed_wind.dropna(subset=['Wind_Direction']).iterrows():
+                ax2.text(mdates.date2num(row['DateTime']), row['Wind_Speed_kt'],
+                         get_arrow_for_direction(row['Wind_Direction']), fontsize=13,
+                         ha='center', va='center', color=get_arrow_color(row['Wind_Speed_kt']),
+                         weight='bold', zorder=3)
+            ax2.plot([], [], color='gray', marker=r'$\rightarrow$', linestyle='None',
+                     label='Wind direction (arrow)')
+            ax2.legend(loc='best', fontsize='small')
     
     # Plot 3: Rain Chance
     ax3 = axes[2]
-    ax3.set_title('Chance of Rain Forecast')
+    ax3.set_title('Forecast Rain Chance and Observed Rainfall')
     df_rain = df_valid.dropna(subset=['Rain_Chance_Percent'])
     if len(df_rain) > 0:
         ax3.bar(df_rain['DateTime'], df_rain['Rain_Chance_Percent'],
-               width=0.08, color='steelblue', alpha=0.7, edgecolor='navy')
+               width=0.08, color='steelblue', alpha=0.7, edgecolor='navy',
+               label='Forecast chance of rain')
         ax3.set_ylabel('Rain Probability (%)')
         ax3.set_ylim(0, 100)
         ax3.grid(True, alpha=0.3, axis='y')
     else:
         ax3.text(0.5, 0.5, 'No rain data', ha='center', va='center',
                 transform=ax3.transAxes)
+
+    if not observations.empty:
+        observed_rain = observations.dropna(subset=['Rainfall_3h_mm'])
+        if not observed_rain.empty:
+            rain_axis = ax3.twinx()
+            rain_axis.bar(observed_rain['DateTime'], observed_rain['Rainfall_3h_mm'],
+                          width=0.08, color='tab:green', alpha=0.45,
+                          label='Observed rainfall (mm / 3 hours)')
+            rain_axis.set_ylabel('Observed rainfall (mm / 3 hours)')
+            rain_axis.set_ylim(bottom=0)
+            forecast_handles, forecast_labels = ax3.get_legend_handles_labels()
+            rain_handles, rain_labels = rain_axis.get_legend_handles_labels()
+            ax3.legend(forecast_handles + rain_handles, forecast_labels + rain_labels,
+                       loc='upper right', fontsize='small')
     
     # Add afternoon shading and format axes
     def date_formatter(x, pos=None):
@@ -134,6 +184,8 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
         return f"{dt.strftime('%A')}\n{dt.day}/{dt.month}"
     
     date_range = df['DateTime'].dropna()
+    if not observations.empty:
+        date_range = pd.concat([date_range, observations['DateTime']]).dropna()
     if len(date_range) > 0:
         start_date = date_range.min().date()
         end_date = date_range.max().date()
@@ -162,8 +214,12 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
             ax.xaxis.set_ticklabels([])
             ax.set_xlabel('')
     
-    plt.tight_layout()
+    fig.text(0.5, 0.005, 'Observations: BOM Mount Boyce AWS (station 94743)',
+             ha='center', fontsize=7)
+    plt.tight_layout(rect=(0, 0.025, 1, 0.96))
+    Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     plt.savefig(output_path, dpi=100, bbox_inches='tight')
+    plt.close(fig)
     print(f"✓ Forecast plot saved to {output_path}")
 
 
@@ -227,6 +283,16 @@ def generate_all_forecasts():
 
 if __name__ == '__main__':
     try:
+        parser = argparse.ArgumentParser()
+        parser.add_argument(
+            '--katoomba-preview',
+            action='store_true',
+            help='Generate only the local Katoomba observations and forecast preview'
+        )
+        args = parser.parse_args()
+        if args.katoomba_preview:
+            generate_forecast_plot(output_path='_site/katoomba_observations_preview.png')
+            sys.exit(0)
         success = generate_all_forecasts()
         sys.exit(0 if success else 1)
     except Exception as e:

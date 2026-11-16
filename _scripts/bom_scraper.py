@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 
 # Constants
@@ -27,6 +28,12 @@ WIND_SPEED_COLORS = {
     'orange': {'threshold': 10, 'description': 'Moderate (5-10 knots)'},
     'green': {'threshold': float('inf'), 'description': 'Strong (> 10 knots)'}
 }
+
+OBSERVATION_URL = 'https://www.bom.gov.au/fwo/IDN60801/IDN60801.94743.json'
+OBSERVATION_TIMEZONE = 'Australia/Sydney'
+WIND_DIRECTIONS = ['N', 'NNE', 'NE', 'ENE', 'E', 'ESE', 'SE', 'SSE',
+                   'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW']
+WIND_BEARINGS = {direction: index * 22.5 for index, direction in enumerate(WIND_DIRECTIONS)}
 
 
 def scrape_bom_forecast(location='katoomba'):
@@ -52,6 +59,125 @@ def scrape_bom_forecast(location='katoomba'):
     except Exception as e:
         print(f"Error fetching {url}: {e}")
         return None
+
+
+def scrape_bom_observations():
+    """Fetch the latest Mt Boyce observation records from the BOM JSON feed."""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (compatible; forecast-observations/1.0)'
+    }
+
+    try:
+        response = requests.get(OBSERVATION_URL, headers=headers, timeout=15)
+        response.raise_for_status()
+        records = response.json()['observations']['data']
+        if not isinstance(records, list):
+            raise ValueError('BOM observation data is not a list')
+        return records
+    except Exception as e:
+        print(f"Error fetching Mt Boyce observations: {e}")
+        return []
+
+
+def prepare_bom_observations(records, now=None):
+    """Aggregate Mt Boyce observations into Sydney-local 3-hour bins.
+
+    Bins are right-closed and labeled at their end time, matching forecast
+    valid-time labels. Bins with fewer than three observations are omitted.
+    """
+    columns = [
+        'DateTime', 'Air_Temperature_C', 'Dew_Point_C', 'Humidity_Percent',
+        'Wind_Speed_kt', 'Wind_Gust_kt', 'Wind_Direction', 'Rainfall_3h_mm',
+        'Observation_Count'
+    ]
+    if not records:
+        return pd.DataFrame(columns=columns)
+
+    observations = pd.DataFrame(records)
+    if 'aifstime_utc' not in observations:
+        return pd.DataFrame(columns=columns)
+
+    timestamps = pd.to_datetime(
+        observations['aifstime_utc'],
+        format='%Y%m%d%H%M%S',
+        errors='coerce',
+        utc=True
+    )
+    observations['DateTime'] = timestamps.dt.tz_convert(OBSERVATION_TIMEZONE)
+    observations = observations.dropna(subset=['DateTime'])
+    observations = observations.sort_values('DateTime').drop_duplicates(
+        'DateTime', keep='last'
+    )
+    observations['DateTime'] = observations['DateTime'].dt.tz_localize(None)
+
+    source_columns = {
+        'air_temp': 'Air_Temperature_C',
+        'dewpt': 'Dew_Point_C',
+        'rel_hum': 'Humidity_Percent',
+        'wind_spd_kt': 'Wind_Speed_kt',
+        'gust_kt': 'Wind_Gust_kt',
+        'rain_trace': 'Rain_Trace_mm'
+    }
+    for source, target in source_columns.items():
+        observations[target] = pd.to_numeric(observations.get(source), errors='coerce')
+
+    direction_bearing = observations.get('wind_dir', pd.Series(index=observations.index))
+    direction_radians = np.deg2rad(direction_bearing.map(WIND_BEARINGS))
+    wind_speed = observations['Wind_Speed_kt']
+    observations['Wind_Eastward'] = -np.sin(direction_radians) * wind_speed
+    observations['Wind_Northward'] = -np.cos(direction_radians) * wind_speed
+    observations['Observation_Count'] = 1
+
+    rain_trace = observations['Rain_Trace_mm']
+    previous_rain = rain_trace.ffill().shift(1)
+    rainfall_change = rain_trace - previous_rain
+    rainfall_change = rainfall_change.where(rainfall_change >= 0, rain_trace)
+    observations['Rainfall_Increment_mm'] = rainfall_change.fillna(0).clip(lower=0)
+
+    indexed = observations.set_index('DateTime')
+    bins = indexed.resample('3h', closed='right', label='right', origin='start_day')
+    aggregate_columns = [
+        'Air_Temperature_C', 'Dew_Point_C', 'Humidity_Percent', 'Wind_Speed_kt',
+        'Wind_Eastward', 'Wind_Northward'
+    ]
+    aggregated = bins[aggregate_columns].mean()
+    aggregated['Wind_Gust_kt'] = bins['Wind_Gust_kt'].max()
+    aggregated['Rainfall_3h_mm'] = bins['Rainfall_Increment_mm'].sum()
+    aggregated['Observation_Count'] = bins['Observation_Count'].sum()
+
+    bearing = np.degrees(np.arctan2(
+        -aggregated['Wind_Eastward'], -aggregated['Wind_Northward']
+    )) % 360
+
+    def compass_direction(value):
+        if pd.isna(value):
+            return np.nan
+        index = int(np.floor((value + 11.25) / 22.5)) % len(WIND_DIRECTIONS)
+        return WIND_DIRECTIONS[index]
+
+    aggregated['Wind_Direction'] = bearing.map(compass_direction)
+    incomplete = aggregated['Observation_Count'] < 3
+    result_columns = [
+        'Air_Temperature_C', 'Dew_Point_C', 'Humidity_Percent', 'Wind_Speed_kt',
+        'Wind_Gust_kt', 'Rainfall_3h_mm', 'Wind_Direction'
+    ]
+    aggregated.loc[incomplete, result_columns] = np.nan
+
+    timezone = ZoneInfo(OBSERVATION_TIMEZONE)
+    if now is None:
+        now = pd.Timestamp.now(tz=timezone).tz_localize(None)
+    else:
+        now = pd.Timestamp(now)
+        if now.tzinfo is not None:
+            now = now.tz_convert(timezone).tz_localize(None)
+
+    last_complete_bin = now.floor('3h')
+    first_bin = last_complete_bin - pd.Timedelta(hours=48)
+    aggregated = aggregated.loc[
+        (aggregated.index > first_bin) & (aggregated.index <= last_complete_bin)
+    ].copy()
+    aggregated['DateTime'] = aggregated.index
+    return aggregated.reset_index(drop=True)[columns]
 
 
 def extract_forecast_data(soup):
