@@ -36,6 +36,8 @@ from bom_scraper import (
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib.ticker import FuncFormatter
+from matplotlib.lines import Line2D
+from matplotlib.legend_handler import HandlerTuple
 from datetime import timedelta
 
 
@@ -83,7 +85,7 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     fig, axes = plt.subplots(3, 1, figsize=(8.5, 8))
     title = f'7-Day Forecast for {location_name}'
     if not observations.empty:
-        title = f'2-Day Observations + 7-Day Forecast for {location_name}'
+        title = f'7-Day Forecast + 2-Day Observations for {location_name}'
     fig.suptitle(title, fontsize=16, fontweight='bold')
     
     df_valid = df.dropna(subset=['DateTime', 'Temperature_C'])
@@ -170,10 +172,19 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
         observed_rain = observations.dropna(subset=['Rainfall_3h_mm'])
         amount_cols = ['Rain_50pc_mm', 'Rain_25pc_mm', 'Rain_10pc_mm']
         forecast_amounts = pd.DataFrame()
+        amount_slots = pd.DataFrame()
         if all(col in df_valid.columns for col in amount_cols):
-            forecast_amounts = df_valid.dropna(subset=amount_cols)
-            forecast_amounts = forecast_amounts[forecast_amounts['Rain_10pc_mm'] > 0]
-        if not observed_rain.empty or not forecast_amounts.empty:
+            amount_slots = df_valid.dropna(subset=amount_cols)
+            forecast_amounts = amount_slots[amount_slots['Rain_10pc_mm'] > 0]
+        if not amount_slots.empty:
+            # Mark the 3-hour slots for which BOM provides rainfall exceedance
+            # amounts (including zeros), so their absence isn't read as "no rain"
+            for k, slot_time in enumerate(amount_slots['DateTime']):
+                start = mdates.date2num(slot_time - timedelta(hours=1.5))
+                end = mdates.date2num(slot_time + timedelta(hours=1.5))
+                ax3.plot([start, end], [0.975, 0.975], transform=ax3.get_xaxis_transform(),
+                         color='darkgreen', linewidth=4, solid_capstyle='butt', zorder=6)
+        if not observed_rain.empty or not amount_slots.empty:
             rain_axis = ax3.twinx()
             y_max = 1.0
             if not observed_rain.empty:
@@ -193,16 +204,23 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
                     rain_axis.plot(x_forecast, forecast_amounts[col], linestyle='None',
                                    marker='_', markersize=cap, markeredgewidth=1.4,
                                    color='darkgreen', zorder=5)
-                rain_axis.plot([], [], color='darkgreen', marker='_', markersize=8,
-                               markeredgewidth=1.4,
-                               label='Forecast 50/25/10% exceedance')
                 y_max = max(y_max, forecast_amounts['Rain_10pc_mm'].max() * 1.1)
             rain_axis.set_ylabel('Rainfall (mm / 3 hours)')
             rain_axis.set_ylim(0, y_max)
             forecast_handles, forecast_labels = ax3.get_legend_handles_labels()
             rain_handles, rain_labels = rain_axis.get_legend_handles_labels()
+            if not amount_slots.empty:
+                # One entry for both the availability bar and the exceedance glyph
+                exceedance_handle = (
+                    Line2D([], [], color='darkgreen', linewidth=4, solid_capstyle='butt'),
+                    Line2D([], [], color='darkgreen', linewidth=1.2, marker='_',
+                           markersize=8, markeredgewidth=1.4),
+                )
+                forecast_handles.append(exceedance_handle)
+                forecast_labels.append('Forecast 50/25/10% exceedance')
             ax3.legend(forecast_handles + rain_handles, forecast_labels + rain_labels,
-                       loc='upper right', fontsize='small')
+                       loc='upper right', fontsize='small',
+                       handler_map={tuple: HandlerTuple(ndivide=None, pad=0)})
 
     # Add afternoon shading and format axes
     def date_formatter(x, pos=None):
