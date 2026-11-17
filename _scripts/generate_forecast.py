@@ -86,21 +86,21 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     
     df_temp_dew = df_valid.dropna(subset=['Dew_Point_C'])
     line1 = ax1.plot(df_temp_dew['DateTime'], df_temp_dew['Temperature_C'],
-                     color='tab:red', marker='o', linewidth=2, label='Forecast air temperature', markersize=5)
+                     color='tab:red', marker='o', linewidth=2, label='Air temperature', markersize=5)
     line2 = ax1.plot(df_temp_dew['DateTime'], df_temp_dew['Dew_Point_C'],
-                     color='tab:blue', marker='s', linewidth=2, label='Forecast dew point', markersize=5, alpha=0.8)
+                     color='tab:blue', marker='s', linewidth=2, label='Dew point', markersize=5, alpha=0.8)
     if not observations.empty:
         observed_temperature = observations.dropna(subset=['Air_Temperature_C'])
         observed_dew_point = observations.dropna(subset=['Dew_Point_C'])
         ax1.plot(observed_temperature['DateTime'], observed_temperature['Air_Temperature_C'],
                  color='tab:red', marker='.', linestyle='--', linewidth=1.5,
-                 label='Observed air temperature (3-hour mean)', markersize=5)
+                 markersize=5)
         ax1.plot(observed_dew_point['DateTime'], observed_dew_point['Dew_Point_C'],
                  color='tab:blue', marker='s', linestyle='--', linewidth=1.5,
-                 label='Observed dew point (3-hour mean)', markersize=4, alpha=0.8)
+                 markersize=2.5, alpha=0.8)
     ax1.grid(True, alpha=0.3)
     
-    ax1.legend(loc='upper left', fontsize='x-small', ncol=2)
+    ax1.legend(handles=line1 + line2, loc='lower right', fontsize='small')
     
     # Plot 2: Wind Speed and Direction
     ax2 = axes[1]
@@ -135,17 +135,12 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     if not observations.empty:
         observed_wind = observations.dropna(subset=['Wind_Speed_kt'])
         if not observed_wind.empty:
-            ax2.plot(observed_wind['DateTime'], observed_wind['Wind_Speed_kt'],
-                     color='tab:purple', marker='s', linestyle='--', linewidth=1.5,
-                     label='Observed mean wind speed', markersize=4)
+            ax2.set_ylim(0, max(ax2.get_ylim()[1], observed_wind['Wind_Speed_kt'].max() * 1.2))
             for _, row in observed_wind.dropna(subset=['Wind_Direction']).iterrows():
                 ax2.text(mdates.date2num(row['DateTime']), row['Wind_Speed_kt'],
                          get_arrow_for_direction(row['Wind_Direction']), fontsize=13,
                          ha='center', va='center', color=get_arrow_color(row['Wind_Speed_kt']),
                          weight='bold', zorder=3)
-            ax2.plot([], [], color='gray', marker=r'$\rightarrow$', linestyle='None',
-                     label='Wind direction (arrow)')
-            ax2.legend(loc='best', fontsize='small')
     
     # Plot 3: Rain Chance
     ax3 = axes[2]
@@ -170,7 +165,7 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
                           width=0.08, color='tab:green', alpha=0.45,
                           label='Observed rainfall (mm / 3 hours)')
             rain_axis.set_ylabel('Observed rainfall (mm / 3 hours)')
-            rain_axis.set_ylim(bottom=0)
+            rain_axis.set_ylim(0, max(1.0, observed_rain['Rainfall_3h_mm'].max() * 1.05))
             forecast_handles, forecast_labels = ax3.get_legend_handles_labels()
             rain_handles, rain_labels = rain_axis.get_legend_handles_labels()
             ax3.legend(forecast_handles + rain_handles, forecast_labels + rain_labels,
@@ -201,6 +196,11 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
             
             current_date += timedelta(days=1)
     
+    if len(date_range) > 0:
+        x_limits = (mdates.date2num(date_range.min()) - 0.1, mdates.date2num(date_range.max()) + 0.1)
+        for ax in axes:
+            ax.set_xlim(x_limits)
+
     for i, ax in enumerate(axes):
         ax.xaxis.set_major_locator(mdates.HourLocator(byhour=[12]))
         ax.xaxis.set_minor_locator(mdates.HourLocator(byhour=[0]))
@@ -214,6 +214,19 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
             ax.xaxis.set_ticklabels([])
             ax.set_xlabel('')
     
+    if not observations.empty:
+        # Current time marks the transition from observations to forecast
+        now_local = datetime.now(ZoneInfo('Australia/Sydney')).replace(tzinfo=None)
+        for ax in axes:
+            ax.axvline(mdates.date2num(now_local), color='black', linestyle=':',
+                       linewidth=1.5, zorder=4)
+        axes[0].annotate('◄ observed', xy=(mdates.date2num(now_local), 0.94),
+                         xycoords=('data', 'axes fraction'), xytext=(-4, 0),
+                         textcoords='offset points', ha='right', va='top', fontsize=7, style='italic')
+        axes[0].annotate('forecast ►', xy=(mdates.date2num(now_local), 0.94),
+                         xycoords=('data', 'axes fraction'), xytext=(4, 0),
+                         textcoords='offset points', ha='left', va='top', fontsize=7, style='italic')
+
     fig.text(0.5, 0.005, 'Observations: BOM Mount Boyce AWS (station 94743)',
              ha='center', fontsize=7)
     plt.tight_layout(rect=(0, 0.025, 1, 0.96))
