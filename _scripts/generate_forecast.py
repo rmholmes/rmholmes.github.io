@@ -81,7 +81,7 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     
     # Plot 1: Temperature and Dew Point
     ax1 = axes[0]
-    ax1.set_title('Temperature & Dew Point: Observed + Forecast')
+    ax1.set_title('Temperature & Dew Point')
     ax1.set_ylabel('Temperature (°C)')
     
     df_temp_dew = df_valid.dropna(subset=['Dew_Point_C'])
@@ -104,7 +104,7 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     
     # Plot 2: Wind Speed and Direction
     ax2 = axes[1]
-    ax2.set_title('Wind Speed & Direction: Observed + Forecast')
+    ax2.set_title('Wind Speed & Direction')
     
     df_wind = df_valid[df_valid['Wind_Direction'] != '–'].copy()
     df_wind = df_wind.dropna(subset=['Wind_Speed_kmh'])
@@ -144,12 +144,12 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     
     # Plot 3: Rain Chance
     ax3 = axes[2]
-    ax3.set_title('Forecast Rain Chance and Observed Rainfall')
+    ax3.set_title('Rainfall')
     df_rain = df_valid.dropna(subset=['Rain_Chance_Percent'])
     if len(df_rain) > 0:
         ax3.bar(df_rain['DateTime'], df_rain['Rain_Chance_Percent'],
                width=0.08, color='steelblue', alpha=0.7, edgecolor='navy',
-               label='Forecast chance of rain')
+               label='Forecast probability')
         ax3.set_ylabel('Rain Probability (%)')
         ax3.set_ylim(0, 100)
         ax3.grid(True, alpha=0.3, axis='y')
@@ -159,18 +159,42 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
 
     if not observations.empty:
         observed_rain = observations.dropna(subset=['Rainfall_3h_mm'])
-        if not observed_rain.empty:
+        amount_cols = ['Rain_50pc_mm', 'Rain_25pc_mm', 'Rain_10pc_mm']
+        forecast_amounts = pd.DataFrame()
+        if all(col in df_valid.columns for col in amount_cols):
+            forecast_amounts = df_valid.dropna(subset=amount_cols)
+            forecast_amounts = forecast_amounts[forecast_amounts['Rain_10pc_mm'] > 0]
+        if not observed_rain.empty or not forecast_amounts.empty:
             rain_axis = ax3.twinx()
-            rain_axis.bar(observed_rain['DateTime'], observed_rain['Rainfall_3h_mm'],
-                          width=0.08, color='tab:green', alpha=0.45,
-                          label='Observed rainfall (mm / 3 hours)')
-            rain_axis.set_ylabel('Observed rainfall (mm / 3 hours)')
-            rain_axis.set_ylim(0, max(1.0, observed_rain['Rainfall_3h_mm'].max() * 1.05))
+            y_max = 1.0
+            if not observed_rain.empty:
+                rain_axis.bar(observed_rain['DateTime'], observed_rain['Rainfall_3h_mm'],
+                              width=0.08, color='tab:green', alpha=0.45,
+                              label='Observed')
+                y_max = max(y_max, observed_rain['Rainfall_3h_mm'].max() * 1.05)
+            if not forecast_amounts.empty:
+                # Line from the 50% exceedance level up to the 10% exceedance level
+                x_forecast = forecast_amounts['DateTime']
+                rain_axis.vlines(x_forecast, forecast_amounts['Rain_50pc_mm'],
+                                 forecast_amounts['Rain_10pc_mm'],
+                                 color='darkgreen', linewidth=1.2, zorder=5)
+                # Cross lines at the 50% (wide) and 25% (narrow) levels; the line
+                # itself simply ends at the 10% level
+                for col, cap in zip(('Rain_50pc_mm', 'Rain_25pc_mm'), (7, 4)):
+                    rain_axis.plot(x_forecast, forecast_amounts[col], linestyle='None',
+                                   marker='_', markersize=cap, markeredgewidth=1.4,
+                                   color='darkgreen', zorder=5)
+                rain_axis.plot([], [], color='darkgreen', marker='_', markersize=8,
+                               markeredgewidth=1.4,
+                               label='Forecast 50/25/10% exceedance')
+                y_max = max(y_max, forecast_amounts['Rain_10pc_mm'].max() * 1.1)
+            rain_axis.set_ylabel('Rainfall (mm / 3 hours)')
+            rain_axis.set_ylim(0, y_max)
             forecast_handles, forecast_labels = ax3.get_legend_handles_labels()
             rain_handles, rain_labels = rain_axis.get_legend_handles_labels()
             ax3.legend(forecast_handles + rain_handles, forecast_labels + rain_labels,
                        loc='upper right', fontsize='small')
-    
+
     # Add afternoon shading and format axes
     def date_formatter(x, pos=None):
         dt = mdates.num2date(x)
@@ -222,10 +246,10 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
                        linewidth=1.5, zorder=4)
         axes[0].annotate('◄ observed', xy=(mdates.date2num(now_local), 0.94),
                          xycoords=('data', 'axes fraction'), xytext=(-4, 0),
-                         textcoords='offset points', ha='right', va='top', fontsize=7, style='italic')
+                         textcoords='offset points', ha='right', va='top', fontsize=9, style='italic')
         axes[0].annotate('forecast ►', xy=(mdates.date2num(now_local), 0.94),
                          xycoords=('data', 'axes fraction'), xytext=(4, 0),
-                         textcoords='offset points', ha='left', va='top', fontsize=7, style='italic')
+                         textcoords='offset points', ha='left', va='top', fontsize=9, style='italic')
 
     fig.text(0.5, 0.005, 'Observations: BOM Mount Boyce AWS (station 94743)',
              ha='center', fontsize=7)

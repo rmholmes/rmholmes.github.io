@@ -286,6 +286,16 @@ def extract_forecast_data(soup):
                 rain_chances = [c.get_text(strip=True) for c in rain_cells]
                 break
         
+        # Extract forecast rainfall amounts exceeded at 50%/25%/10% probability
+        rain_amounts = {'50': [], '25': [], '10': []}
+        for row in rainfall_rows:
+            label_cell = row.find(['th', 'td'])
+            label = label_cell.get_text().lower() if label_cell else ''
+            for level in rain_amounts:
+                if label.startswith(f'{level}% chance of more than'):
+                    cells = row.find_all(['td', 'th'])[1:]
+                    rain_amounts[level] = [c.get_text(strip=True) for c in cells]
+
         # Create consolidated records (one per time slot)
         for i, time in enumerate(times):
             record = {
@@ -299,6 +309,8 @@ def extract_forecast_data(soup):
                 'Dew_Point_C': dew_points[i] if i < len(dew_points) else '',
                 'Rain_Chance_Percent': rain_chances[i] if i < len(rain_chances) else ''
             }
+            for level, values in rain_amounts.items():
+                record[f'Rain_{level}pc_mm'] = values[i] if i < len(values) else ''
             consolidated_data.append(record)
     
     return pd.DataFrame(consolidated_data)
@@ -340,8 +352,10 @@ def prepare_forecast_data(df, base_date=None):
     df = df.copy()
     
     # Convert numeric columns
-    for col in ['Temperature_C', 'Dew_Point_C', 'Wind_Speed_kmh', 'Humidity_Percent', 'Rain_Chance_Percent']:
-        df[col] = df[col].apply(to_numeric)
+    for col in ['Temperature_C', 'Dew_Point_C', 'Wind_Speed_kmh', 'Humidity_Percent', 'Rain_Chance_Percent',
+                'Rain_50pc_mm', 'Rain_25pc_mm', 'Rain_10pc_mm']:
+        if col in df.columns:
+            df[col] = df[col].apply(to_numeric)
     
     # Create DateTime index combining Date_String (if available) or Day, and Time columns
     if 'Date_String' not in df.columns:
