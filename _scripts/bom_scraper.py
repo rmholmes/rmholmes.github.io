@@ -29,7 +29,7 @@ WIND_SPEED_COLORS = {
     'green': {'threshold': float('inf'), 'description': 'Strong (> 10 knots)'}
 }
 
-OBSERVATION_URL = 'https://www.bom.gov.au/fwo/IDN60801/IDN60801.94743.json'
+OBSERVATION_URL = 'https://www.bom.gov.au/fwo/IDN60801/IDN60801.{station_id}.json'
 OBSERVATION_TIMEZONE = 'Australia/Sydney'
 WIND_DIRECTIONS = ['N', 'NNE', 'NE', 'ENE', 'E', 'ESE', 'SE', 'SSE',
                    'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW']
@@ -61,26 +61,26 @@ def scrape_bom_forecast(location='katoomba'):
         return None
 
 
-def scrape_bom_observations():
-    """Fetch the latest Mt Boyce observation records from the BOM JSON feed."""
+def scrape_bom_observations(station_id):
+    """Fetch the latest observation records for a BOM station from its JSON feed."""
     headers = {
         'User-Agent': 'Mozilla/5.0 (compatible; forecast-observations/1.0)'
     }
 
     try:
-        response = requests.get(OBSERVATION_URL, headers=headers, timeout=15)
+        response = requests.get(OBSERVATION_URL.format(station_id=station_id), headers=headers, timeout=15)
         response.raise_for_status()
         records = response.json()['observations']['data']
         if not isinstance(records, list):
             raise ValueError('BOM observation data is not a list')
         return records
     except Exception as e:
-        print(f"Error fetching Mt Boyce observations: {e}")
+        print(f"Error fetching observations for station {station_id}: {e}")
         return []
 
 
 def prepare_bom_observations(records, now=None):
-    """Aggregate Mt Boyce observations into Sydney-local 3-hour bins.
+    """Aggregate station observations into Sydney-local 3-hour bins.
 
     Bins are right-closed and labeled at their end time, matching forecast
     valid-time labels. Bins with fewer than three observations are omitted.

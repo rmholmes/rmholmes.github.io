@@ -39,6 +39,14 @@ from matplotlib.ticker import FuncFormatter
 from datetime import timedelta
 
 
+# BOM observation stations used alongside each forecast location
+OBSERVATION_STATIONS = {
+    'katoomba': {'id': '94743', 'name': 'Mount Boyce'},
+    'nowra': {'id': '94750', 'name': 'Nowra'},
+    'campbelltown': {'id': '94757', 'name': 'Campbelltown'},
+}
+
+
 def generate_forecast_plot(location='katoomba', location_name='Katoomba', output_path='images/bom_forecast_katoomba.png'):
     """
     Generate and save a 3-panel BOM forecast plot.
@@ -64,10 +72,11 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
     df = prepare_forecast_data(df_raw)
 
     observations = pd.DataFrame()
-    if location == 'katoomba':
-        observations = prepare_bom_observations(scrape_bom_observations())
+    station = OBSERVATION_STATIONS.get(location)
+    if station:
+        observations = prepare_bom_observations(scrape_bom_observations(station['id']))
         if observations.empty:
-            print('Warning: no complete Mt Boyce observation bins are available')
+            print(f"Warning: no complete {station['name']} observation bins are available")
     
     print("Generating plot...")
     # Create figure with 3 subplots
@@ -251,8 +260,10 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
                          xycoords=('data', 'axes fraction'), xytext=(4, 0),
                          textcoords='offset points', ha='left', va='top', fontsize=9, style='italic')
 
-    fig.text(0.5, 0.005, 'Observations: BOM Mount Boyce AWS (station 94743)',
-             ha='center', fontsize=7)
+    if station and not observations.empty:
+        fig.text(0.5, 0.005,
+                 f"Observations: BOM {station['name']} AWS (station {station['id']})",
+                 ha='center', fontsize=7)
     plt.tight_layout(rect=(0, 0.025, 1, 0.96))
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     plt.savefig(output_path, dpi=100, bbox_inches='tight')
