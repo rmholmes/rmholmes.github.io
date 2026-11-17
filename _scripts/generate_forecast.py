@@ -205,6 +205,12 @@ def generate_forecast_plot(location='katoomba', location_name='Katoomba', output
                                    marker='_', markersize=cap, markeredgewidth=1.4,
                                    color='darkgreen', zorder=5)
                 y_max = max(y_max, forecast_amounts['Rain_10pc_mm'].max() * 1.1)
+            # Rainfall amounts (observed + early forecast) on the left; forecast
+            # probabilities (full 7 days) on the right
+            rain_axis.yaxis.tick_left()
+            rain_axis.yaxis.set_label_position('left')
+            ax3.yaxis.tick_right()
+            ax3.yaxis.set_label_position('right')
             rain_axis.set_ylabel('Rainfall (mm / 3 hours)')
             rain_axis.set_ylim(0, y_max)
             forecast_handles, forecast_labels = ax3.get_legend_handles_labels()
