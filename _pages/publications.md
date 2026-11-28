@@ -17,7 +17,7 @@ Please see below for a publication list, including journal articles, theses, med
 
 * Holmes, R.; Greenslade, D.; Colberg, F.; Richet, O. and Cabral, I.: Uplifting the Bureau's National Storm Surge System: Case study verification and improved post-processing. **Bureau Research Report**. In review.
 
-* Schmaltz, T.; Sen Gupta, A.; England, M.; *Holmes, R.* and Malan, N.: The drivers of summertime Weddell Sea marine heatwaves. Submitted to **Geophysical Research Letters**.
+* Schmaltz, T.; Sen Gupta, A.; England, M.; *Holmes, R.* and Malan, N.: [The drivers of summertime Weddell Sea marine heatwaves](https://essopenarchive.org/doi/abs/10.22541/essoar.15012714/v1). Submitted to **Geophysical Research Letters**.
 
 * McDougall, T.; *Holmes, R.* and Gunn, K.: [Ocean models need to parameterise the detrainment from bottom water plumes](https://doi.org/10.5194/egusphere-2026-6924). Submitted to **Ocean Science Letters**.
 
